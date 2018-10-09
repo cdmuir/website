@@ -3,7 +3,7 @@ title = "Aloha World!"
 
 date = 2018-10-08T00:00:00
 lastmod = 2018-10-08T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chris Muir"]
