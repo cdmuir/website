@@ -3,13 +3,13 @@
 date = 2018-10-08T00:00:00
 
 # Project title.
-title = "Macroevolutionary physiology: variation and constraint on stomatal evolution"
+title = "Variation and constraint on stomatal evolution"
 
 # Project summary to display on homepage.
 summary = "Using stomata to study phenotypic evolution."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-# image_preview = "bubbles.jpg"
+image_preview = "pimpinellifolium_upper_stomata.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -19,7 +19,7 @@ tags = ["macroevolution", "stomata"]
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]

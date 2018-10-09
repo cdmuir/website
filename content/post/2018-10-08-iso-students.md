@@ -12,12 +12,12 @@ tags = ["recruiting"]
 summary = "Recruiting MS and PhD Students!"
 +++
 
-I am recruiting MS and PhD students in my lab to start Fall 2020. I am broadly interested in solving basic problems in evolutionary physiology using plant systems and quantitative approaches. Check out my [projects](LINK) page for more information on current work. I am enthusiastic to supervise students who want to work on an existing system in the lab, but I also welcome opportunities to supervise students who want to study Hawaiian plants. 
+I am recruiting MS and PhD students in my lab to start Fall 2020. I am broadly interested in solving basic problems in evolutionary physiology using plant systems and quantitative approaches. Check out my [projects]( {{< ref "project" >}}) page for more information on current work. I am enthusiastic to supervise students who want to work on an existing system in the lab, but I also welcome opportunities to supervise students who want to study Hawaiian plants. 
 
 ## How to apply
 
 1. [Email me](mailto:cdmuir@hawaii.edu) with a short expression of interest.
-2. Check out [application instructions](LINK) on the UH Botany webpage.
+2. Check out [application instructions](http://www.botany.hawaii.edu/graduate-program/) on the UH Botany webpage.
 
 ## Resources
 
