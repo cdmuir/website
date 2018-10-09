@@ -1,9 +1,9 @@
 +++
 title = "ISO Awesome Scientists to Join the Lab"
 
-date = 2018-10-08T00:00:00
-lastmod = 2018-10-08T00:00:00
-draft = true
+date = 2018-10-09T00:00:00
+lastmod = 2018-10-09T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chris Muir"]
