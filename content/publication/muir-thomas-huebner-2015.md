@@ -1,6 +1,6 @@
 +++
 title = "Constraint around Quarter-Power Allometric Scaling in Wild Tomatoes (Solanum sect. Lycopersicon; Solanaceae)"
-date = 2017-10-04T00:00:00
+date = 2015-10-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["CD Muir", "M Thomas-Huebner"]
@@ -64,5 +64,3 @@ image = ""
 caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
