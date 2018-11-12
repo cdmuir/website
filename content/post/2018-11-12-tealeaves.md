@@ -8,6 +8,8 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chris Muir"]
 
+math = true
+
 tags = ["plant physiology", "rstats", "tealeaves"]
 summary = "An R package to model leaf temperature"
 +++
