@@ -24,7 +24,7 @@ This package is one part of a larger suite of packages I'm developing to model l
 
 The concept for this package is that it simply does one thing (model leaf temperature) well and almost nothing else. In a perfect world, you supply parameters to one or two functions and retrieve a tidy data.frame with everything you need for further analysis. Other than hopefully creating an easy R interface for leaf temperature, `tealeaves` has three advantageous features I haven't seen in other package:
 
-1. It uses the R packages [`units`](https://cran.r-project.org/web/packages/units/index.html) to ensure that all parameters are specified and calculated properly. If nothing else, this helps catch errors in the equations, as most errors will totally mess up the units. It also disambiguates calculations. For example, if you see something like:
+- It uses the R packages [`units`](https://cran.r-project.org/web/packages/units/index.html) to ensure that all parameters are specified and calculated properly. If nothing else, this helps catch errors in the equations, as most errors will totally mess up the units. It also disambiguates calculations. For example, if you see something like:
 
 ```{r bad, echo = TRUE, eval = FALSE}
 
@@ -48,9 +48,9 @@ VPD %<>% set_units("Pa")
 
 ```
 
-2. `tealeaves` allows boundary layer conductances to heat and water vapour to vary between lower and upper leaf surfaces. This is important because leaf surfaces are often not identical, nor are the microclimates surrounding them. For example, stomatal conductance may be partitioned evenly between surfaces, or all on one surface, or somewhere in between. 
+- `tealeaves` allows boundary layer conductances to heat and water vapour to vary between lower and upper leaf surfaces. This is important because leaf surfaces are often not identical, nor are the microclimates surrounding them. For example, stomatal conductance may be partitioned evenly between surfaces, or all on one surface, or somewhere in between. 
 
-3. `tealeaves` uses the `tidyr::crossing` function to easily creating (multiple) environmental and/or trait gradients over which to model leaf temperature. 
+- `tealeaves` uses the `tidyr::crossing` function to easily creating (multiple) environmental and/or trait gradients over which to model leaf temperature. 
 
 ## Help!
 
