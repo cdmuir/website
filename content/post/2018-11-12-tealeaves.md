@@ -2,7 +2,7 @@
 title = "New R Package: tealeaves"
 
 date = 2018-11-12T00:00:00
-lastmod = 2018-11-12T00:00:00
+lastmod = 2018-11-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -12,6 +12,9 @@ math = true
 
 tags = ["plant physiology", "rstats", "tealeaves"]
 summary = "An R package to model leaf temperature"
+
+[header]
+  image = "tealeaves-hex-sticker.png"
 +++
 
 I'm excited to release the first lab "product", an R package called `tealeaves` that models leaf temperature by balancing leaf energy budgets. The name originates from the fact that leaf temperature is often abbreviated $T_\text{leaf}$ (said "tee leaf"). I won't delve into the details of leaf energy balance here, suffice to say, it can get complex. If you want to learn more about the package and start using it right away, check out the [GitHub](https://github.com/cdmuir/tealeaves) repo. Please note that this package is a **work in progress** and will be updated regularly over the next couple months. In this post, I'll briefly go over my motivation for developing this package and extol some of its virtues.

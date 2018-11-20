@@ -17,4 +17,6 @@ weight = 60
 
 I am teaching the following courses at the University of Hawai'i:
 
-- BIO297/BOT297: Biostatistics (Spring 2019)
+- BOT455: Analysis of Biological Data (Spring 2019) \\
+MWF 10:30-11:20 \\
+St. John 007
