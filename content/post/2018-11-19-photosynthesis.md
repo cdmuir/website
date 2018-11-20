@@ -12,12 +12,12 @@ math = true
 
 tags = ["plant physiology", "photosynthesis", "rstats"]
 summary = "An R package to simulate C3 photosynthesis"
-
-[header]
-  image = "photosynthesis-hex-sticker.png"
 +++
 
-I'm excited to release an R package called `photosynthesis`. It's very much a work-in-progress, but it simulates C3 photosynthesis using the classic Farquhar-von Caemmerer-Berry (FvCB) biochemical model. The structure and syntax closely follows that of the [tealeaves]({{< ref "post/2018-11-12-tealeaves" >}}) package I released last week (even much of this blog post is copied-and-pasted from that). Indeed, the idea is that you can use these two packages together to simultaneously model leaf temperature, transpiration, and photosynthetic rate. I'll demonstrate their integration shortly, but I want to show `photosynthesis`'s standalone utility here. To learn more about the package and start using it right away, check out the [GitHub](https://github.com/cdmuir/photosynthesis) repo. Please note that this package is a **work in progress** and will be updated regularly over the next couple months. In this post, I'll briefly go over my motivation for developing this package and extol some of its virtues.
+
+<H ALIGN=right> <img alt = 'hex sticker' width='200' display='inline-block' src='/img/photosynthesis-hex-sticker.png' /> </H>
+
+I'm excited to release an R package called `photosynthesis`. It's very much a work-in-progress, but it simulates C3 photosynthesis using the classic Farquhar-von Caemmerer-Berry (FvCB) biochemical model. The structure and syntax closely follows that of the [tealeaves]({{< ref "post/2018-11-12-tealeaves" >}}) package I released last week (even much of this blog post is copied-and-pasted from that). Indeed, the idea is that you can use these two packages together to simultaneously model leaf temperature, transpiration, and photosynthetic rate. I'll demonstrate their integration shortly, but I want to show `photosynthesis`'s standalone utility here. To learn more about the package and start using it right away, check out the [GitHub](https://github.com/cdmuir/photosynthesis) repo. Please note that this package is a **work in progress** and will be updated regularly over the next couple months. In this post, I'll briefly go over my motivation for developing this package and extol some of its virtues. 
 
 ## Motivation
 
