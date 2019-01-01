@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-09-16T00:00:00
+date = 2019-01-01T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -30,5 +30,4 @@ weight = 5
 
 # About the Quantitative Evolutionary Physiology Lab
 
-I am starting a new lab in the [Department of Botany](http://www.botany.hawaii.edu/) at the University of Hawai'i in beautiful M&amacr;noa. Please check back for updates.
-
+My lab is located in the [Department of Botany](http://www.botany.hawaii.edu/) at the University of Hawai'i in beautiful M&amacr;noa. We study how plants work and why they evolved to work that way using a combination of experimental, comparative, and quantitative approaches. Please check out the [Projects]({{< ref "#projects">}}) page for more information on current research. If these types of questions interest you, please [contact me](mailto:cdmuir@hawaii.edu) about working together!
