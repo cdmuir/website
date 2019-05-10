@@ -13,7 +13,7 @@ title = "Quantitative Evolutionary Physiology Lab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -68,8 +68,8 @@ enableGitInfo = false
   avatar = "chris-ferry-cropped.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "cdmuir@hawaii.edu"
   address = "St. John 405D, University of Hawai'i"
-  office_hours = "MWF 11:30-12:30"
-  phone = "TBD"
+  office_hours = "By Appointment"
+  phone = "808-956-6704"
   twitter = "thegoodphyte"
   skype = "chrisdmuir"
   #telegram = ""
