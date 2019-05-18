@@ -1,6 +1,6 @@
 +++
 title = "Is amphistomy an adaptation to high light? Optimality models of stomatal traits along light gradients"
-date = 2019-04-07T00:00:00
+date = 2019-05-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["CD Muir"]
