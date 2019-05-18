@@ -2,8 +2,8 @@
 title = "A computational platform for plant ecophysiology in R"
 
 date = 2019-05-20T00:00:00
-lastmod = 2019-05-17T00:00:00
-draft = true
+lastmod = 2019-05-20T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chris Muir"]
@@ -14,9 +14,7 @@ tags = ["plant physiology", "rstats", "tealeaves", "photosynthesis", "gunit"]
 summary = "A computational platform for plant ecophysiology"
 +++
 
-SOMEWHERE: a rule of thumb is that if I'm struggling with something, probably lots of other people are too. I love discovering that someone came up with a tool that makes science easier and shares their solution as software. Hence, when I was struggling to use some plant ecophys models I needed for my research, I started to developing software to make it easier for me, and hopefully others as well.
-
-I want to provide a brief update on work I've been doing lately to improve the computational toolkit for plant ecophysiologists, specifically using [R](https://cran.r-project.org). This is very much a work-in-progress, but since I've recently released the first R packages related to this work on CRAN (see [here](https://CRAN.R-project.org/package=gunit), [here](https://CRAN.R-project.org/package=tealeaves), and [here](https://CRAN.R-project.org/package=photosynthesis)), so I wanted to write a short post explaining my motivation and how these packages fit into the big-picture changes I would like to make in plant ecophysiology and its integration with evolutionary biology.
+I want to provide an update on work I've been doing lately to improve the computational toolkit for plant ecophysiologists, specifically using [R](https://cran.r-project.org). This is very much a work-in-progress, but since I've recently released the first R packages related to this work on CRAN (see [here](https://CRAN.R-project.org/package=gunit), [here](https://CRAN.R-project.org/package=tealeaves), and [here](https://CRAN.R-project.org/package=photosynthesis)), so I wanted to write a short post explaining my motivation and how these packages fit into the big-picture changes I would like to make in plant ecophysiology and its integration with evolutionary biology.
 
 # Motivation
 
@@ -40,54 +38,12 @@ These are pretty basic packages and there's lots of room for improvement. I welc
 
 # Future
 
-There are two more endeavors on the horizon. First, I put together {tealeaves} and {photosynthesis} for an optimality model of stomatal traits in different environments. To do this, I developed a package called [{leafoptimizer}](https://github.com/cdmuir/leafoptimizer), but it's very preliminary. Basically, I needed it for a specific project (see this [paper](https://doi.org/10.1101/601377)) and haven't yet made it the sort of generalized leaf-optimizer tool that I would like it to be.
+There are two more endeavors on the horizon. First, I put together {tealeaves} and {photosynthesis} for an optimality model of stomatal traits in different environments. To do this, I developed a package called [{leafoptimizer}](https://github.com/cdmuir/leafoptimizer), but it's very preliminary and I don't suggest anyone use it yet. Basically, I needed it for a specific project (see this [paper](https://doi.org/10.1101/601377)) and haven't yet made it the sort of generalized leaf-optimizer tool that I would like it to be.
 
-Next, I'm turning more to the data analysis side to develop software that implements Bayesian analysis of $A-C_\mathrm{i}$ curves to estimate parameters of the Farquhar-von Caemmerer-Berry model (the same model in {photosynthesis}) in hierarchical framework using [Stan](https://mc-stan.org/). I'm planning to call this package {bayCi}. The main advantages are: 
+Next, I'm turning more to the data analysis side to develop software that implements Bayesian analysis of $A-C_\mathrm{i}$ curves to estimate parameters of the Farquhar-von Caemmerer-Berry model (the same model in {photosynthesis}) in a hierarchical framework using [Stan](https://mc-stan.org/). I'm planning to call this package {bayCi}. The main advantages are: 
 
 * Users can put priors on parameters for which they don't have direct measurements from their species, but has been measured in other species. This is better than fixing an unknown value to some value from another study, which is probably wrong.
 
 * Users can decompose the variation in various parameters within and between individuals, populations, species, etc.
 
-OLD
-
-I'm excited to release the first lab "product", an R package called `tealeaves` that models leaf temperature by balancing leaf energy budgets. The name originates from the fact that leaf temperature is often abbreviated $T_\text{leaf}$ (said "tee leaf"). I won't delve into the details of leaf energy balance here, suffice to say, it can get complex. If you want to learn more about the package and start using it right away, check out the [GitHub](https://github.com/cdmuir/tealeaves) repo. Please note that this package is a **work in progress** and will be updated regularly over the next couple months. In this post, I'll briefly go over my motivation for developing this package and extol some of its virtues.
-
-## Motivation
-
-This package is one part of a larger suite of packages I'm developing to model leaf traits, photosynthesis, and organismal performance/fitness across environmental gradients. Leaf temperature is a key part of that because gas exchange, photosynthesis, repspiration, etc. are all temperature sensitive processes. And leaf temperature can change dramatically across gradients of air temperature, irradiance, wind speed, humidity, etc. Because leaf temperature affects physiology and is effected by the environment, it's central to modeling the relationship between plant and climate. However, the tools to model leaf temperature in R are pretty limited, so I decided I needed to develop my own^[Remko Duursma's [`plantecophys`](https://cran.r-project.org/web/packages/plantecophys/index.html) package also models leaf temperature, but doesn't have all the features I needed].
-
-## Advantages
-
-The concept for this package is that it simply does one thing (model leaf temperature) well and almost nothing else. In a perfect world, you supply parameters to one or two functions and retrieve a tidy data.frame with everything you need for further analysis. Other than hopefully creating an easy R interface for leaf temperature, `tealeaves` has three advantageous features I haven't seen in other package:
-
-- It uses the R packages [`units`](https://cran.r-project.org/web/packages/units/index.html) to ensure that all parameters are specified and calculated properly. If nothing else, this helps catch errors in the equations, as most errors will totally mess up the units. It also disambiguates calculations. For example, if you see something like:
-
-```{r bad, echo = TRUE, eval = FALSE}
-
-# VPD is vapour pressure deficit in kPa
-VPD <- 1.5
-1000 * VPD
-
-```
-
-Does this mean that VPD is being multiple by 1000 or that you are simply changing units from kPa to Pa? It's hard to tell, but `units` makes it unambiguous:
-
-```{r good, echo = TRUE, eval = FALSE}
-
-VPD <- set_units(1.5, "kPa")
-
-# Multiply VPD by 1000
-set_units(1000) * VPD
-
-# Convert VPD by Pa
-VPD %<>% set_units("Pa")
-
-```
-
-- `tealeaves` allows boundary layer conductances to heat and water vapour to vary between lower and upper leaf surfaces. This is important because leaf surfaces are often not identical, nor are the microclimates surrounding them. For example, stomatal conductance may be partitioned evenly between surfaces, or all on one surface, or somewhere in between. 
-
-- `tealeaves` uses the `tidyr::crossing` function to easily creating (multiple) environmental and/or trait gradients over which to model leaf temperature. 
-
-## Help!
-
-This package is a work in progress and I would greatly appreciate comments and criticisms. At this time, I don't recommend using the package for serious analysis without carefully inspecting results. However, I hope that by releasing it, I will be able to work out bugs soon and provide a reliable, stable version in the near future.
+I have lots more ideas for models and packages that could interact with one another to study plant biology. I'm tentatively thinking of calling this package suite "phyteclub". TBD. I'll update here and social media as those projects progress. I'll be presenting on these themes at the [Gordon Research Conference on CO$_2$ Assimilation in June]({{< ref "/talk/2019-06-09-grc" >}})!
