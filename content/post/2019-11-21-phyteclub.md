@@ -1,8 +1,8 @@
 +++
 title = "A computational platform for plant ecophysiology in R"
 
-date = 2019-05-20T00:00:00
-lastmod = 2019-05-20T00:00:00
+date = 2019-05-21T00:00:00
+lastmod = 2019-05-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -10,7 +10,7 @@ authors = ["Chris Muir"]
 
 math = true
 
-tags = ["plant physiology", "rstats", "tealeaves", "photosynthesis", "gunit"]
+tags = ["phyteclub", "plant physiology", "rstats", "tealeaves", "photosynthesis", "gunit"]
 summary = "A computational platform for plant ecophysiology"
 +++
 
