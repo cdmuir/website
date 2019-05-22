@@ -2,7 +2,7 @@
 title = "A computational platform for plant ecophysiology in R"
 
 date = 2019-05-21T00:00:00
-lastmod = 2019-05-21T00:00:00
+lastmod = 2019-05-21T16:03:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -14,7 +14,7 @@ tags = ["phyteclub", "plant physiology", "rstats", "tealeaves", "photosynthesis"
 summary = "A computational platform for plant ecophysiology"
 +++
 
-I want to provide an update on work I've been doing lately to improve the computational toolkit for plant ecophysiologists, specifically using [R](https://cran.r-project.org). This is very much a work-in-progress, but since I've recently released the first R packages related to this work on CRAN (see [here](https://CRAN.R-project.org/package=gunit), [here](https://CRAN.R-project.org/package=tealeaves), and [here](https://CRAN.R-project.org/package=photosynthesis)), so I wanted to write a short post explaining my motivation and how these packages fit into the big-picture changes I would like to make in plant ecophysiology and its integration with evolutionary biology.
+I want to provide an update on work I've been doing lately to improve the computational toolkit for plant ecophysiologists, specifically using [R](https://cran.r-project.org). This is very much a work-in-progress, but since I've recently released the first R packages related to this work on CRAN (see [here](https://CRAN.R-project.org/package=gunit), [here](https://CRAN.R-project.org/package=tealeaves), and [here](https://CRAN.R-project.org/package=photosynthesis)), I wanted to write a short post explaining my motivation and how these packages fit into the big-picture changes I would like to make in plant ecophysiology and its integration with evolutionary biology.
 
 # Motivation
 
