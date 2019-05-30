@@ -1,6 +1,6 @@
 +++
 title = "Is amphistomy an adaptation to high light? Optimality models of stomatal traits along light gradients"
-date = 2019-05-17T00:00:00
+date = 2019-05-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["CD Muir"]
@@ -17,8 +17,8 @@ authors = ["CD Muir"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Revising for *Integrative & Comparative Biology*"
-publication_short = "Revising for *Integr Comp Biol*"
+publication = "*Integrative & Comparative Biology*"
+publication_short = "*Integr Comp Biol*"
 
 # Abstract and optional shortened version.
 abstract = "Stomata regulate the supply of CO<sub>2</sub> for photosynthesis and the rate of water loss out of the leaf. The presence of stomata on both leaf surfaces, termed amphistomy, increases photosynthetic rate, is common in plants from high light habitats, and rare otherwise. In this study I use optimality models based on leaf energy budget and photosynthetic models to ask why amphistomy is common in high light habitats. I developed an R package **leafoptimizer** to solve for stomatal traits that optimally balance carbon gain with water loss in a given environment. The model predicts that amphistomy is common in high light because its marginal effect on carbon gain is greater than in the shade, but only if the costs of amphistomy are also lower under high light than in the shade. More generally, covariation between costs and benefits may explain why stomatal and other traits form discrete phenotypic clusters."
@@ -37,7 +37,7 @@ selected = true
 projects = ["stomatal-evolution.md"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "http://dx.doi.org/10.1093/icb/icz085"
 url_preprint = "https://doi.org/10.1101/601377"
 url_code = "https://github.com/cdmuir/stomata-light"
 #url_dataset = "#"
