@@ -11,7 +11,7 @@ authors = ["Chris Muir"]
 math = true
 
 tags = ["R", "tidyverse"]
-summary = "Why I like the **Tidyverse**"
+summary = "It's the shill bucks"
 +++
 
 {{< tweet 1147885159661867008>}}
