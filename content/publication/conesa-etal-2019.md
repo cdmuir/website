@@ -1,6 +1,6 @@
 +++
 title = "Stomatal anatomy coordinates leaf size with Rubisco kinetics in the Balearic Limonium"
-date = 2019-08-01T00:00:00
+date = 2019-08-12T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["MÀ Conesa", "CD Muir", "A Molins", "J Galmés"]
@@ -37,7 +37,7 @@ selected = true
 projects = []
 
 # Links (optional).
-#url_pdf = "#"
+url_pdf = "https://doi.org/10.1093/aobpla/plz050"
 #url_preprint = "#"
 url_code = "https://github.com/cdmuir/limonium-stomata"
 #url_dataset = "#"
