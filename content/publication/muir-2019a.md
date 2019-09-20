@@ -1,6 +1,6 @@
 +++
-title = "tealeaves: an R package for modelling leaf temperature using energy budgets"
-date = 2019-08-01T00:00:00
+title = "Is amphistomy an adaptation to high light? Optimality models of stomatal traits along light gradients"
+date = 2019-05-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["CD Muir"]
@@ -17,11 +17,11 @@ authors = ["CD Muir"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*AoB Plants*"
-publication_short = "*AoB Plants*"
+publication = "*Integrative & Comparative Biology*"
+publication_short = "*Integr Comp Biol*"
 
 # Abstract and optional shortened version.
-abstract = "Plants must regulate leaf temperature to optimize photosynthesis, control water loss, and prevent damage caused by overheating or freezing. Physical models of leaf energy budgets calculate the energy fluxes and leaf temperatures for a given set leaf and environmental parameters. These models can provide deep insight into the variation in leaf form and function, but there are few computational tools available to use these models. Here I introduce a new R package called **tealeaves** to make complex leaf energy budget models accessible to a broader array of plant scientists. This package enables novice users to start modelling leaf energy budgets quickly while allowing experts customize their parameter settings. The code is open source, freely available, and readily integrates with other R tools for scientific computing. This paper describes the current functionality of **tealeaves**, but new features will be added in future releases. This software tool will advance new research on leaf thermal physiology to advance our understanding of basic and applied plant science."
+abstract = "Stomata regulate the supply of CO<sub>2</sub> for photosynthesis and the rate of water loss out of the leaf. The presence of stomata on both leaf surfaces, termed amphistomy, increases photosynthetic rate, is common in plants from high light habitats, and rare otherwise. In this study I use optimality models based on leaf energy budget and photosynthetic models to ask why amphistomy is common in high light habitats. I developed an R package **leafoptimizer** to solve for stomatal traits that optimally balance carbon gain with water loss in a given environment. The model predicts that amphistomy is common in high light because its marginal effect on carbon gain is greater than in the shade, but only if the costs of amphistomy are also lower under high light than in the shade. More generally, covariation between costs and benefits may explain why stomatal and other traits form discrete phenotypic clusters."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -34,12 +34,12 @@ selected = true
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
 #   e.g. projects = ["example-external-project.md"]
-projects = ["photosynthesis.md"]
+projects = ["stomatal-evolution.md"]
 
 # Links (optional).
-# url_pdf = ""
-url_preprint = "https://doi.org/10.1101/529487"
-url_code = "https://github.com/cdmuir/tealeaves-ms"
+url_pdf = "http://dx.doi.org/10.1093/icb/icz085"
+url_preprint = "https://doi.org/10.1101/601377"
+url_code = "https://github.com/cdmuir/stomata-light"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
@@ -49,7 +49,7 @@ url_code = "https://github.com/cdmuir/tealeaves-ms"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "R Package (CRAN)", url = "https://CRAN.R-project.org/package=tealeaves"}, {name = "R Package (GitHub)", url = "https://github.com/cdmuir/tealeaves"}]
+url_custom = [{name = "R Package (GitHub)", url = "https://github.com/cdmuir/leafoptimizer"}]
 
 # Does the content use math formatting?
 math = false
@@ -60,7 +60,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "tealeaves-hex-sticker.png"
-caption = "tealeaves hex sticker"
-size = 200
+image = ""
+caption = ""
 +++
