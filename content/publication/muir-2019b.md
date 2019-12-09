@@ -37,7 +37,7 @@ selected = true
 projects = ["photosynthesis.md"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "https://doi.org/10.1093/aobpla/plz054"
 url_preprint = "https://doi.org/10.1101/529487"
 url_code = "https://github.com/cdmuir/tealeaves-ms"
 #url_dataset = "#"

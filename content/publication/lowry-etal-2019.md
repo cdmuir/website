@@ -37,8 +37,8 @@ selected = false
 projects = ["local-adaptation.md"]
 
 # Links (optional).
-#url_pdf = ""
-url_preprint = "https://davidbryantlowry.files.wordpress.com/2019/03/mimulus_genus_3_17_19.pdf"
+url_pdf = "https://doi.org/10.1002/tax.12122"
+#url_preprint = ""
 #url_code = ""
 #url_dataset = "#"
 #url_project = "#"
