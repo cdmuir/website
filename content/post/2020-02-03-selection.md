@@ -2,7 +2,7 @@
 title = "Survivorship measures both relative and absolute fitness"
 
 date = 2020-02-03T00:00:00
-lastmod = 2020-02-03T16:20:00
+lastmod = 2020-02-04T08:50:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ summary = "Survivorship measures soft and hard selection"
 
 I recently reviewed a very good paper that (in the original version) claimed there was no way to turn surivorship (i.e. the proportion of a genotype or whatever that survives in a selection experiment) into relative fitness. This struck me as odd, but the authors are very knowledgeable in this area, so I did some digging. I came to realize that the probability of survival is both a measure of absolute and relative fitness. I'm sure this has been proven before, but I wasn't aware of it, so I wrote up the proof here with a mini-example, just in case it's useful to others. If you know of someone who has shown this previously, I'd appreciate the reference. Thanks!
 
-### The probability of survival *is* a relative measure of relative fitness (and absolute fitness!).
+### The probability of survival *is* a measure of relative fitness (and absolute fitness!).
 
 In their original submission (since revised), the authors stated that they are only measuring absolute fitness for viability because "[i]t was not possible to evaluate relative fitness in a logistic regression framework." Here I want to show that the probability of survivorship, which is the parameter fit with logistic regression in this case, is a measure of *both* absolute and relative fitness. 
 
