@@ -11,20 +11,20 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
 
 I am teaching the following courses at the University of Hawai'i:
 
-- BIOL 470: Evolution (Spring 2020) \\
-MWF 10:30-11:20 \\
-HIG 110
+- BIOL 470: Evolution (Spring 2020) \
+  MWF 10:30-11:20 \
+  HIG 110
 
-- BIOL 297/BOT 297: Biostatistics (Spring 2020) \\
-TR 12:00-1:15 \\
+- BIOL 297/BOT 297: Biostatistics (Spring 2020) \
+TR 12:00-1:15 \
 KUY 406
 
-- BOT455: Analysis of Biological Data (Spring 2019) \\
-MWF 10:30-11:20 \\
+- BOT455: Analysis of Biological Data (Spring 2019) \
+MWF 10:30-11:20 \
 St. John 007
