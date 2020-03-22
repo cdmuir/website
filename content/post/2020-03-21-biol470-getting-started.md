@@ -3,7 +3,7 @@ title = "BIOL 470 (Evolution): Getting started with online delivery"
 
 date = 2020-03-21T00:00:00
 lastmod = 2020-03-20T17:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chris Muir"]
