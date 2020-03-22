@@ -10,7 +10,7 @@ authors = ["Chris Muir"]
 
 math = true
 
-tags = ["biol470"]
+tags = ["biol470", "teaching"]
 summary = "BIOL 470 (Evolution): Getting started with online delivery"
 +++
 
