@@ -2,7 +2,7 @@
 title = "BIOL 297: Schedule for week of March 23-27"
 
 date = 2020-03-23T00:00:00
-lastmod = 2020-03-23T15:00:00
+lastmod = 2020-03-24T00:07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -44,7 +44,9 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * *Read* chapter 7 from textbook
 
-* *Watch* (additional prerecorded instruction, link TBA)
+* *Watch* pre-recorded lecture by a friend of mine, Dr. Yaniv Brandvain: https://www.youtube.com/watch?v=5B7wGrgpioQ&feature=youtu.be
+
+This lecture covers tests of proportion data. Yaniv teaches a similar class at University of Minnesota and uses the same textbook. You only need to watch through 21:48. The material after that is more advanced, so you are welcome to continue watching, but it's not material we'll cover in this class.
 
 ### Thursday, March 26
 
