@@ -57,7 +57,7 @@ We will return to phylogenetics, this time using DNA and other molecular charact
 
 * *Study* online module on the gene trees and coalescent simulations:
 
-  - [Part 1]({{< ref "/post/2020-03-25-biol470-gene-trees1" >}})
+  - [Part 1](https://cdmuir.netlify.com/post/2020-03-25-biol470-gene-trees1)
   
   - Part 2 (coming soon)
 

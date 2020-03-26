@@ -20,7 +20,7 @@ Most phylogenetics today uses DNA sequences to infer relationships among lineage
 
 1. Read Zimmer and Emlen Chapter 8 up through section 8.2 (pg. 271)
 2. Work through simulations here
-3. Read blog post and paper applying coalescent methods and phylogenies to COVID-19 (see [this post]({{< ref "/post/2020-03-22-biol470-march23-27-schedule" >}}) for links to readings)
+3. Read blog post and paper applying coalescent methods and phylogenies to COVID-19 (see [this post](https://cdmuir.netlify.com/post/2020-03-22-biol470-march23-27-schedule) for links to readings)
 
 ## Simulating Gene trees
 
