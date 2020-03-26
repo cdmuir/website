@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of March 23-27"
 
 date = 2020-03-22T00:00:00
-lastmod = 2020-03-22T15:00:00
+lastmod = 2020-03-25T14:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,11 @@ This will be our first week of class completely online. Please be patient and fl
 
 * Fill out survey by **Monday, March 23** @ 5 PM HST. Link: https://forms.gle/a3gAVGEp8eTSMoex6
 
-* There will be another online assignment (Google quiz and/or Laulima Discussion) due later in the week, TBA.
+* Laulima Discussion on blog/paper readings (due Midnight on Tuesday, April 1)
+
+  - Go to Laulima, click "Discussion and Private Messages", then "Class Discussions". Post under "	Phylogenetics and COVID-19 readings"
+
+<img alt = 'laulima-discussion' width='300' src='/img/laulima-discussion.png' ALIGN = 'center'/>
 
 ## Readings:
 
@@ -51,7 +55,11 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 We will return to phylogenetics, this time using DNA and other molecular characters to make inferences about evolution.
 
-* *Study* online module on the single-species coalescent (link TBA)
+* *Study* online module on the gene trees and coalescent simulations:
+
+  - [Part 1]({{< ref "/post/2020-03-25-biol470-gene-trees1" >}})
+  
+  - Part 2 (coming soon)
 
 * *Watch* video (15 minutes) on using phylogenies to track COVID-19 (aka SarsCov2): https://vimeo.com/395051566
 
