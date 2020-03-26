@@ -71,6 +71,7 @@ We will return to phylogenetics, this time using DNA and other molecular charact
 
 {{< youtube MHRGPzoFyEM >}}
 
+
 * *Read* chapter 8 from textbook, plus a paper and blog post on using phylogenies to understand the origins of COVID-19. See links in the "Readings" section.
 
 Note that these readings are highly technical and I don't expect you to understand much of the detail. Focus on the questions that motivated the study, the evolutionary approaches the authors used, the main conclusions, and remaining uncertainty. 
