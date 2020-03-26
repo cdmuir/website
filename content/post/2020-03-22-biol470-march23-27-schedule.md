@@ -67,7 +67,7 @@ We will return to phylogenetics, this time using DNA and other molecular charact
 
 Note that these readings are highly technical and I don't expect you to understand much of the detail. Focus on the questions that motivated the study, the evolutionary approaches the authors used, the main conclusions, and remaining uncertainty. 
 
-* *Discuss* video and readings for 1 participation point. I will provide more information on Discussion ASAP.
+* *Discuss* video and readings for 1 participation point. Go to Laulima, click "Discussion and Private Messages", then "Class Discussions". Post under "Phylogenetics and COVID-19 readings"
 
 ### Friday, March 27
 
