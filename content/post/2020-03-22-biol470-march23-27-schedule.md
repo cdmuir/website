@@ -61,7 +61,15 @@ We will return to phylogenetics, this time using DNA and other molecular charact
   
   - Part 2 (coming soon)
 
-* *Watch* video (15 minutes) on using phylogenies to track COVID-19 (aka SarsCov2): https://vimeo.com/395051566
+* *Watch* videos
+
+  - Video 1 (15 minutes): [Using phylogenies to track COVID-19 (aka SarsCov2)](https://vimeo.com/395051566)
+
+{{< vimeo 395051566 >}}
+
+  - Video 2 (12 minutes): [Where did COVID19 come from? Where's it going?](https://youtu.be/MHRGPzoFyEM)
+
+{{< youtube MHRGPzoFyEM >}}
 
 * *Read* chapter 8 from textbook, plus a paper and blog post on using phylogenies to understand the origins of COVID-19. See links in the "Readings" section.
 
