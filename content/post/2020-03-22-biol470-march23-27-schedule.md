@@ -59,7 +59,7 @@ We will return to phylogenetics, this time using DNA and other molecular charact
 
   - [Part 1](https://cdmuir.netlify.com/post/2020-03-25-biol470-gene-trees1)
   
-  - Part 2 (coming soon)
+  - [Part 2]((https://cdmuir.netlify.com/post/2020-03-25-biol470-gene-trees2))
 
 * *Watch* videos
 
@@ -80,9 +80,11 @@ Note that these readings are highly technical and I don't expect you to understa
 
 ### Friday, March 27
 
-* *Study* online module on the multispecies coalescent (link TBA)
+* Finish reading Chapter 8 and additional readings
+
+* *Study* online module on the multispecies coalescent (link TBA, might be weekend or next week)
 
 * Continue *discussion* on video and readings from Wednesday
 
-* *Activity*: simulate multispecies coalescent using genomic data and compile results with class (more details TBA later in the week)
+* *Activity*: simulate multispecies coalescent using genomic data and compile results with class (will be up later today, so work on over the weekend or early next week)
 
