@@ -2,7 +2,7 @@
 title = "BIOL 470: Gene tree and Coalescent simulations (Part 2)"
 
 date = 2020-03-27T00:00:00
-lastmod = 2020-03-27T02:00:00
+lastmod = 2020-03-29T13:37:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,7 +20,7 @@ In the previous [post](https://cdmuir.netlify.com/post/2020-03-22-biol470-gene-t
 
 Working through these simulations is self-paced. It builds off the previous [simulations](https://cdmuir.netlify.com/post/2020-03-22-biol470-gene-trees1), so I recommend doing those first. After that, I suggest the following order:
 
-1. Read Zimmer and Emlen Chapter 8 up through section 8.5 (pg. 285)
+1. Read Emlen and Zimmer Chapter 8 up through section 8.5 (pg. 285)
 2. Work through these simulations
  
 Below I briefly introduce what's going in the simulations. Read these sections, then access the app to perform simulations on your own using the link below.
