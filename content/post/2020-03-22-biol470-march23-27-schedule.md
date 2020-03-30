@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of March 23-27"
 
 date = 2020-03-22T00:00:00
-lastmod = 2020-03-25T14:00:00
+lastmod = 2020-03-29T13:38:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -30,7 +30,7 @@ This will be our first week of class completely online. Please be patient and fl
 
 ## Readings:
 
-* Zimmer & Emlen, Chapter 8
+* Emlen & Zimmer, Chapter 8
 
 * A scientific blog post and paper about using phylogenies to study COVID-19
 

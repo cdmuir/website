@@ -2,7 +2,7 @@
 title = "BIOL 470: Gene tree and Coalescent simulations (Part 1)"
 
 date = 2020-03-25T00:00:00
-lastmod = 2020-03-25T14:00:00
+lastmod = 2020-03-29T13:37:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ summary = "Simulations to learn about using gene trees to infer phylogenies"
 
 Most phylogenetics today uses DNA sequences to infer relationships among lineages, both within and between species. The purpose of these simulations is to supplement your readings about using gene trees phylogenetics. The suggested order of activities is:
 
-1. Read Zimmer and Emlen Chapter 8 up through section 8.2 (pg. 271)
+1. Read Emlen and Zimmer Chapter 8 up through section 8.2 (pg. 271)
 2. Work through simulations here
 3. Read blog post and paper applying coalescent methods and phylogenies to COVID-19 (see [this post](https://cdmuir.netlify.com/post/2020-03-22-biol470-march23-27-schedule) for links to readings)
 
