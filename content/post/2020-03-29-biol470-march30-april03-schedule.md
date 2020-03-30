@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of March 30-April 03"
 
 date = 2020-03-29T00:00:00
-lastmod = 2020-03-29T21:00:00
+lastmod = 2020-03-30T13:30:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -43,7 +43,7 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 * *Watch* pre-recorded lectures on phylogenetics
 
   - [Gene trees and the coalescent](https://drive.google.com/file/d/1XMvwHcA9pPkynzVVKAOAi2jOIxbY2D7H/view?usp=sharing)
-  - Multispecies coalescent and phylogenetic inference (will be posted Monday morning)
+  - [Multispecies coalescent and phylogenetic inference](https://drive.google.com/file/d/1fE18hmT4n9qPTut_Hxhm4qpqpnXqpu5c/view?usp=sharing)
 
 ### Wednesday, April 1 - synchronous, join Google Meeting
 
