@@ -3,7 +3,7 @@ title = "BIOL 470: Class project integrating phylogenies, evo-devo, and adaptati
 
 date = 2020-04-01T00:00:00
 lastmod = 2020-04-01T9:30:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chris Muir"]
