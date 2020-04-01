@@ -2,7 +2,7 @@
 title = "BIOL 297: Schedule for week of March 30-April 3"
 
 date = 2020-03-30T00:00:00
-lastmod = 2020-03-31T13:22:00
+lastmod = 2020-04-01T9:43:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -11,7 +11,7 @@ authors = ["Chris Muir"]
 math = true
 
 tags = ["biol297", "biostats", "frequency data", "teaching"]
-summary = "BIOL/BOT 297 schedule for March 23-27"
+summary = "BIOL/BOT 297 schedule for March 30-April 3"
 +++
 
 ## Assignments:
