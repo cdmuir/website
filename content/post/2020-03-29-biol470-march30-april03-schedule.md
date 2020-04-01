@@ -26,6 +26,8 @@ I found a student worker to scan your graded Midterm Exam 2. I will deliver thos
 
 <img alt = 'laulima-discussion' width='300' src='/img/laulima-discussion.png' ALIGN = 'center'/>
 
+* Find partner(s) for class project by **Friday, April 3 @ 11:59 PM HST** (keep reading below for more detail).
+
 ## Readings:
 
 * Emlen & Zimmer, Chapter 9
@@ -60,6 +62,8 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 * *Read* Chapter 9 of Emlen and Zimmer
 
 ### Friday, April 3 - asynchronous
+
+* Fill out [form](https://cdmuir.netlify.com/post/2020-04-01-biol470-class-project) for partners on class project by today
 
 * *Watch* pre-recorded on the From Genes to Traits: Evolution of Genetic Networks and Development (link TBA)
 
