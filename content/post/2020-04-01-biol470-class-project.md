@@ -1,8 +1,8 @@
 +++
-title = "BIOL 470: Class project integrating phyloge"
+title = "BIOL 470: Class project integrating phylogenies, evo-devo, and adaptation"
 
 date = 2020-04-01T00:00:00
-lastmod = 2020-03-29T21:00:00
+lastmod = 2020-04-01T9:30:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -29,15 +29,18 @@ In this class, we've examined the research of many evolutionary biologists and m
 
 * **Friday, April 3**: Identify partner(s). You may work in teams of 2 or 3
 
-  - Link to sign up
-  - Complete by 11:59 PM HST for 1 participation point
+  - Fill out this Google Form with your and your partner(s) information.
+  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfl5MMKFmaWcZOqxo1CKswkTnsoWdS3CpFX_C8mROlWJo_2xw/viewform?embedded=true" width="640" height="662" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+  - Complete by 11:59 PM HST for 1 participation point (Given the remote situation, I will give some leeway on this due date, but please do not delay and let me know if you are having trouble finding a partner.)
 
 * **Wednesday, April 8**: Enter data
 
-  - Link to video tutorial about data entry
-  - Link to datasheet?
-  - Complete by 11:59 PM HST for 1 participation point
+  - Link to video tutorial about data entry (TBA)
+  - Complete by 11:59 PM HST for 1 participation point (it shouldn't take you and your partner more than an hour, possibly much less)
 
-* Make phylogeny
-* Run PCM
+* Make phylogeny (this will part of Midterm Exam 3)
+
+* Run phylogenetic comparative methods (this will part of Midterm Exam 3)
   

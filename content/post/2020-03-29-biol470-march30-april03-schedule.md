@@ -1,8 +1,8 @@
 +++
-title = "BIOL 470: Schedule for week of March 30-April 03"
+title = "BIOL 470: Schedule for week of March 30-April 3"
 
 date = 2020-03-29T00:00:00
-lastmod = 2020-03-30T13:30:00
+lastmod = 2020-04-01T9:30:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -47,14 +47,21 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 ### Wednesday, April 1 - synchronous, join Google Meeting
 
-* We will finish phylogenetics with a guest lecture from [Dr. Matt Hahn](https://sandykawano.weebly.com/) talking about his reseach on using the multispecies coalescent to infer phylogenies.
+* We will finish phylogenetics with a guest lecture from [Dr. Matt Hahn](https://hahnlab.sitehost.iu.edu/) talking about his reseach on using the multispecies coalescent to infer phylogenies in wild tomatoes!
 
-* We will introduce the next topic on the Evolution of Genetic Networks and Development
+  - Dr. Hahn's slides will be posted on Laulima after class
+
+* Go over class project integrating phylogenies, evo-devo, and adaptation 
+
+  - This [post](https://cdmuir.netlify.com/post/2020-04-01-biol470-class-project) describes class project and due dates
+
+* Answer some questions about COVID-19 evolution from Laulima discussion board
 
 * *Read* Chapter 9 of Emlen and Zimmer
 
 ### Friday, April 3 - asynchronous
 
+* *Watch* pre-recorded on the From Genes to Traits: Evolution of Genetic Networks and Development (link TBA)
+
 * Additional reading and discussion (TBA)
 
-* Go over class project integrating phylogenies, evo-devo, and adaptation (link to description will be posted shortly)
