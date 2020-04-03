@@ -1,5 +1,5 @@
 +++
-title = "BIOL 297: Class project integrating phylogenies, evo-devo, and adaptation"
+title = "BIOL 297: Class project analyzing on COVID-19 pandemic data
 
 date = 2020-04-02T00:00:00
 lastmod = 2020-04-02T21:00:00
