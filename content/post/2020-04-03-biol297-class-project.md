@@ -1,8 +1,8 @@
 +++
 title = "BIOL 297: Class project analyzing COVID-19 pandemic data
 
-date = 2020-04-02T00:00:00
-lastmod = 2020-04-02T22:38:00
+date = 2020-04-03T00:00:00
+lastmod = 2020-04-03T9:50:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
