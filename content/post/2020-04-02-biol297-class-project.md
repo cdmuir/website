@@ -1,8 +1,8 @@
 +++
-title = "BIOL 297: Class project analyzing on COVID-19 pandemic data
+title = "BIOL 297: Class project analyzing COVID-19 pandemic data
 
 date = 2020-04-02T00:00:00
-lastmod = 2020-04-02T21:30:00
+lastmod = 2020-04-02T22:38:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ summary = "What explains variation in the COVID-19 pandemic across US states"
 
 ## Description
 
-In response to moving the course online, I have decided to combine the final project and exam into a larger project that will be 35% of your final grade. As decided in class, everyone will analyze by, themselves or with a partner, a dataset to test a hypothesis that could explain why COVID-19 has spread more rapidly in some US states than others. This page is a placeholder for further information on this project. I will notify you via email when important changes are made.
+In response to moving the course online, I have decided to combine the final project and exam into a larger project that will be 35% of your final grade. As decided in class, everyone will analyze by, themselves or with a partner, a dataset to test a hypothesis that could explain why COVID-19 has spread more rapidly in some US states than others. This page is a placeholder for further information on this project. I will notify you via email when I make important updates.
 
 ## Learning objectives
 
