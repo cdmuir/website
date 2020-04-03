@@ -1,5 +1,5 @@
 +++
-title = "BIOL 297: Class project analyzing COVID-19 pandemic data
+title = "BIOL 297: Class project analyzing COVID-19 pandemic data"
 
 date = 2020-04-03T00:00:00
 lastmod = 2020-04-03T9:50:00
