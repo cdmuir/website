@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of March 30-April 3"
 
 date = 2020-03-29T00:00:00
-lastmod = 2020-04-01T9:30:00
+lastmod = 2020-04-02T16:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,17 +20,28 @@ I found a student worker to scan your graded Midterm Exam 2. I will deliver thos
 
 ## Assignments:
 
-* Participate in Laulima discussion on COVID-19 evolution videos and reading by  **Tuesday, March 31** @ 11:59 PM HST.
+* Participate in Laulima discussion on COVID-19 evolution videos and reading by  **Wednesday, April 1** @ 11:59 PM HST.
 
-  - Go to Laulima, click "Discussion and Private Messages", then "Class Discussions". Post under "	Phylogenetics and COVID-19 readings"
+  - Go to Laulima, click "Discussion and Private Messages", then "Class Discussions". Post under "Phylogenetics and COVID-19 readings"
 
 <img alt = 'laulima-discussion' width='300' src='/img/laulima-discussion.png' ALIGN = 'center'/>
 
 * Find partner(s) for class project by **Friday, April 3 @ 11:59 PM HST** (keep reading below for more detail).
 
+* Participate in Laulima discussion on historical contigency in evolution by  **Tuesday, April 7** @ 11:59 PM HST.
+
+  - Go to Laulima, click "Discussion and Private Messages", then "Class Discussions". Post under "Historical contingency in evolution"
+
+<img alt = 'laulima-discussion1' width='300' src='/img/laulima-discussion.png' ALIGN = 'center'/>
+
 ## Readings:
 
 * Emlen & Zimmer, Chapter 9
+
+* Primary literature (read one or both and contribute to Laulima discussion):
+
+  - Blount *et al*. 2008. [Historical Contingency and the Evolution of a Key Innovation in an Experimental Population of *Escherichia coli*](https://doi.org/10.1073/pnas.0803151105). *Proceedings of the National Academy of Sciences USA* 105 (23):7899–906.
+  - Blount *et al*. 2012. [Genomic Analysis of a Key Innovation in an Experimental *Escherichia coli* Population](https://www.nature.com/articles/nature11514). *Nature* 489:513–8.
 
 ## Schedule
 
@@ -65,7 +76,9 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * Fill out [form](https://cdmuir.netlify.com/post/2020-04-01-biol470-class-project) for partners on class project by today
 
-* *Watch* pre-recorded on the From Genes to Traits: Evolution of Genetic Networks and Development (link TBA)
+* *Read* papers by Blount *et al.* on Long Term Evolution Evolution (LTEE).
 
-* Additional reading and discussion (TBA)
+  - Links above, PDF copies are available on Laulima under Resources/primary-literature
+  
+* *Watch* pre-recorded lectures on the From Genes to Traits: Evolution of Genetic Networks and Development (link posted Friday morning)
 
