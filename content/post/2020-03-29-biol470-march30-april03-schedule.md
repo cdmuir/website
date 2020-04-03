@@ -32,7 +32,7 @@ I found a student worker to scan your graded Midterm Exam 2. I will deliver thos
 
   - Go to Laulima, click "Discussion and Private Messages", then "Class Discussions". Post under "Historical contingency in evolution"
 
-<img alt = 'laulima-discussion1' width='300' src='/img/laulima-discussion.png' ALIGN = 'center'/>
+<img alt = 'laulima-discussion1' width='300' src='/img/laulima-discussion1.png' ALIGN = 'center'/>
 
 ## Readings:
 
