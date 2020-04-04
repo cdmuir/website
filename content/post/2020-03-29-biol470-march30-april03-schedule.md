@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of March 30-April 3"
 
 date = 2020-03-29T00:00:00
-lastmod = 2020-04-02T16:00:00
+lastmod = 2020-04-03T19:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -80,5 +80,7 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
   - Links above, PDF copies are available on Laulima under Resources/primary-literature
   
-* *Watch* pre-recorded lectures on the From Genes to Traits: Evolution of Genetic Networks and Development (link posted Friday morning)
+* *Watch* pre-recorded lectures on the From Genes to Traits: Evolution of Genetic Networks and Development 
+
+  - Sorry, I didn't finish this until Friday evening, but it is now posted [here](https://drive.google.com/open?id=1OdQj1KLiESVtx6EqoXtpqDGxNxkdcX2L)
 
