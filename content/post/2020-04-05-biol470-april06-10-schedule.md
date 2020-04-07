@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of April 6-10"
 
 date = 2020-04-05T00:00:00
-lastmod = 2020-04-06T16:45:00
+lastmod = 2020-04-07T12:30:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -61,7 +61,7 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * *Watch* pre-recorded lecture on evo-devo
 
-  - I will post this Monday afternoon or Tuesday morning and notify you
+  - [Video](https://drive.google.com/open?id=1a4iEOS5HCdEYTn3WuG0qoVpgr7OIvGxr) on body plans and evolution
 
 ### Wednesday, April 8 - synchronous, join Google Meeting
 
