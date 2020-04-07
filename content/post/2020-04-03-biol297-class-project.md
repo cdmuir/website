@@ -83,7 +83,7 @@ covid %>%
   
 ```
 
-<img alt = 'covid-in-hi' width='300' src='/img/covid-in-hi.png' ALIGN = 'center'/>
+<img alt = 'covid-in-hi' width='600' src='/img/covid-in-hi.png' ALIGN = 'center'/>
 
 
   
