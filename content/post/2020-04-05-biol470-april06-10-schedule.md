@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of April 6-10"
 
 date = 2020-04-05T00:00:00
-lastmod = 2020-04-06T13:45:00
+lastmod = 2020-04-06T16:45:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -56,12 +56,12 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 * Start working on data entry for class project. It should not take more than an hour, perhaps much less.
 
   - Papers and datasheets (with written instructions) are in your Google Drive folder
-  - I will send more detailed instructions on Monday.
+  - *Watch* [video](https://drive.google.com/open?id=1YtzftzSahVujB-hY5nfHsBob6z7a87wL) describing project with instructions for data entry
   - This [post](https://cdmuir.netlify.com/post/2020-04-01-biol470-class-project) describes class project and due dates
 
 * *Watch* pre-recorded lecture on evo-devo
 
-  - I will post this Monday afternoon and notify you
+  - I will post this Monday afternoon or Tuesday morning and notify you
 
 ### Wednesday, April 8 - synchronous, join Google Meeting
 

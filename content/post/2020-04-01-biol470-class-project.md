@@ -2,7 +2,7 @@
 title = "BIOL 470: Class project integrating phylogenies, evo-devo, and adaptation"
 
 date = 2020-04-01T00:00:00
-lastmod = 2020-04-01T9:30:00
+lastmod = 2020-04-06T16:45:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -37,7 +37,7 @@ In this class, we've examined the research of many evolutionary biologists and m
 
 * **Wednesday, April 8**: Enter data
 
-  - Link to video tutorial about data entry (TBA)
+  - [Link to video tutorial about data entry](https://drive.google.com/open?id=1YtzftzSahVujB-hY5nfHsBob6z7a87wL)
   - Complete by 11:59 PM HST for 1 participation point (it shouldn't take you and your partner more than an hour, possibly much less)
 
 * Make phylogeny (this will part of Midterm Exam 3)
