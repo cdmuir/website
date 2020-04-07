@@ -2,7 +2,7 @@
 title = "BIOL 297: Class project analyzing COVID-19 pandemic data"
 
 date = 2020-04-03T00:00:00
-lastmod = 2020-04-03T9:50:00
+lastmod = 2020-04-07T01:15:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -38,4 +38,52 @@ In response to moving the course online, I have decided to combine the final pro
 
   - Code and blog-style report for lay readers due
   - Online symposium of results with 5-10 minute presentations
+  
+## Getting started
+
+I will create a GitHub repo that you can access via *RStudio Cloud* for the final project. For now, you can look at up-to-date data from the [COVID Tracking Project](https://covidtracking.com) by copying and pasting the code below into R. You should get a figure like the one below. Notice this code uses some nifty *R* functions we haven't encountered yet, like the pipe operator `%>%` and `mutate()`. Read about them and try to understand what they do (I use them *all the time*).
+
+```{r}
+
+library(cowplot)
+library(lubridate)
+library(tidyverse)
+
+covid <- read_csv(
+  "https://covidtracking.com/api/states/daily.csv", 
+  col_types = cols(
+    date = col_character(),
+    state = col_character(),
+    positive = col_double(),
+    negative = col_double(),
+    pending = col_double(),
+    hospitalized = col_double(),
+    death = col_double(),
+    total = col_double(),
+    hash = col_character(),
+    dateChecked = col_datetime(format = ""),
+    totalTestResults = col_double(),
+    fips = col_character(),
+    deathIncrease = col_double(),
+    hospitalizedIncrease = col_double(),
+    negativeIncrease = col_double(),
+    positiveIncrease = col_double(),
+    totalTestResultsIncrease = col_double()
+  )
+) %>%
+  mutate(date = ymd(date))
+
+covid %>%
+  filter(state == "HI") %>%
+  ggplot(aes(date, positive)) +
+  scale_y_log10() +
+  geom_line() +
+  geom_point() +
+  theme_cowplot()
+  
+```
+
+<img alt = 'covid-in-hi' width='300' src='/img/covid-in-hi.png' ALIGN = 'center'/>
+
+
   
