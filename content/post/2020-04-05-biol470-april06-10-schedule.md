@@ -75,8 +75,6 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * Answer some questions about historical contigency from Laulima discussion board
 
-### Friday, April 10 - asynchronous
+### Friday, April 10 - holiday, no class
 
-* I will post readings/video for Friday later in the week.
-
-* Midterm Exam 3 will be distributed. You will have 1 week to complete at home.
+* Readings/video I was planning to post will be part of your [Midterm Exam 3](https://cdmuir.netlify.com/post/2020-04-11-biol470-exam3)
