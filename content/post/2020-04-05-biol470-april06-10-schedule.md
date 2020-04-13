@@ -41,8 +41,6 @@ summary = "Finish \"From Genes to Traits\" and start special section on phylogen
   - Blount *et al*. 2008. [Historical Contingency and the Evolution of a Key Innovation in an Experimental Population of *Escherichia coli*](https://doi.org/10.1073/pnas.0803151105). *Proceedings of the National Academy of Sciences USA* 105 (23):7899–906.
   - Blount *et al*. 2012. [Genomic Analysis of a Key Innovation in an Experimental *Escherichia coli* Population](https://www.nature.com/articles/nature11514). *Nature* 489:513–8.
 
-* Reading on Phylogenetic Comparative Methods (I will post later this week)
-
 ## Schedule
 
 Note that on Wednesday, class will meet synchronously on Google Meet [meet.google.com/qip-dcci-fjy](https://meet.google.com/qip-dcci-fjy). Class will be recorded and posted online if you are unable to attend. Remaining instruction will be asynchronous, meaning you can work at your own pace and desired time.
@@ -67,7 +65,7 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * We will finish our section on Genes to Traits with a guest lecture from [Dr. Stacey Dewitt Smith](https://www.colorado.edu/smithlab/) and [Dr. Luke Wheeler](https://lcwheeler.github.io/) talking about their research on how metabolic pathways shape adaptive evolution.
 
-  - Their slides will be posted on Laulima after class
+  - Their slides are posted on Laulima
 
 * Go over progress with class project integrating phylogenies, evo-devo, and adaptation 
 
@@ -75,8 +73,4 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * Answer some questions about historical contigency from Laulima discussion board
 
-### Friday, April 10 - asynchronous
-
-* I will post readings/video for Friday later in the week.
-
-* Midterm Exam 3 will be distributed. You will have 1 week to complete at home.
+### Friday, April 10 - no class (holiday)
