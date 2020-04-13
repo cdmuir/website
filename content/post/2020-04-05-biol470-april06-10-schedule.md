@@ -73,4 +73,6 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * Answer some questions about historical contigency from Laulima discussion board
 
-### Friday, April 10 - no class (holiday)
+### Friday, April 10 - holiday, no class
+
+* Readings/video I was planning to post will be part of your [Midterm Exam 3](https://cdmuir.netlify.com/post/2020-04-11-biol470-exam3)
