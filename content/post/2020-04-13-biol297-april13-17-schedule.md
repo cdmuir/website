@@ -105,7 +105,7 @@ head(cbind(Y, Z))
 
 df <- data.frame(
   value = c(Y, Z),
-  facet = rep(c("Y", "Z"), each = 100)
+  facet = rep(c("Y", "Z"), each = N)
 )
 ggplot(df, aes(value)) +
   facet_grid(~ facet, scales = "free") +
