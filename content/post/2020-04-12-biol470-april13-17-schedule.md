@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of April 13-17"
 
 date = 2020-04-12T00:00:00
-lastmod = 2020-04-13T01:00:00
+lastmod = 2020-04-15T11:30:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,11 +16,11 @@ summary = "Hand out Midterm Exam 3, Introduce Speciation"
 
 ## Announcements
 
-* Midterm Exam 3 will be handed out the morning of Monday, April 13. I will post an announcement on Laulima when it is available and email you. All exam materials will be delivered to you and returned to me through your individual Google Drive folder for thic class. Please let me know ASAP if you are having problems accessing this folder.
+* Midterm Exam 3 handed out the morning of Monday, April 13. Please let me know ASAP if you are having problems accessing this folder.
 
 * The due date for the exam has been extended to **Tuesday, April 21 @ 11:59PM HST**
 
-* There will be a live "review session" on Google Meet either Wednesday or Thursday. I will notify as soon as I know what time. You will be able to submit questions ahead of time and I will record it if you can't attend synchronously.
+* There will be a live "review session" on Google Meet on **Thursday, April 16 from 2:30-3:30 PM HST**. Join using this link: [meet.google.com/qip-dcci-fjy](https://meet.google.com/qip-dcci-fjy).
 
 * I will post participation grades for class project data entry later this week
 
@@ -47,14 +47,10 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 
 * Midterm Exam 3 handed out. I strongly advise reading over the exam soon and making a plan to complete. You will have trouble finishing if you wait until the last minute.
 
-* *Watch* pre-recorded lecture on speciation
-
-  - I will post video on Monday afternoon or Tuesday morning
-
 ### Wednesday, April 8 - synchronous, join Google Meeting
 
-* More on Speciation (more detail TBA)
+* Speciation. You can access recorded [video here](https://drive.google.com/open?id=1ogeNAB6RWEYkd0Jqyh59xU3vtfR4P3SD)s.
 
 ### Friday, April 10 - asynchronous
 
-* Speciation/macroevolution (more detail TBA)
+* Speciation/macroevolution (posted Friday)
