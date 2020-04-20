@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of April 13-17"
 
 date = 2020-04-12T00:00:00
-lastmod = 2020-04-17T23:00:00
+lastmod = 2020-04-19T23:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -54,4 +54,4 @@ In general, I strongly recommend attending synchronous meetings if you can. I al
 ### Friday, April 17 - asynchronous
 
 * Speciation (postzygotic isolation) [video](https://drive.google.com/open?id=1VP4GA9XpjdmjDM0h8yN7Ij50liTw5giv)
-* Speciation (geographphy) TBA
+* Speciation (geographphy) [video](https://drive.google.com/file/d/1YT9DeXt9AI20q6pPFEu3wwqQflLwFj06/view?usp=sharing)
