@@ -2,7 +2,7 @@
 title = "BIOL 297: Class project analyzing COVID-19 pandemic data"
 
 date = 2020-04-03T00:00:00
-lastmod = 2020-04-07T01:15:00
+lastmod = 2020-04-20T23:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -36,6 +36,7 @@ In response to moving the course online, I have decided to combine the final pro
 
 * **Thursday, May 14**
 
+  - *R* script and data files to perform all analyses ({{% staticref "img/example-final.pdf" %}}see explanation and example{{% /staticref %}})
   - Code and blog-style report for lay readers due
   - Online symposium of results with 5-10 minute presentations
   
