@@ -2,7 +2,7 @@
 title = "BIOL 470: Schedule for week of April 20-24"
 
 date = 2020-04-19T00:00:00
-lastmod = 2020-04-19T23:00:00
+lastmod = 2020-04-21T11:30:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -32,8 +32,11 @@ Note that on Wednesday, class will meet synchronously on Google Meet [meet.googl
 
 ### Monday, April 20 - asynchronous
 
-* I will post a recorded lecture on Macroevolution. Note also that I posted lectures on Speciation on Friday and Sunday, so watch those by Wednesday if you haven't already. I'm trying to keep the burden low until exams are done.
+* *Watch* recorded lectures on Macroevolution. 
 
+  - Macroevolution 1: [link to video](https://drive.google.com/file/d/1t5f0djuvQYf9OwGnXss2CewkMd_OfFL_/view?usp=sharing)
+  - Macroevolution 2: TBA
+  
 ### Wednesday, April 15 - synchronous, join Google Meeting
 
 * We will finish our section on Speciation with a guest lecture from [Dr. Robin Hopkinds](http://hopkins-lab.org/) talking about her lab's research on reinforcement.
