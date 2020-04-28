@@ -2,7 +2,7 @@
 title = "BIOL 297: Class project analyzing COVID-19 pandemic data"
 
 date = 2020-04-03T00:00:00
-lastmod = 2020-04-20T23:00:00
+lastmod = 2020-04-28T10:22:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -11,7 +11,7 @@ authors = ["Chris Muir"]
 math = true
 
 tags = ["biol297", "teaching", "covid19", "biostats"]
-summary = "What explains variation in the COVID-19 pandemic across US states"
+summary = "What explains variation in the COVID-19 pandemic across US states?"
 +++
 
 ## Description
@@ -32,17 +32,35 @@ In response to moving the course online, I have decided to combine the final pro
 
 * **Friday, April 24**: Get all data you will need to complete project
 
-* **Friday, May 1**: 1-2 paragraph data analysis plan
+* **Friday, May 1**: Data analysis plan due. Step-by-step explanation below on how to complete this on *RStudio Cloud*. If you want, you can work on a local project and email it to me.
+
+  - Create project on [*RStudio Cloud*](https://rstudio.cloud/). Call it "last-first-final" (e.g. "muir-chros-final"). You can simply click "New Project"; you don't need to import GitHub Repo, as in labs.
+
+{{< figure src="/img/biol297-final-setup1.png" title="Start a new project" >}}
+
+{{< figure src="/img/biol297-final-setup2.png" title="Give your project a name" >}}
+
+  - If necessary, move data files into project directory using the upload tool. Once files are uploaded, you will see them in your Files tab:
+  
+  {{< figure src="/img/biol297-final-setup4.png" title="I've uploaded state-govenors.csv and stats-daily.csv" >}}
+
+  - Create new *R* script for your code.
+  
+  - Install any packages you need.
+  
+  - In script, complete a draft of the "Question", "Hypotheses", and "Test you will use" sections, as in the {{% staticref "img/example-final.pdf" %}}example final{{% /staticref %}}. It would look like:
+  
+  {{< figure src="/img/biol297-final-setup5.png" title="Example script with data analysis plan." >}}
 
 * **Thursday, May 14**
 
   - *R* script and data files to perform all analyses ({{% staticref "img/example-final.pdf" %}}see explanation and example{{% /staticref %}})
-  - Code and blog-style report for lay readers due
+  - Blog-style report for lay readers due
   - Online symposium of results with 5-10 minute presentations
   
 ## Getting started
 
-I will create a GitHub repo that you can access via *RStudio Cloud* for the final project. For now, you can look at up-to-date data from the [COVID Tracking Project](https://covidtracking.com) by copying and pasting the code below into R. You should get a figure like the one below. Notice this code uses some nifty *R* functions we haven't encountered yet, like the pipe operator `%>%` and `mutate()`. Read about them and try to understand what they do (I use them *all the time*).
+You can look at up-to-date data from the [COVID Tracking Project](https://covidtracking.com) by copying and pasting the code below into R. You should get a figure like the one below. Notice this code uses some nifty *R* functions we haven't encountered yet, like the pipe operator `%>%` and `mutate()`. Read about them and try to understand what they do (I use them *all the time*).
 
 ```{r}
 
