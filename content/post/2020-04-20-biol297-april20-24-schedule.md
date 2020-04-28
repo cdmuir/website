@@ -26,8 +26,6 @@ summary = "t-tests!"
 
 ## Schedule
 
-Note that on Tuesday, class will meet synchronously on Google Meet [meet.google.com/foi-xwhi-ape](https://meet.google.com/vhq-qczv-dew). Class will be recorded and posted online if you are unable to attend. Remaining instruction will be asynchronous, meaning you can work at your own pace and desired time.
-
 ### Tuesday, April 21 - asynchronous
 
 * *Read* chapter 11 from textbook
@@ -40,8 +38,6 @@ Note that on Tuesday, class will meet synchronously on Google Meet [meet.google.
   - PDF of slides are posted on Laulima
 
 * *Watch* [code demo](https://drive.google.com/file/d/1thKKbgOKLjYn8Uz6Cbbe_wZ9qvzPwIb9/view?usp=sharing) of one-sample *t*-test (code below):
-
-* We will go over the *R* script that you will submit with your [final project](https://cdmuir.netlify.com/post/2020-04-03-biol297-class-project) 
 
 ### Thursday, April 23 - lab
 
