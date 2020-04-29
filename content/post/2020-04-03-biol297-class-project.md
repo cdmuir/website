@@ -2,7 +2,7 @@
 title = "BIOL 297: Class project analyzing COVID-19 pandemic data"
 
 date = 2020-04-03T00:00:00
-lastmod = 2020-04-28T10:22:00
+lastmod = 2020-04-28T16:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -44,6 +44,8 @@ In response to moving the course online, I have decided to combine the final pro
   
   {{< figure src="/img/biol297-final-setup4.png" title="I've uploaded state-govenors.csv and stats-daily.csv" >}}
 
+  - If you need to get data entered into a CSV files, look at Section 2.6 in the textbook called "How to make data files" for guidance.
+  
   - Create new *R* script for your code.
   
   - Install any packages you need.

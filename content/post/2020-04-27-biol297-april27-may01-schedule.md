@@ -2,7 +2,7 @@
 title = "BIOL 297: Schedule for week of April 27-May 1"
 
 date = 2020-04-27T00:00:00
-lastmod = 2020-04-27T22:30:00
+lastmod = 2020-04-28T15:45:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -44,6 +44,8 @@ Note that on Tuesday, class will meet synchronously on Google Meet [meet.google.
   - PDF of slides are posted on Laulima
 
 * We will go over the *R* script that you will submit with your [final project](https://cdmuir.netlify.com/post/2020-04-03-biol297-class-project) 
+
+* Recorded [video lecture/code demo](https://drive.google.com/open?id=15q8Fhu3r3U3pPvo2d7XwxJ2WErp_uXmG)
 
 ### Thursday, April 230 - lab
 
