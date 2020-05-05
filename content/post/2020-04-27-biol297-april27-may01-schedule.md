@@ -47,7 +47,7 @@ Note that on Tuesday, class will meet synchronously on Google Meet [meet.google.
 
 * Recorded [video lecture/code demo](https://drive.google.com/open?id=15q8Fhu3r3U3pPvo2d7XwxJ2WErp_uXmG)
 
-### Thursday, April 230 - lab
+### Thursday, April 30 - lab
 
 * Lab on ANOVA in *R* (I will post by Wednesday night)
 

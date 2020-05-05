@@ -34,7 +34,7 @@ In response to moving the course online, I have decided to combine the final pro
 
 * **Friday, May 1**: Data analysis plan due. Step-by-step explanation below on how to complete this on *RStudio Cloud*. If you want, you can work on a local project and email it to me.
 
-  - Create project on [*RStudio Cloud*](https://rstudio.cloud/). Call it "last-first-final" (e.g. "muir-chros-final"). You can simply click "New Project"; you don't need to import GitHub Repo, as in labs.
+  - Create project on [*RStudio Cloud*](https://rstudio.cloud/). Call it "last-first-final" (e.g. "muir-chris-final"). You can simply click "New Project"; you don't need to import GitHub Repo, as in labs.
 
 {{< figure src="/img/biol297-final-setup1.png" title="Start a new project" >}}
 
