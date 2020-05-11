@@ -2,7 +2,7 @@
 title = "BIOL 297: Class project analyzing COVID-19 pandemic data"
 
 date = 2020-04-03T00:00:00
-lastmod = 2020-04-28T16:00:00
+lastmod = 2020-05-10T21:30:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -25,6 +25,28 @@ In response to moving the course online, I have decided to combine the final pro
 * analyze data using a null hypothesis testing framework
 * draw appropriate conclusions
 * communicate quantitative information effectively through written and visual media
+
+## What you must turn in by classtime (12 PM) on **Thursday, May 14**
+
+The *R* script and analyses are worth 75% of your final project grade; the written and oral presentations are worth 25%.
+
+* *R* script and data files to perform all analyses ({{% staticref "img/example-final.pdf" %}}see explanation and example{{% /staticref %}})
+
+* Blog-style report for lay readers (~3 paragraphs)
+
+* Presentation to class using slides (~5-10 minutes)
+  
+The report and presentation should be understandable by a lay audience without specialized biological or statistic background. The report and presentation **must** address all of the following elements to receive full credit:
+
+1. Motivate your study (e.g. this could be based on an observation, a new report, or some kind of hypothesis you were interested in testing)
+2. Pose your question
+3. Describe your data and where you obtained them from
+4. Describe the statistical method you used to address your question
+5. Describe your results using appropriate figures and/or tables (you can use or modify the figures from your *R* report)
+6. Based on your analysis, what do you conclude?
+7. Address 1 or 2 limitations of your analysis. In particular, you **must** describe a sampling **bias** and/or **confounding variable** that might have caused you to reach the wrong conclusion. If you fail to reject your null hypothesis, you can also describe how the statisical power of your study was limited, in which case you should refer to the confidence intervals on your parameter estimate.
+
+Each element can be described briefly in a couple sentences. You don't need to provide detailed background or citations.
 
 ## Timeline:
 
