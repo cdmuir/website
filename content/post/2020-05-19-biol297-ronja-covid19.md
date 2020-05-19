@@ -2,7 +2,7 @@
 title = "Guest post by Ronja Steinbach on COVID-19"
 
 date = 2020-05-19T00:00:00
-lastmod = 2020-05-18T16:30:00
+lastmod = 2020-05-19T11:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -11,7 +11,7 @@ authors = ["Ronja Steinbach"]
 math = true
 
 tags = ["biol297", "biostats", "covid-19", "teaching"]
-summary = "Final Projects due"
+summary = "Biostats final project on COVID-19"
 +++
 
 **This is part of a series of guest posts from students in my Biostats class at UH Mānoa. For their final projects, students analyzed data to understand what factors explain variation in COVID-19 incidence. Read more about the project [here]({{< ref "post/2020-04-03-biol297-class-project.md" >}}).**
