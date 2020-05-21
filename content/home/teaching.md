@@ -15,16 +15,20 @@ weight = 50
 
 +++
 
-I am teaching the following courses at the University of Hawai'i:
+I am teaching the following courses at the University of Hawaiʻi:
+
+- BIOL 470: Evolution (Fall 2020) \
+  MWF 9:30-10:20 \
+  KUY 307
 
 - BIOL 470: Evolution (Spring 2020) \
   MWF 10:30-11:20 \
   HIG 110
 
 - BIOL 297/BOT 297: Biostatistics (Spring 2020) \
-TR 12:00-1:15 \
-KUY 406
+  TR 12:00-1:15 \
+  KUY 406
 
 - BOT455: Analysis of Biological Data (Spring 2019) \
-MWF 10:30-11:20 \
-St. John 007
+  MWF 10:30-11:20 \
+  St. John 007
