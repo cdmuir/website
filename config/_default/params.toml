@@ -86,11 +86,11 @@ phone = "808-956-6704"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3190 Maile Way", city = "Honolulu", region = "HI", postcode = "96822", country = "United States", country_code = "US"}
+address = {street = "1800 East-West Road", city = "Honolulu", region = "HI", postcode = "96822", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "21.301630", longitude = "-157.815530"}
+coordinates = {latitude = "21.300308", longitude = "-157.815288"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -100,7 +100,7 @@ coordinates = {latitude = "21.301630", longitude = "-157.815530"}
 office_hours = ["By appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://www.star.hawaii.edu/"
+# appointment_url = "https://www.star.hawaii.edu/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
