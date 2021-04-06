@@ -1,6 +1,6 @@
 +++
 title = "Developmental changes in the reflectance spectra of temperate deciduous tree leaves, and implications for thermal emissivity and leaf temperature"
-date = 2020-09-04T00:00:00
+date = 2021-01-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["AD Richardson", "DM Aubrecht", "D Basler", "K Hufkens", "CD Muir", "L Hanssen"]
