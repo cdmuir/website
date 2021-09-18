@@ -1,6 +1,6 @@
 +++
 title = "Scaling between stomatal size and density in forest plants"
-date = 2021-04-25T00:00:00
+date = 2021-09-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["C Liu", "CD Muir", "Y Li", "L Xu", "M Li", "J Zhang", "HJ de Boer", "L Sack", "X Han", "G Yu", "N He"]
@@ -21,7 +21,7 @@ publication = "*bioRxiv*"
 publication_short = "*bioRxiv*"
 
 # Abstract and optional shortened version.
-abstract = "The size and density of stomatal pores limit the maximum rate of leaf carbon gain and water loss ($g_\\text{max}$) in land plants. Stomatal size and density are negatively correlated at broad phylogenetic scales, such that species with small stomata tend to have greater stomatal density, but the consequences of this relationship for leaf function has been controversial. The prevailing hypothesis posits that the negative scaling of size and density arises because species that evolved higher $g_\\text{max}$ also achieved reduced allocation of epidermal area to stomata (stomatal-area minimization). Alternatively, the negative scaling of size and density might reflect the maintenance of a stable mean and variance in $g_\\text{max}$ despite variation in stomatal size and density, which would result in a higher allocation of epidermal area to achieve high $g_\\text{max}$ (stomatal-area increase). Here, we tested these hypotheses by comparing their predictions for the structure of the covariance of stomatal size and density across species, applying macroevolutionary models and phylogenetic regression to data for 2408 species of angiosperms, gymnosperms, and ferns from forests worldwide. The observed stomatal size-density scaling and covariance supported the stomatal area increase hypothesis for high $g_\\text{max}$. Thus, contrary to the prevailing view, higher $g_\\text{max}$ is not achieved while minimizing stomatal area allocation but requires increasing epidermal area allocated to stomata. Understanding of optimal stomatal conductance, photosynthesis, and plant water-use efficiency used in Earth System and crop productivity models will thus be improved by including the cost of higher $g_\\text{max}$ both in construction cost of stomata and opportunity cost in epidermal space."
+abstract = "The size and density of stomatal pores limit the maximum rate of leaf carbon gain and water loss ($g_\\text{max}$) in land plants. The limits of $g_\\text{max}$ due to anatomy, and its constraint by the negative correlation of stomatal size and density at broad phylogenetic scales, has been unclear and controversial. The prevailing hypothesis posits that adaptation to higher $g_\\text{max}$ is typically constrained by geometry and/or an economic need to reduce the allocation of epidermal area to stomata (stomatal-area minimization), and this would require the evolution of greater numbers of smaller stomata. Another view, supported by the data, is that across plant diversity, epidermal area allocated to guard cells versus other cells can be optimized without major trade-offs, and higher $g_\\text{max}$ would typically be achieved with a higher allocation of epidermal area to stomata (stomatal-area increase). We tested these hypotheses by comparing their predictions for the structure of the covariance of stomatal size and density across species, applying macroevolutionary models and phylogenetic regression to data for 2408 species of angiosperms, gymnosperms, and ferns from forests worldwide. The observed stomatal size-density scaling and covariance supported the stomatal-area increase hypothesis for high $g_\\text{max}$. A higher $g_\\text{max}$ involves construction costs and maintenance costs that should be considered in models assessing optimal stomatal conductance for predictions of water use, photosynthesis, and water-use efficiency as influences on crop productivity or in Earth System models."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ projects = []
 # Links (optional).
 # url_pdf = "#"
 url_preprint = "https://doi.org/10.1101/2021.04.25.441252"
-# url_code = "#"
+# url_code = "https://github.com/cdmuir/stomata-scaling"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
