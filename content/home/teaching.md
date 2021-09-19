@@ -15,14 +15,8 @@ weight = 50
 
 +++
 
-I am teaching the following courses at the University of Hawaiʻi:
+I am currently teaching the following course(s) at the University of Hawaiʻi:
 
-- BIOL/BOT 220: Biostatistics (Spring) \
-  Lecture: Asynchronous \
-  Lab: W 1:30-3:30 PM HST \
+- BOT 100: Freshman Seminar \
+  Lecture: Tuesday, 3:30-4:30 PM HST \
   Online
-
-- BIOL 470: Evolution (Fall) \
-  Asynchronous \
-  Online
-
