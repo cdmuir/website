@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "XXX"
+  title = "Scientist"
   company = "Novozymes"
   company_url = ""
   location = "California"
