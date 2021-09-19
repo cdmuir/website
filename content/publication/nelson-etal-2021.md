@@ -1,6 +1,6 @@
 +++
 title = "Quantitative trait locus mapping reveals an independent genetic basis for joint divergence in leaf function, life-history, and floral traits between scarlet monkeyflower (Mimulus cardinalis) populations"
-date = 2021-01-26T00:00:00
+date = 2021-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["TC Nelson", "CD Muir", "AM Stathos", "DD Vanderpool", "K Anderson", "AL Angert", "L Fishman"]
@@ -14,7 +14,7 @@ authors = ["TC Nelson", "CD Muir", "AM Stathos", "DD Vanderpool", "K Anderson", 
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*American Journal of Botany*"
@@ -37,10 +37,10 @@ selected = false
 projects = []
 
 # Links (optional).
-# url_pdf = "#"
+url_pdf = "https://doi.org/10.1002/ajb2.1660"
 url_preprint = "https://doi.org/10.1101/2020.08.16.252916"
 # url_code = "#"
-#url_dataset = "#"
+#url_dataset = "https://doi.org/10.5061/dryad.m0cfxpp2q"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
