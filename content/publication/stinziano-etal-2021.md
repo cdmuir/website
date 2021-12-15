@@ -1,6 +1,6 @@
 +++
 title = "Principles of resilient coding for plant ecophysiologists"
-date = 2021-09-11T00:00:00
+date = 2021-09-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["JR Stinziano", "C Roback", "D Gamble", "BK Murphy", "PJ Hudson", "CD Muir"]
@@ -37,7 +37,7 @@ selected = false
 projects = []
 
 # Links (optional).
-# url_pdf = "https://doi.org/10.1093/aobpla/plab059"
+url_pdf = "https://doi.org/10.1093/aobpla/plab059"
 url_preprint = "https://doi.org/10.1101/2020.09.11.293530"
 url_code = "https://github.com/cdmuir/photosynthesis"
 #url_dataset = "#"
