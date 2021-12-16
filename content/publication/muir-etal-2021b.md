@@ -37,9 +37,8 @@ selected = false
 projects = []
 
 # Links (optional).
-#url_pdf = "https://doi.org/10.1111/jeb.13184"
-#url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13184"
-#url_preprint = "#"
+#url_pdf = ""
+url_preprint = "https://doi.org/10.1101/2021.12.14.472651"
 url_code = "https://github.com/cdmuir/mimulus-germination"
 #url_dataset = "https://doi.org/10.5061/dryad.67n73"
 #url_project = "#"
