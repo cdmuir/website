@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/cdmuir/website", content_dir = "", r
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "cdmuir@hawaii.edu"
-phone = "808-956-6704"
+# phone = "808-956-6704"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,7 @@ coordinates = {latitude = "21.300308", longitude = "-157.815288"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["By appointment"]
+office_hours = ["After class or by appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://www.star.hawaii.edu/"
@@ -106,7 +106,7 @@ office_hours = ["By appointment"]
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Keep up @thegoodphyte", link = "https://twitter.com/thegoodphyte"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:chrisdmuir"}
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:chrisdmuir"}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

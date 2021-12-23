@@ -19,8 +19,8 @@ I am currently teaching the following course(s) at the University of Hawaiʻi:
 
 - BIOL 220: Biostatistics \
   Lecture: TR, 12:00-1:20 PM HST \
-  Kuykendall 209
-  Lab: T or R, 2:00-4:00 PM HST
+  Kuykendall 209 \
+  Lab: T or R, 2:00-4:00 PM HST \
   POST 318A
 
 - BOT 470: Evolution \
