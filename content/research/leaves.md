@@ -30,11 +30,8 @@ math = true
 
 The internal anatomy of leaves influences the rate of CO$_2$ gain and water loss during photosynthesis, but we know little about the adaptive significance of this variation. The physics and chemistry involved are well understood, but it is difficult to measure what goes on inside leaves. In collaboration with Tom Buckley (UC Davis) \textbf{NSF-funded project}, I am:
 
-\begin{enumerate}
-	  \setlength\itemsep{0pt}
-	\item{Modeling gas exchange (H$_2$O and CO$_2$ fluxes) in the leaf interior to understand how anatomy affects water-use efficiency and develop an \textit{R} package to implement the model}
-	\item{Imaging 3D leaf interiors using $\mu$CT to accurately quantify key traits identified by modeling}
-	\item{Measuring gas exchange parameters in wild tomatoes to validate modeling.}
-\end{enumerate}
+1. Modeling gas exchange (H$_2$O and CO$_2$ fluxes) in the leaf interior to understand how anatomy affects water-use efficiency and develop an *R* package to implement the model
+2. Imaging 3D leaf interiors using $\mu$CT to accurately quantify key traits identified by modeling
+3. Measuring gas exchange parameters in wild tomatoes to validate modeling
 
-\noindent These tools will generate new hypotheses about structure-function relationships within leaves and develop new methods to test them. I was also awarded a test proposal at the Swiss Light Source (Paul Scherrer Institute) to use $\mu$CT to map genetic loci underlying variation in 3D anatomical variation in tomatoes. This is an exciting area for plant biology because new phenotyping methods are showing us variation we could not see before.
+These tools will generate new hypotheses about structure-function relationships within leaves and develop new methods to test them. I was also awarded a test proposal at the Swiss Light Source (Paul Scherrer Institute) to use $\mu$CT to map genetic loci underlying variation in 3D anatomical variation in tomatoes. This is an exciting area for plant biology because new phenotyping methods are showing us variation we could not see before.
