@@ -28,7 +28,7 @@ math = true
 
 +++
 
-The internal anatomy of leaves influences the rate of CO$_2$ gain and water loss during photosynthesis, but we know little about the adaptive significance of this variation. The physics and chemistry involved are well understood, but it is difficult to measure what goes on inside leaves. In collaboration with Tom Buckley (UC Davis) \textbf{NSF-funded project}, I am:
+The internal anatomy of leaves influences the rate of CO$_2$ gain and water loss during photosynthesis, but we know little about the adaptive significance of this variation. The physics and chemistry involved are well understood, but it is difficult to measure what goes on inside leaves. In collaboration with [Tom Buckley](https://buckleylab.ucdavis.edu/) (UC Davis) **NSF-funded project**, I am:
 
 1. Modeling gas exchange (H$_2$O and CO$_2$ fluxes) in the leaf interior to understand how anatomy affects water-use efficiency and develop an *R* package to implement the model
 2. Imaging 3D leaf interiors using $\mu$CT to accurately quantify key traits identified by modeling
