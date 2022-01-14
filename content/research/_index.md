@@ -26,7 +26,7 @@ To study adaptation, my lab uses the framework of [Olson and Arroyo (2015)](http
 The major projects my lab works on will build up piece-by-piece all of the theoretical tools, experimental methods, and collaborators needed to study adaptive variation using a synthetic evo-phys approach. Over the coming years my lab will work on:
 
 * [Variation and constraint on stomatal anatomy in land plants]({{< ref "stomatal-evolution" >}})
-* Penetrating the inner lives of leaves using math, 3D imaging, and experiments
-* PERSIST: Predicting evolutionary rescue of a species in space and time
+* [Penetrating the inner lives of leaves using math, 3D imaging, and experiments]({{< ref "leaves" >}})
+* [PERSIST: Predicting evolutionary rescue of a species in space and time]({{< ref "persist" >}})
 
 In the long term, these projects will coalesce when we can use optimality models to predict how physiological traits should vary across environmental gradients, identify natural genetic variation in those traits, and measure the fitness consequences of that variation under historic and novel climates.

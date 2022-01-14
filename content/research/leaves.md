@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = 2022-01-13T00:00:00
+date = 2022-01-13T00:00:01
 
 # Project title.
 title = "Penetrating the inner lives of leaves using math, 3D imaging, and experiments"
 
 # Project summary to display on homepage.
-summary = "Using stomata to study phenotypic evolution."
+summary = "The inner lives of leaves"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "pimpinellifolium_upper_stomata.jpg"
