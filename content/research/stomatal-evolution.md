@@ -6,7 +6,7 @@ date = 2018-10-08T00:00:00
 title = "Variation and constraint on stomatal evolution"
 
 # Project summary to display on homepage.
-summary = "Using stomata to study phenotypic evolution."
+summary = "Stomata are a model trait to study the causes leading to variation and constraint on phenotypic evolution."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "pimpinellifolium_upper_stomata.jpg"

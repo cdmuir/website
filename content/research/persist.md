@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = 2022-01-13T00:00:00
+date = 2022-01-13T00:00:02
 
 # Project title.
 title = "PERSIST: Predicting evolutionary rescue of a species in space and time"
 
 # Project summary to display on homepage.
-summary = "PERSIST"
+summary = "We will combine a resurrection approach with reciprocal transplants to measure the rate of adaptation to climate change in Mimulus cardinalis"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "pimpinellifolium_upper_stomata.jpg"
