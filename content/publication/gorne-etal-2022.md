@@ -1,6 +1,6 @@
 +++
 title = "The acquisitive–conservative axis of leaf trait variation emerges even in homogeneous environments"
-date = 2020-11-27T00:00:00
+date = 2022-05-12T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["LD Gorné", "S Díaz", "V Minden", "Y Onoda", "K Kramer", "CD Muir", "ST Michaletz", "S Lavorel", "J Sharpe", "S Jansen", "M Slot", "E Chacon", "G Boenisch"]
