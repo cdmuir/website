@@ -3,7 +3,7 @@ title = "Core arbuscular mycorrhizal fungi are predicted by their high abundance
 date = 2022-02-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["KT Kajihara", "CP Egan", "SOI Swift", "CB Wall", "CD Muir", NA Hynson"]
+authors = ["KT Kajihara", "CP Egan", "SOI Swift", "CB Wall", "CD Muir", "NA Hynson"]
 
 # Publication type.
 # Legend:
