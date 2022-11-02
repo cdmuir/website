@@ -14,7 +14,7 @@ tags = ["phyteclub", "plant physiology", "tutorials"]
 summary = "Getting started with **phyteclub**"
 +++
 
-{{< tweet 1130910377322209280>}}
+{{< tweet 1130910377322209280 >}}
 
 I'm preparing my poster for the [Gordon Research Conference on CO$_2$ Assimilation]({{< ref "/talk/2019-06-09-grc" >}}), which will introduce what I'm provisionally calling **phyteclub**, a suite of R packages for modeling and data analysis in plant ecophysiology. My poster will include a very short tutorial on how to get started in **phyteclub**, so I'm reproducing that here as a blog post.
 
