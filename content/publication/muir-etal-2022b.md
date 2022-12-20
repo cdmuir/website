@@ -37,7 +37,7 @@ selected = true
 projects = []
 
 # Links (optional).
-# url_pdf = "#"
+url_pdf = "https://doi.org/10.1086/723780"
 url_preprint = "https://doi.org/10.1101/2021.09.02.457988"
 url_code = "https://github.com/cdmuir/stomata-independence"
 url_dataset = "https://github.com/cdmuir/ropenstomata"
