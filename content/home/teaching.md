@@ -17,12 +17,6 @@ weight = 50
 
 I am currently teaching the following course(s) at the University of Hawaiʻi:
 
-- BIOL 220: Biostatistics \
-  Lecture: TR, 12:00-1:20 PM HST \
-  Kuykendall 209 \
-  Lab: M or W, 12:00-2:30 PM HST \
-  POST 318A
-
 - BOT 470: Evolution \
   Lecture: MWF, 10:30-11:20 PM HST \
   HIG 110
