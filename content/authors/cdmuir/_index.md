@@ -63,8 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
-My lab is located in the [School of Life Sciences](https://lifesciences.manoa.hawaii.edu/) at the University of Hawaiʻi in beautiful M&amacr;noa. We study how plants work and why they evolved to work that way using a combination of experimental, comparative, and quantitative approaches. Please check out the [Research]({{< ref "research">}}) page for more information on current research. If these types of questions interest you, please [contact me](mailto:cdmuir@hawaii.edu) about working together!
+My lab is located in the [School of Life Sciences](https://manoa.hawaii.edu/lifesciences) at the University of Hawaiʻi in beautiful M&amacr;noa. We study how plants work and why they evolved to work that way using a combination of experimental, comparative, and quantitative approaches. Please check out the [Research]({{< ref "research">}}) page for more information on current research. If these types of questions interest you, please [contact me](mailto:cdmuir@hawaii.edu) about working together!
