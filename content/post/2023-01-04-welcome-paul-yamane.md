@@ -2,8 +2,8 @@
 title = "Welcome Paul!"
 
 date = 2023-01-04T00:00:00
-lastmod = 2023-01-04T10:30:00
-draft = true
+lastmod = 2023-01-04T09:30:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chris Muir"]
