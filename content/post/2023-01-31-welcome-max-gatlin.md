@@ -2,7 +2,7 @@
 title = "Welcome Max!"
 
 date = 2023-01-31T00:00:00
-lastmod = 2023-01-31T14:30:00
+lastmod = 2023-01-30T14:30:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
