@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Honors Student
+role: Postbac Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 
 education:
   courses:
-  - course: BS in Biology
+  - course: BS in Botany
     institution: University of Hawaiʻi
     year: 2023
 
