@@ -1,7 +1,7 @@
 +++
 title = "Welcome Max!"
 
-date = 2023-01-31T00:00:00
+date = 2023-01-30T00:00:00
 lastmod = 2023-01-30T14:30:00
 draft = false
 
