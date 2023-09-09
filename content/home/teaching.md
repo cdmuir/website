@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2021-12-23T00:00:00
+date = 2023-09-08T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -15,8 +15,8 @@ weight = 50
 
 +++
 
-I am currently teaching the following course(s) at the University of Hawaiʻi:
+I am not currently teaching any course(s) this semester at the University of Wisconsin:
 
-- BOT 470: Evolution \
-  Lecture: MWF, 10:30-11:20 PM HST \
-  HIG 110
+# - BOT 470: Evolution \
+#   Lecture: MWF, 10:30-11:20 PM HST \
+#   HIG 110

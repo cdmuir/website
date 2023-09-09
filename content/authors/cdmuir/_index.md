@@ -14,8 +14,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hawaiʻi
-  url: "https://www.hawaii.edu"
+- name: University of Wisconsin
+  url: "https://www.wisc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in how plants work and why they evolved to work that way.
@@ -41,13 +41,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cdmuir@hawaii.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/thegoodphyte
+  link: mailto:cdmuir@wisc.edu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=s6tytIMAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=3th7oT8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/cdmuir
@@ -66,4 +63,4 @@ user_groups:
 - Principal Investigator
 ---
 
-My lab is located in the [School of Life Sciences](https://manoa.hawaii.edu/lifesciences) at the University of Hawaiʻi in beautiful M&amacr;noa. We study how plants work and why they evolved to work that way using a combination of experimental, comparative, and quantitative approaches. Please check out the [Research]({{< ref "research">}}) page for more information on current research. If these types of questions interest you, please [contact me](mailto:cdmuir@hawaii.edu) about working together!
+My lab is located in the [Department of Botany](https://botany.wisc.edu/) at the University of Wisconsin - Madison. We study how plants work and why they evolved to work that way using a combination of experimental, comparative, and quantitative approaches. Please check out the [Research]({{< ref "research">}}) page for more information on current research. If these types of questions interest you, please [contact me](mailto:cdmuir@wisc.edu) about working together!
