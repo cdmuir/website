@@ -15,8 +15,4 @@ weight = 50
 
 +++
 
-I am not currently teaching any course(s) this semester at the University of Wisconsin:
-
-# - BOT 470: Evolution \
-#   Lecture: MWF, 10:30-11:20 PM HST \
-#   HIG 110
+I am not currently teaching any course(s) this semester at the University of Wisconsin
