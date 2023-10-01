@@ -38,3 +38,8 @@
   url = "#contact"
   weight = 70
 
+[[main]]
+  name = "Join us!"
+  url = "#join"
+  weight = 15
+
