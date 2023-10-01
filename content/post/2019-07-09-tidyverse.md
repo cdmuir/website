@@ -14,8 +14,6 @@ tags = ["R", "tidyverse"]
 summary = "It's the shill bucks"
 +++
 
-{{< tweet 1147885159661867008>}}
-
 # TL;DR
 
 - Norm Matloff, a computer science professor at UC Davis, [wrote about why he's a Tidyverse skeptic](https://github.com/matloff/TidyverseSkeptic). This essay was mentioned by several evolutionary biologists on Twitter that I follow (see above).
