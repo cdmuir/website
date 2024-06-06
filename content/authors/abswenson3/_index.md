@@ -20,8 +20,8 @@ organizations:
 education:
   courses:
   - course: BS in Biology
-institution: University of Wisconsin-Madison
-year: 2026
+    institution: University of Wisconsin-Madison
+    year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
