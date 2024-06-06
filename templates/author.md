@@ -38,3 +38,5 @@ email: ""
 user_groups:
 - {user_group}
 ---
+
+{blurb}

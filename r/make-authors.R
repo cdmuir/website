@@ -12,7 +12,7 @@ degree_template =
     institution: {institution}
     year: {year}
 "
-mentees = read_csv("../cv/data/mentees1.csv", show_col_types = FALSE) |>
+mentees = read_csv("../cv/data/mentees.csv", show_col_types = FALSE) |>
   
   # add roles
   full_join(
@@ -35,6 +35,11 @@ mentees = read_csv("../cv/data/mentees1.csv", show_col_types = FALSE) |>
   full_join(
     read_csv("../cv/data/mentee-affiliations.csv", show_col_types = FALSE),
     by = join_by(current_affiliation)
+  ) |>
+  # add blurbs
+  full_join(
+    read_csv("../cv/data/mentee-blurbs.csv", show_col_types = FALSE),
+    by = join_by(id)
   )
 
 mentees |>
@@ -42,6 +47,6 @@ mentees |>
   rowwise() |>
   mutate(index = glue(author_template)) |>
   split(~ id) |>
-  magrittr::extract(1) |>
+  magrittr::extract(29) |>
   walk(make_author, .path = path, .picture_path = picture_path)
   

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Former Technician
+role: Lab Technician
 
 # Organizations/Affiliations
 organizations:
@@ -20,8 +20,8 @@ organizations:
 education:
   courses:
   - course: BS in Biology
-    institution: Davidson College
-    year: 2021
+institution: Davidson College
+year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
