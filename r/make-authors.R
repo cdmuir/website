@@ -26,7 +26,7 @@ mentees = read_csv("../cv/data/mentees.csv", show_col_types = FALSE) |>
   full_join(
     read_csv("../cv/data/mentee-degrees.csv", show_col_types = FALSE) |>
       arrange(id, order) |>
-      mutate(degree = glue(degree_template)) |>
+      mutate(degree = glue(degree_template, .trim = FALSE)) |>
       summarize(degree = paste(degree, collapse = "\n"), .by = "id"),
     by = join_by(id)
   ) |>
