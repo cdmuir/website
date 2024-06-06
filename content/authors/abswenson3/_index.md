@@ -19,7 +19,7 @@ organizations:
 
 education:
   courses:
-    - course: BS in Biology
+  - course: BS in Biology
     institution: University of Wisconsin-Madison
     year: 2026
 

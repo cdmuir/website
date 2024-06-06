@@ -19,7 +19,7 @@ organizations:
 
 education:
   courses:
-    - course: BS in Biology
+  - course: BS in Biology
     institution: Davidson College
     year: 2021
 

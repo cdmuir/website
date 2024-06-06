@@ -8,7 +8,7 @@ author_template = read_lines("templates/author.md") |>
   paste(collapse = "\n")
 
 degree_template =
-"  - course: {degree} in {major}
+"- course: {degree} in {major}
     institution: {institution}
     year: {year}
 "
@@ -47,6 +47,6 @@ mentees |>
   rowwise() |>
   mutate(index = glue(author_template)) |>
   split(~ id) |>
-  magrittr::extract(29) |>
+  magrittr::extract(1) |>
   walk(make_author, .path = path, .picture_path = picture_path)
   
