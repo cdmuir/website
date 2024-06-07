@@ -16,4 +16,4 @@ summary = "Welcome Michelle Leano!"
 
 I’m pleased to welcome Michelle Leano to the lab. Michelle is an undergraduate computer science major at the University of Hawaiʻi, Mānoa. She has interests in web development and data programming, specifically in machine learning. She will be working on segmentation of 3D leaf anatomy in tomatoes using machine learning. She hopes to develop her knowledge in programming machine learning algorithms.
 
-<img alt = 'michelle-leano' width='300' src='/img/michelle-leano.jpg' ALIGN = 'center'/>
+<img alt = 'leanomc' width='300' src='/img/leanomc.jpg' ALIGN = 'center'/>
