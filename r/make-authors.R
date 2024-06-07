@@ -8,7 +8,7 @@ author_template = read_lines("templates/author.md") |>
   paste(collapse = "\n")
 
 degree_template =
-"- course: {degree} in {major}
+"  - course: {degree} in {major}
     institution: {institution}
     year: {year}
 "

@@ -23,7 +23,7 @@ education:
     institution: Arcadia University
     year: 2024
 
-- course: BS in Botany
+  - course: BS in Botany
     institution: University of Hawaiʻi
     year: 2022
 

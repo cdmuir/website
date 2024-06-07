@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dachuan Wang
+name: NA NA
 
 # Username (this should match the folder name)
 authors:
@@ -10,27 +10,31 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: NA
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hawaiʻi
-  url: "https://www.hawaii.edu"
-
-# Short bio (displayed in user profile at end of posts)
-# bio: 
+- name: NA
+  url: "NA"
 
 education:
   courses:
-  - course: MA in Professional Development, Higher Education
+  - course: PhD in Botany
+    institution: University of Wisconsin-Madison
+    year: 2026
+
+  - course: MA in Higher Education
     institution: Dallas Baptist University
     year: 2015
+
   - course: MS in Ecology
     institution: Inner Mongolia University
     year: 2012
+
   - course: BS in Biology
     institution: Hubei University
     year: 2006
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,12 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:wang777@hawaii.edu
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-# icon_pack: ai
-#  link: files/cv.pdf
+  link: mailto:NA
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -52,5 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- NA
 ---
+
+

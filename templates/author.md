@@ -19,7 +19,7 @@ organizations:
 
 education:
   courses:
-  {degree}
+{degree}
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

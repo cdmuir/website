@@ -19,6 +19,10 @@ organizations:
 
 education:
   courses:
+  - course: PhD in Ecology and Evolutionary Biology
+    institution: University of Colorado Boulder
+    year: 2026
+
   - course: MPhil in Plant Sciences
     institution: Cambridge University
     year: 2022
