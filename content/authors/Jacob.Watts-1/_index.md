@@ -19,11 +19,11 @@ organizations:
 
 education:
   courses:
-- course: MPhil in Plant Sciences
+  - course: MPhil in Plant Sciences
     institution: Cambridge University
     year: 2022
 
-- course: BS in Biology
+  - course: BS in Biology
     institution: Colgate University
     year: 2021
 
