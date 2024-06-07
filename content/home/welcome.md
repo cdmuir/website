@@ -3,8 +3,8 @@ widget: hero
 active: true
 headless: true
 weight: 10
-title: Teaching
-# hero_media: welcome.webp
+title: Welcome!
+hero_media: QEPL_LOGO_FINAL_HORIZ_hi_screen.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -12,4 +12,3 @@ design:
   css_style: 'max-width: 100%'
   css_class:
 ---
-Testing teaching section
