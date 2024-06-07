@@ -17,7 +17,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: cdmuir@wisc.edu
-  phone: 585 475 5810
   address:
     street: 420 Lincoln Drive
     city: Madison
