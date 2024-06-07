@@ -10,18 +10,23 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumnus
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hawaiʻi
-  url: "https://www.hawaii.edu"
+- name: Montgomery County Coroner's Office
+  url: "https://www.montgomerycountypa.gov/196/Coroner"
 
 education:
   courses:
-  - course: BS in Botany
+  - course: MS in Forensic Sceince
+    institution: Arcadia University
+    year: 2024
+
+- course: BS in Botany
     institution: University of Hawaiʻi
     year: 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,3 +45,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+

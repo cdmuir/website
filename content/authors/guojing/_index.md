@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumnus
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: University of Hawaiʻi
-  url: "https://www.hawaii.edu"
+  url: "https://www.hawaii.edu/"
 
 education:
   courses:
   - course: BS in Electrical Engineering
     institution: University of Hawaiʻi
     year: 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:quojing@hawaii.edu
+  link: mailto:guojing@hawaii.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -40,3 +41,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+

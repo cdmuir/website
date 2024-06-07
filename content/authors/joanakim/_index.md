@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Kapi‘olani Community College
+- name: Kapiʻolani Community College
   url: "https://www.kapiolani.hawaii.edu/"
 
 education:
   courses:
-  - course: AS in Natural Sciences
-    institution: Kapi‘olani Community College
-    year: 2023
+  - course: AS in Natural Science
+    institution: Kapiʻolani Community College
+    year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,5 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
+
+

@@ -40,13 +40,13 @@ mentees = read_csv("../cv/data/mentees.csv", show_col_types = FALSE) |>
   full_join(
     read_csv("../cv/data/mentee-blurbs.csv", show_col_types = FALSE),
     by = join_by(id)
-  )
+  ) |>
+  replace_na(list(blurb = ""))
 
 mentees |>
   filter(id != "cdmuir") |>
   rowwise() |>
   mutate(index = glue(author_template)) |>
   split(~ id) |>
-  magrittr::extract(1) |>
   walk(make_author, .path = path, .picture_path = picture_path)
   

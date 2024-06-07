@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hawai‘i
-  url: "https://www.manoa.hawaii.edu/"
+- name: University of Hawaiʻi
+  url: "https://www.hawaii.edu/"
 
 education:
   courses:
   - course: BS in Biology
-    institution: University of Hawai‘i
+    institution: University of Hawaiʻi
     year: 2026
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,5 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
+
+

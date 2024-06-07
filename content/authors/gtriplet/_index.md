@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Postbac Scholar
+role: Field Technician
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hawaiʻi
-  url: "https://www.hawaii.edu"
+- name: University of South Carolina
+  url: "https://www.sc.edu/"
 
 education:
   courses:
   - course: BS in Botany
     institution: University of Hawaiʻi
     year: 2023
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,5 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Technicians
 ---
+
+

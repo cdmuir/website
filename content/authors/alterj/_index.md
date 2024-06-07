@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumnus
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: University of Hawaiʻi
-  url: "https://www.hawaii.edu"
+  url: "https://www.hawaii.edu/"
 
 education:
   courses:
   - course: BS in Biology
     institution: University of Hawaiʻi
     year: 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,3 +41,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+

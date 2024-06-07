@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumnus
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: Connecticut College
-  url: "https://www.conncoll.edu"
+  url: "https://www.conncoll.edu/"
 
 education:
   courses:
   - course: BS in Botany and Environmental Studies
     institution: Connecticut College
     year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,3 +41,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+
