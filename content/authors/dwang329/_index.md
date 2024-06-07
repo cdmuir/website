@@ -1,10 +1,10 @@
 ---
 # Display name
-name: NA NA
+name: Dachhuan Wang
 
 # Username (this should match the folder name)
 authors:
-- wang777
+- dwang329
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: NA
-  url: "NA"
+- name: University of Wisconsin-Madison
+  url: "https://www.wisc.edu/"
 
 education:
   courses:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:NA
+  link: mailto:dwang329@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
