@@ -19,10 +19,6 @@ organizations:
 
 education:
   courses:
-  - course: MPhil in Plant Sciences
-    institution: Cambridge University
-    year: NA
-
 - course: MPhil in Plant Sciences
     institution: Cambridge University
     year: 2022
