@@ -1,51 +1,36 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
 
-title = "Accomplish&shy;ments"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: Awards and Grants
+subtitle:
 
 # Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+  - date_end: '2025-01-31'
+    date_start: '2022-02-01'
+    description: 'Collaborative Research: BEE: Integrating evolutionary genetics and population ecology to detect contemporary adaptation to climate change across a species range.'
+    organization: 'NSF'
+    organization_url: 'https://www.nsf.gov'
+    title: 'NSF DEB Bridging Ecology and Evolution'
+    url: 'https://new.nsf.gov/funding/opportunities/division-environmental-biology-deb'
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
-+++
+design:
+  columns: '2'
+---
