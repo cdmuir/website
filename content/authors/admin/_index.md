@@ -53,7 +53,7 @@ education:
   - area: BS in Biology
     institution: 'College of William & Mary'
     date_start: 2002-08-01
-    date_end: 2006-15-05
+    date_end: 2006-05-01
     
 work:
   - position: Director of Cloud Infrastructure
