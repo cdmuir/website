@@ -15,6 +15,9 @@ sections:
       subtitle: ''
       text: |-
         I am rebuilding my website. Please excuse the mess.
+    image:
+      filename: 'QEPL_LOGO_FINAL_HORIZ_hi_screen.png'
+      position: center
     design:
       columns: '1'
   - block: resume-biography-3
@@ -45,7 +48,7 @@ sections:
       text: |-
         The Quantitative Evolutionary Physiology lab integrates experiments, comparative methods, and advanced quantitative tools to study physiological adaptation using plants as model systems. 
 
-        Please [email me](mailto:cdmuir@wisc.edu) if you would like to collaborate or join the lab as an undergraduate researcher, graduate student, or postdoc.
+        Please [contact me](mailto:cdmuir@wisc.edu) if you would like to collaborate or join the lab as an undergraduate researcher, graduate student, or postdoc.
     design:
       columns: '1'
   - block: collection
