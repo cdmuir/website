@@ -9,6 +9,14 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: markdown
+    content:
+      title: 'Pardon my dust'
+      subtitle: ''
+      text: |-
+        I am rebuilding my website. Please excuse the mess.
+    design:
+      columns: '1'
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
