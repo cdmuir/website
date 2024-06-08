@@ -51,7 +51,7 @@ education:
     date_start: 2007-09-01
     date_end: 2013-05-01
   - area: BS in Biology
-    institution: College of William & Mary
+    institution: 'College of William & Mary'
     date_start: 2002-08-01
     date_end: 2006-15-05
     
