@@ -36,9 +36,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/cdmuir
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=3th7oT8AAAAJ&hl=en
+    url: 'https://scholar.google.com/citations?user=3th7oT8AAAAJ&hl=en'
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0003-2555-3878
+    url: 'https://orcid.org/0000-0003-2555-3878'
 
 interests:
   - Evolution
