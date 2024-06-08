@@ -10,8 +10,8 @@ first_name: Christopher David
 last_name: Muir
 
 # Status emoji
-# status:
-  # icon: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ role: Assistant Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Wisconsin-Madison
-    url: https://wisc.edu/
+    url: 'https://wisc.edu/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,7 +48,7 @@ interests:
 education:
   - area: PhD in Evolutionary Biology
     institution: Indiana University
-    date_start: 2007-91-01
+    date_start: 2007-09-01
     date_end: 2013-05-01
   - area: BS in Biology
     institution: College of William & Mary
