@@ -155,4 +155,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My lab is located in the [Department of Botany](https://botany.wisc.edu/) at the University of Wisconsin - Madison. We study how plants work and why they evolved to work that way using a combination of experimental, comparative, and quantitative approaches. Please check out the [Projects]({{< ref "projects">}}) page for more information on current research. If these types of questions interest you, please [contact me](mailto:cdmuir@wisc.edu) about working together!
