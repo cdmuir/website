@@ -40,14 +40,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'What we do'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        The Quantitative Evolutionary Physiology lab integrates experiments, comparative methods, and advanced quantitative tools to study physiological adaptation using plants as model systems. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Please [email me](mailto:cdmuir@wisc.edu) if you would like to collaborate or join the lab as an undergraduate researcher, graduate student, or postdoc.
     design:
       columns: '1'
   - block: collection
