@@ -9,7 +9,7 @@ authors:
 date: 2022-11-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-09T23:31:53
+publishDate: 2024-06-09T23:38:01
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -43,10 +43,10 @@ abstract: "Abstract
 
 links:
 - name: Preprint
-  url: 'http://doi.org/10.1101/2021.12.14.472651'
-url_pdf: 'http://doi.org/10.1002/ajb2.16076'
-url_code: 'http://github.com/cdmuir/mimulus-germination'
-url_dataset: 'http://doi.org/10.5061/dryad.18931zd0t'
+  url: 'https://doi.org/10.1101/2021.12.14.472651'
+url_pdf: 'https://doi.org/10.1002/ajb2.16076'
+url_code: 'https://github.com/cdmuir/mimulus-germination'
+url_dataset: 'https://doi.org/10.5061/dryad.18931zd0t'
 
 tags: []
 categories: []
