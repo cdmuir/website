@@ -8,7 +8,7 @@ authors:
 date: 2015-01-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-09T23:27:43
+publishDate: 2024-06-09T23:31:53
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,8 +22,8 @@ publication: "*The American Naturalist*"
 abstract: "Hybrid incompatibilities contribute to reproductive isolation between species, allowing them to follow independent evolutionary trajectories. Since hybrid incompatibilities are by definition deleterious, they cannot be selected for directly and must arise as a by-product of evolutionary divergence. Divergent resolution of duplicate genes, a special case of Dobzhansky-Muller incompatibilities, is one mechanism by which hybrid incompatibility can evolve. Following whole-genome duplication, loss of gene copies could possibly increase the opportunity for divergent resolution and, hence, the evolution of hybrid incompatibilities. However, divergent resolution can take place only when populations are isolated in allopatry; genes lost within a species cannot contribute to future speciation. Furthermore, nearly complete allopatry is necessary for passive divergent resolution. Using mathematical models, we demonstrate that these two factors severely impede the ability of divergent resolution alone to increase speciation rates, except under very particular conditions. Instead, we find that the population dynamics of diverging lineages dominate this process, leading to a larger role for ecology relative to genetics in the origin of new species, even by passive mechanisms. Divergent resolution of duplicate genes might increase speciation rates in some clades at some times, but our results indicate that it alone is unlikely to account for the macroevolutionary success of polyploid clades."
 
 links:
-url_pdf: 'https://doi.org/10.1086/679108'
-url_dataset: 'https://doi.org/10.5061/dryad.8k0m3'
+url_pdf: 'http://doi.org/10.1086/679108'
+url_dataset: 'http://doi.org/10.5061/dryad.8k0m3'
 
 tags: []
 categories: []
