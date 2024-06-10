@@ -3,11 +3,11 @@
 
 title: "Making pore choices: repeated regime shifts in stomatal ratio"
 authors: 
-  - Christopher D Muir
+  - admin
 date: 2015-08-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T11:32:18
+publishDate: 2024-06-10T11:44:13
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

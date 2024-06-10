@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Morphological and anatomical determinants of mesophyll conductance in wild relatives of tomato ( Solanum sect. Lycopersicon , sect. Lycopersicoides ; Solanaceae)"
+title: "Morphological and anatomical determinants of mesophyll conductance in wild relatives of tomato (Solanum sect. Lycopersicon , sect. Lycopersicoides ; Solanaceae)"
 authors: 
-  - Christopher D Muir
-  - Roger P Hangarter
-  - Leonie C Moyle
-  - Phillip A Davis
+  - admin
+  - Roger P. Hangarter
+  - Leonie C. Moyle
+  - Phillip A. Davis
 date: 2014-06-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T11:32:18
+publishDate: 2024-06-10T11:44:13
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,7 @@ publishDate: 2024-06-10T11:32:18
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant, Cell \& Environment*"
+publication: "*Plant, Cell & Environment*"
 # publication_short: ""
 
 abstract: "Natural selection on photosynthetic performance is a primary factor determining leaf phenotypes. The complex CO2 diffusion path from substomatal cavities to the chloroplasts – the mesophyll conductance (gm) – limits photosynthetic rate in many species and hence shapes variation in leaf morphology and anatomy. Among sclerophyllous and succulent taxa, structural investment in leaves, measured as the leaf dry mass per area (LMA), has been implicated in decreased gm. However, in herbaceous taxa with high gm, it is less certain how LMA impacts CO2 diffusion and whether it signiﬁcantly affects photosynthetic performance. We addressed these questions in the context of understanding the ecophysiological signiﬁcance of leaf trait variation in wild tomatoes, a closely related group of herbaceous perennials. Although gm was high in wild tomatoes, variation in gm signiﬁcantly affected photosynthesis. Even in these tenderleaved herbaceous species, greater LMA led to reduced gm. This relationship between gm and LMA is partially mediated by cell packing and leaf thickness, although amphistomy (equal distribution of stomata on both sides of the leaf) mitigates the effect of leaf thickness. Understanding the costs of increased LMA will inform future work on the adaptive signiﬁcance of leaf trait variation across ecological gradients in wild tomatoes and other systems."
