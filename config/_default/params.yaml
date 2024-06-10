@@ -11,11 +11,11 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'We study how and why organisms adapt to their environment using plants as model systems.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Quantitative Evolutionary Physiology lab"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Christopher D. Muir. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -54,7 +54,19 @@ locale:
 
 # Site features
 features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
+  repository:
+    url: 'https://github.com/cdmuir/website'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
