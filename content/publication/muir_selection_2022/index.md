@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Selection on early survival does not explain germination rate clines in \textit{{Mimulus} cardinalis}"
+title: "Selection on early survival does not explain germination rate clines in *Mimulus cardinalis*"
 authors: 
   - admin
   - Courtney L. Van Den Elzen
@@ -9,7 +9,7 @@ authors:
 date: 2022-11-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-09T23:38:01
+publishDate: 2024-06-10T08:25:20
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
