@@ -3,11 +3,11 @@
 
 title: "Is amphistomy an adaptation to high light? Optimality models of stomatal traits along light gradients"
 authors: 
-  - Christopher D Muir
+  - admin
 date: 2019-09-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T11:19:33
+publishDate: 2024-06-10T12:38:31
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
