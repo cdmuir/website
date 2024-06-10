@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "*Evolution*"
 # publication_short: ""
 
-abstract: "Every species experiences limits to its geographic distribution. Some evolutionary models predict that populations at range edges are less well adapted to their local environments due to drift, expansion load, or swamping gene flow from the range interior. Alternatively, populations near range edges might be uniquely adapted to marginal environments. In this study, we use a database of transplant studies that quantify performance at broad geographic scales to test how local adaptation, site quality, and population quality change from spatial and climatic range centers toward edges. We find that populations from poleward edges perform relatively poorly, both on average across all sites (15"
+abstract: "Every species experiences limits to its geographic distribution. Some evolutionary models predict that populations at range edges are less well adapted to their local environments due to drift, expansion load, or swamping gene flow from the range interior. Alternatively, populations near range edges might be uniquely adapted to marginal environments. In this study, we use a database of transplant studies that quantify performance at broad geographic scales to test how local adaptation, site quality, and population quality change from spatial and climatic range centers toward edges. We find that populations from poleward edges perform relatively poorly, both on average across all sites (15%"
 
 links:
 - name: Preprint
