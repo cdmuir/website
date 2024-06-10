@@ -6,7 +6,8 @@
 # Website name
 title: Quantitative Evolutionary Physiology
 # Website URL
-baseURL: 'https://cdmuir.netlify.app/'
+# baseURL: 'https://cdmuir.netlify.app/'
+baseURL: /
 
 ############################
 ## LANGUAGE
