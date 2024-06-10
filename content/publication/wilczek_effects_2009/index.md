@@ -10,21 +10,11 @@ authors:
   - Cristina Lopez-Gallego
   - Laura J. Martin
   - admin
-  - Sheina Sim
-  - Alexis Walker
-  - Jillian Anderson
-  - J Franklin Egan
-  - Brook T. Moyers
-  - Renee Petipas
-  - Antonis Giakountis
-  - Erika Charbit
-  - George Coupland
-  - Stephen M. Welch
-  - Johanna Schmitt
+  - author 7 of 18
 date: 2009-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T13:39:16
+publishDate: 2024-06-10T14:10:48
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

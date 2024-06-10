@@ -9,42 +9,12 @@ authors:
   - Tia‐Lynn Ashman
   - Robert L. Baker
   - Benjamin K. Blackman
-  - Yaniv Brandvain
-  - Kelsey J.R.P. Byers
-  - Arielle M. Cooley
-  - Jennifer M. Coughlan
-  - Michele R. Dudash
-  - Charles B. Fenster
-  - Kathleen G. Ferris
-  - Lila Fishman
-  - Jannice Friedman
-  - Dena L. Grossenbacher
-  - Liza M. Holeski
-  - Christopher T. Ivey
-  - Kathleen M. Kay
-  - Vanessa A. Koelling
-  - Nicholas J. Kooyers
-  - Courtney J. Murren
   - admin
-  - Thomas C. Nelson
-  - Megan L. Peterson
-  - Joshua R. Puzey
-  - Michael C. Rotter
-  - Jeffrey R. Seemann
-  - Jason P. Sexton
-  - Seema N. Sheth
-  - Matthew A. Streisfeld
-  - Andrea L. Sweigart
-  - Alex D. Twyford
-  - Mario Vallejo‐Marín
-  - John H. Willis
-  - Kevin M. Wright
-  - Carrie A. Wu
-  - Yao‐Wu Yuan
+  - author 23 of 38
 date: 2019-08-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T13:45:16
+publishDate: 2024-06-10T14:10:48
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
