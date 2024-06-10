@@ -8,12 +8,12 @@ authors:
   - Jiří Kubásek
   - Viktoria V Zeisler-Diehl
   - Lukas Schreiber
-  - Christopher D Muir
+  - admin
   - Jiří Šantrůček
-date: 2024-06-09T23:11:48-0500
+date: 2024-06-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-09T23:11:48
+publishDate: 2024-06-09T23:27:43
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
