@@ -9,5 +9,16 @@ weight: 11
 
 title: People
 
-author: admin
+design:
+  show_interests: true
+  show_organizations: true
+  
+content:
+  user_groups:
+  - Principal Investigator
+  - Postdocs
+  - Graduate Students
+  - Technicians
+  - Undergraduate Researchers
+  - Alumni
 ---
