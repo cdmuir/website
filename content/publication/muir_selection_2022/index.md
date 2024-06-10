@@ -43,7 +43,7 @@ abstract: "Abstract
 
 links:
 - name: Preprint
-url: 'http://doi.org/10.1101/2021.12.14.472651'
+  url: 'http://doi.org/10.1101/2021.12.14.472651'
 url_pdf: 'http://doi.org/10.1002/ajb2.16076'
 url_code: 'http://github.com/cdmuir/mimulus-germination'
 url_dataset: 'http://doi.org/10.5061/dryad.18931zd0t'
