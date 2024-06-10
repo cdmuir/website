@@ -3,11 +3,11 @@
 
 title: "tealeaves: an R package for modelling leaf temperature using energy budgets"
 authors: 
-  - Christopher D Muir
-date: NA
+  - admin
+date: 2019-12-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T12:38:34
+publishDate: 2024-06-10T12:44:07
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
