@@ -9,7 +9,7 @@ authors:
 date: 2022-11-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T08:50:25
+publishDate: 2024-06-10T08:53:57
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,26 +20,7 @@ publication_types: ["article-journal"]
 publication: "*American Journal of Botany*"
 # publication_short: ""
 
-abstract: "Abstract
-            
-              Premise
-              Many traits covary with environmental gradients to form phenotypic clines. While local adaptation to the environment can generate phenotypic clines, other nonadaptive processes may also. If local adaptation causes phenotypic clines, then the direction of genotypic selection on traits should shift from one end of the cline to the other. Traditionally, genotypic selection on non‐Gaussian traits like germination rate have been hampered because it is challenging to measure their genetic variance.
-            
-            
-              Methods
-              
-                Here we used quantitative genetics and reciprocal transplants to test whether a previously discovered cline in germination rate showed additional signatures of adaptation in the scarlet monkeyflower (
-                Mimulus cardinalis
-                ). We measured genotypic and population level covariation between germination rate and early survival, a component of fitness. We developed a novel discrete log‐normal model to estimate genetic variance in germination rate.
-              
-            
-            
-              Results
-              Contrary to our adaptive hypothesis, we found no evidence that genetic variation in germination rate contributed to variation in early survival. Across populations, southern populations in both gardens germinated earlier and survived more.
-            
-            
-              Conclusions
-              Southern populations have higher early survival but it is not caused by faster germination. This pattern is consistent with nonadaptive forces driving the phenotypic cline in germination rate, but future work will need to assess whether there is selection at other life stages. This statistical framework should help expand quantitative genetic analyses for other waiting‐time traits."
+abstract: "Many traits covary with environmental gradients to form phenotypic clines. While local adaptation to the environment can generate phenotypic clines, other nonadaptive processes may also. If local adaptation causes phenotypic clines, then the direction of genotypic selection on traits should shift from one end of the cline to the other. Traditionally, genotypic selection on non‐Gaussian traits like germination rate have been hampered because it is challenging to measure their genetic variance. Here we used quantitative genetics and reciprocal transplants to test whether a previously discovered cline in germination rate showed additional signatures of adaptation in the scarlet monkeyflower (Mimulus cardinalis). We measured genotypic and population level covariation between germination rate and early survival, a component of fitness. We developed a novel discrete log‐normal model to estimate genetic variance in germination rate. Contrary to our adaptive hypothesis, we found no evidence that genetic variation in germination rate contributed to variation in early survival. Across populations, southern populations in both gardens germinated earlier and survived more. Southern populations have higher early survival but it is not caused by faster germination. This pattern is consistent with nonadaptive forces driving the phenotypic cline in germination rate, but future work will need to assess whether there is selection at other life stages. This statistical framework should help expand quantitative genetic analyses for other waiting‐time traits."
 
 links:
 - name: Preprint
