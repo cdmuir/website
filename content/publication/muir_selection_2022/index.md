@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Selection on early survival does not explain germination rate clines in *Mimulus cardinalis*"
+title: "Selection on early survival does not explain germination rate clines in <i>Mimulus cardinalis</i>"
 authors: 
   - admin
   - Courtney L. Van Den Elzen
