@@ -3,10 +3,10 @@
 
 title: "Does stomatal patterning in amphistomatous leaves minimize the CO2 diffusion path length within leaves?"
 authors: 
-  - admin
+  - Jacob.Watts-1
   - Graham J. Dow
   - Thomas N. Buckley
-  - Jacob.Watts-1
+  - admin
 date: 2024-02-01
 
 # Schedule page publish date (NOT publication's date).
