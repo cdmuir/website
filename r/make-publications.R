@@ -9,7 +9,7 @@ pub_template = read_lines("templates/publication.md")
 pubs = read.bib("../cv/data/publications.bib") 
 pub_urls = read_csv("../cv/data/publication-urls.csv", show_col_types = FALSE) |>
   left_join(
-    read_csv("data/publication-images.csv", show_col_types = FALSE),
+    read_csv("csv/publication-images.csv", show_col_types = FALSE),
     by = join_by(pub_id)
   ) |>
   replace_na(list(caption = ""))

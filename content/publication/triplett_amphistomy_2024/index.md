@@ -3,13 +3,13 @@
 
 title: "Amphistomy increases leaf photosynthesis more in coastal than montane plants of Hawaiian ʻilima (Sida fallax)"
 authors: 
-  - gtriplet
-  - Thomas N. Buckley
   - admin
+  - Thomas N. Buckley
+  - gtriplet
 date: 2024-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T14:10:51
+publishDate: 2024-06-11T11:26:06
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -62,7 +62,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Genevieve Triplett'
+  caption: Image credit: Genevieve Triplett
   focal_point: ""
   preview_only: false
 

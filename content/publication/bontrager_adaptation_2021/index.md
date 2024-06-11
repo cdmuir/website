@@ -5,16 +5,16 @@ title: "Adaptation across geographic ranges is consistent with strong selection 
 authors: 
   - Megan Bontrager
   - Takuji Usui
-  - Julie A Lee-Yaw
-  - Daniel N Anstett
-  - Haley A Branch
-  - Anna L Hargreaves
+  - Julie A. Lee-Yaw
+  - Daniel N. Anstett
+  - Haley A. Branch
+  - Anna L. Hargreaves
   - admin
-  - Amy L Angert
+  - Amy L. Angert
 date: 2021-06-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T14:10:50
+publishDate: 2024-06-11T11:26:06
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
