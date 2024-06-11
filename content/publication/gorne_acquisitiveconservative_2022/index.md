@@ -8,18 +8,13 @@ authors:
   - Vanessa Minden
   - Yusuke Onoda
   - Koen Kramer
-  - Christopher Muir
-  - Sean T Michaletz
-  - Sandra Lavorel
-  - Joanne Sharpe
-  - Steven Jansen
-  - Martijn Slot
-  - Eduardo Chacon
-  - Gerhard Boenisch
+  - admin
+  - admin
+  - author 6 of 13
 date: 2022-05-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-10T12:44:07
+publishDate: 2024-06-10T14:10:48
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

@@ -9,10 +9,11 @@ sections:
     content:
       title: 'Pardon my dust'
       subtitle: ''
-      text: |-
+      text: |
         I am rebuilding my website. Please excuse the mess.
+    design:
+      columns: '1'
 
-sections:
   - block: hero
     content:
       title: 'What we do'
