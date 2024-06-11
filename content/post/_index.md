@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Lab News
 
 # Listing view
 view: compact
