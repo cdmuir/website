@@ -35,7 +35,7 @@ authors_from_entry = function(entry, mentees) {
   }
   
   if (any(author_has_id)) {
-    authors[author_has_id] = mentees$id[mentees$author %in% authors[author_has_id]]
+    authors[author_has_id] = mentees$id[match(authors[author_has_id], mentees$author)]
   } 
   
   authors = str_c("  - ", authors) |>

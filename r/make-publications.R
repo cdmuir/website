@@ -1,4 +1,5 @@
 # Make individual pages for publications
+# source("../cv/get-bibliography.R")
 source("r/header.R")
 
 path = "content/publications/"

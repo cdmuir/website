@@ -14,7 +14,7 @@ authors:
 date: 2021-06-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-06-11T11:26:06
+publishDate: 2024-09-14T20:50:56
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -40,7 +40,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: ''
   focal_point: ""
   preview_only: false
 
