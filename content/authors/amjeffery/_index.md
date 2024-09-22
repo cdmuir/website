@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aren Gonzales
+title: Ava Jeffery
 
 # Username (this should match the folder name)
 authors:
-- aggonzales
+- amjeffery
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher
+role: Thesis Student
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +19,9 @@ organizations:
 
 education:
   courses:
-  - course: BS in Environmental Science
+  - course: BS in Botany
     institution: University of Wisconsin-Madison
-    year: 2026
+    year: in progress
 
 
 # Social/Academic Networking
@@ -31,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:aggonzales@wisc.edu
+  link: mailto:amjeffery@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Undergrads
 ---
 
 

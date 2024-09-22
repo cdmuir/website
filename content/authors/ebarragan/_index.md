@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aren Gonzales
+title: Eduardo Barragan
 
 # Username (this should match the folder name)
 authors:
-- aggonzales
+- ebarragan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +19,17 @@ organizations:
 
 education:
   courses:
-  - course: BS in Environmental Science
+  - course: PhD in Botany
     institution: University of Wisconsin-Madison
-    year: 2026
+    year: in progress
+
+  - course: MS in Biology
+    institution: California State University-Los Angeles
+    year: 2024
+
+  - course: BS in Plant Science
+    institution: California State Polytechnic University-Pomona
+    year: 2022
 
 
 # Social/Academic Networking
@@ -31,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:aggonzales@wisc.edu
+  link: mailto:ebarragan@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +47,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Grad Students
 ---
 
 

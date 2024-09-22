@@ -21,7 +21,7 @@ education:
   courses:
   - course: PhD in Botany
     institution: University of Wisconsin-Madison
-    year: 2026
+    year: in progress
 
   - course: MA in Higher Education
     institution: Dallas Baptist University

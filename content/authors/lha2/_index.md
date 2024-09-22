@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Aren Gonzales
+title: Lin Ha
 
 # Username (this should match the folder name)
 authors:
-- aggonzales
+- lha2
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,9 +19,9 @@ organizations:
 
 education:
   courses:
-  - course: BS in Environmental Science
+  - course: BS in Mathematics
     institution: University of Wisconsin-Madison
-    year: 2026
+    year: in progress
 
 
 # Social/Academic Networking
@@ -31,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:aggonzales@wisc.edu
+  link: mailto:lha2@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Undergrads
 ---
 
 

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Melissa Tamarkin
+title: Genevieve Macnair
 
 # Username (this should match the folder name)
 authors:
-- melissa.tamarkin
+- gmacnair
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Field Technician
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +19,9 @@ organizations:
 
 education:
   courses:
-  - course: BS in Ecology and Evolutionary Biology
-    institution: Yale University
-    year: 2024
+  - course: BS in Botany
+    institution: University of Wisconsin-Madison
+    year: in progress
 
 
 # Social/Academic Networking
@@ -31,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:melissa.tamarkin@yale.edu
+  link: mailto:gmacnair@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Technicians
+- Undergrads
 ---
 
 

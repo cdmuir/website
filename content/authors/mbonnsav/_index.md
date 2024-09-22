@@ -14,8 +14,8 @@ role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Montgomery County Coroner's Office
-  url: "https://www.montgomerycountypa.gov/196/Coroner"
+- name: City and County of Honolulu
+  url: "https://www.honolulu.gov/"
 
 education:
   courses:

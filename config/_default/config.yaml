@@ -1,0 +1,7 @@
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/tree/main/modules/blox-bootstrap
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+outputs:
+  home: [..., headers, redirects]
