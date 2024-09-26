@@ -14,8 +14,8 @@ role: Field Technician
 
 # Organizations/Affiliations
 organizations:
-- name: University of Wisconsin-Madison
-  url: "https://www.wisc.edu/"
+- name: Althouse & Meade, Inc.
+  url: "https://www.althouseandmeade.com/"
 
 education:
   courses:
