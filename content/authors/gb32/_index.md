@@ -31,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:gb32@hawaii.edu
+  link: mailto:gabebradshaw99@yahoo.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
