@@ -1,31 +1,31 @@
 ---
 # Display name
-title: Wei Shen Lim
+title: Ariella Thompson
 
 # Username (this should match the folder name)
 authors:
-- weishen
+- arthompson26
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lab Technician
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hawaiʻi
-  url: "https://www.hawaii.edu/"
+- name: University of Wisconsin-Madison
+  url: "https://www.wisc.edu/"
 
 education:
   courses:
-  - course: PhD in Marine Biology
-    institution: University of Hawaiʻi
+  - course: PhD in Botany
+    institution: University of Wisconsin-Madison
     year: in progress
 
-  - course: BS in Biology
-    institution: University of Hawaiʻi
-    year: 2022
+  - course: BS in Ecology and Evolutionary Biology
+    institution: Northern Arizona University
+    year: 2024
 
 
 # Social/Academic Networking
@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:weishen@hawaii.edu
+  link: mailto:arthompson26@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -43,7 +43,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Grad Students
 ---
 
-Wei Shen is now a Ph.D. student in the Marine Biology Graduate Program at the University of Hawaiʻi at Mānoa.
+

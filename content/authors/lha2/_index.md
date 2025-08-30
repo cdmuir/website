@@ -14,14 +14,18 @@ role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Wisconsin-Madison
-  url: "https://www.wisc.edu/"
+- name: Northwestern University
+  url: "https://www.northwestern.edu/"
 
 education:
   courses:
+  - course: MS in Computer Science
+    institution: Northwestern University
+    year: in progress
+
   - course: BS in Mathematics
     institution: University of Wisconsin-Madison
-    year: in progress
+    year: 2025
 
 
 # Social/Academic Networking
@@ -39,7 +43,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrads
+- Alumni
 ---
 
-
+Lin is not a graduate student at Northwestern University's Master of Computer Science program.
