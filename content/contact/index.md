@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2025-08-31
 
 type: landing
 
@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '43.07460'
         longitude: '-89.40384'
-      directions: Enter Birge Hall and take the stairs to 211 on Floor 2
+      directions: Enter Birge Hall and take the stairs to 341 on Floor 3
       office_hours:
         - 'TBD'
       #appointment_url: 'https://calendly.com'
