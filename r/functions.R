@@ -45,6 +45,17 @@ authors_from_entry = function(entry, mentees) {
   
 }
 
+journal_from_entry = function(entry) {
+  
+  j = entry$journal
+  if (!is.null(j)) {
+    j |>
+      str_replace_all("\\\\&", "&")
+  } else {
+    "Preprint"
+  }
+}
+
 url_from_entry = function(entry, pub_urls, .pub_id) {
   
   pub_urls |>

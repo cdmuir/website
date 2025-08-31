@@ -36,17 +36,18 @@ walk(seq_len(length(pubs)), \(.entry) {
     authors = authors_from_entry(entry, mentees),
     xdate = ymd_hms(paste0(entry$year, "-", entry$month, "-01 00:00:00")),
     publish_date = format_ISO8601(Sys.time(), usetz = FALSE),
-    publication = entry$journal |>
-      str_replace_all("\\\\&", "&"),
+    publication = journal_from_entry(entry),
     abstract = entry$abstract |>
       str_replace_all("\\\\%", "%"),
     url = url_from_entry(entry, pub_urls, .pub_id),
     featured = featured_from_entry(entry, pub_urls, .pub_id),
     caption = pub_urls$caption[pub_urls$pub_id == .pub_id]
   )
+
+  env_dat = list2env(as.list(dat), parent = emptyenv())
   
   map(pub_template, \(x) {
-    glue(x, .envir = dat)
+    glue(x, .envir = env_dat)
   }) |>
     unlist() |>
     write_lines(str_c(path, "/index.md"))
