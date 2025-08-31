@@ -1,19 +1,10 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-06-10
+date: 2025-08-30
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title: 'Pardon my dust'
-      subtitle: ''
-      text: |
-        I am rebuilding my website. Please excuse the mess.
-    design:
-      columns: '1'
-
   - block: hero
     content:
       title: 'What we do'
