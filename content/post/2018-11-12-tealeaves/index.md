@@ -1,18 +1,22 @@
-+++
-title = "New R Package: tealeaves"
+---
+title: "New R Package: tealeaves"
 
-date = 2018-11-12T00:00:00
-lastmod = 2018-11-20T00:00:00
-draft = false
+date: 2018-11-12T00:00:00
+lastmod: 2018-11-20T00:00:00
+draft: false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chris Muir"]
+authors:
+  - admin
+  
+math: true
 
-math = true
-
-tags = ["plant physiology", "rstats", "tealeaves"]
-summary = "An R package to model leaf temperature"
-+++
+tags: 
+  - plant physiology
+  - rstats
+  - tealeaves
+  
+summary: "An R package to model leaf temperature"
+---
 
 <img alt = 'hex sticker' width='200' src='/img/tealeaves-hex-sticker.png' ALIGN = 'left'/>
 
@@ -28,7 +32,7 @@ The concept for this package is that it simply does one thing (model leaf temper
 
 - It uses the R packages [`units`](https://cran.r-project.org/web/packages/units/index.html) to ensure that all parameters are specified and calculated properly. If nothing else, this helps catch errors in the equations, as most errors will totally mess up the units. It also disambiguates calculations. For example, if you see something like:
 
-```{r bad, echo = TRUE, eval = FALSE}
+```
 
 # VPD is vapour pressure deficit in kPa
 VPD <- 1.5
@@ -38,7 +42,7 @@ VPD <- 1.5
 
 Does this mean that VPD is being multiple by 1000 or that you are simply changing units from kPa to Pa? It's hard to tell, but `units` makes it unambiguous:
 
-```{r good, echo = TRUE, eval = FALSE}
+```
 
 VPD <- set_units(1.5, "kPa")
 

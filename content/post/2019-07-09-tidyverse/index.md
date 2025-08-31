@@ -1,18 +1,21 @@
-+++
-title = "Why I like the Tidyverse"
+---
+title: "Why I like the Tidyverse"
 
-date = 2019-07-09T00:00:00
-lastmod = 2019-07-09T00:00:00
-draft = false
+date: 2019-07-09T00:00:00
+lastmod: 2019-07-09T00:00:00
+draft: false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chris Muir"]
+authors:
+  - admin
 
-math = true
+math: true
 
-tags = ["R", "tidyverse"]
-summary = "It's the shill bucks"
-+++
+tags:
+  - R
+  - tidyverse
+  
+summary: "It's the shill bucks"
+---
 
 # TL;DR
 

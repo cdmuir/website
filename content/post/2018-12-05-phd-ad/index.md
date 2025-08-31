@@ -1,16 +1,18 @@
-+++
-title = "PhD Opportunity"
+---
+title: "PhD Opportunity"
 
-date = 2018-12-05T00:00:00
-lastmod = 2018-12-05T00:00:00
-draft = false
+date: 2018-12-05T00:00:00
+lastmod: 2018-12-05T00:00:00
+draft: false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chris Muir"]
+authors: 
+  - admin
+  
+tags: 
+  - recruiting
 
-tags = ["recruiting"]
-summary = "Recruiting PhD Students!"
-+++
+summary: "Recruiting PhD Students!"
+---
 
 The Muir Lab of Plant Evolutionary Physiology at the University of Hawai’i in Mānoa is currently seeking students interested in pursuing a PhD to join beginning Fall 2019. I am particularly interested in motivated students who want to answer fundamental questions in evolutionary biology and ecophysiology using any combination of experimental, comparative, and quantitative approaches.
 

@@ -1,18 +1,22 @@
-+++
-title = "New R Package: photosynthesis"
+---
+title: "New R Package: photosynthesis"
 
-date = 2018-11-19T00:00:00
-lastmod = 2018-11-20T00:00:00
-draft = false
+date: 2018-11-19T00:00:00
+lastmod: 2018-11-20T00:00:00
+draft: false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chris Muir"]
+authors: 
+  - admin
+  
+math: true
 
-math = true
-
-tags = ["plant physiology", "photosynthesis", "rstats"]
-summary = "An R package to simulate C3 photosynthesis"
-+++
+tags: 
+  - plant physiology
+  - photosynthesis
+  - rstats
+  
+summary: "An R package to simulate C3 photosynthesis"
+---
 
 
 <img alt = 'hex sticker' width='200' align='left' src='/img/photosynthesis-hex-sticker.png' />
@@ -29,7 +33,7 @@ The concept for this package is that it simply does one thing (simulate photosyn
 
 - **Units**: it uses the R package [`units`](https://cran.r-project.org/web/packages/units/index.html) to ensure that all parameters are specified and calculated properly. If nothing else, this helps catch errors in the equations, as most errors will totally mess up the units. It also disambiguates calculations. For example, if you see something like:
 
-```{r bad, echo = TRUE, eval = FALSE}
+```
 
 # VPD is vapour pressure deficit in kPa
 VPD <- 1.5
@@ -39,7 +43,7 @@ VPD <- 1.5
 
 Does this mean that VPD is being multiple by 1000 or that you are simply changing units from kPa to Pa? It's hard to tell, but `units` makes it unambiguous:
 
-```{r good, echo = TRUE, eval = FALSE}
+```
 
 VPD <- set_units(1.5, "kPa")
 
@@ -55,7 +59,7 @@ VPD %<>% set_units("Pa")
 
 - **Environmental/trait gradients:** like `tealeaves`, this packages uses the `tidyr::crossing` function to easily create (multiple) environmental and/or trait gradients over which to simulate. For example, you could easily simulate photosynthetic responses to CO2 concentration (aka, the A-Cc curve) this way:
 
-```{r ACc, echo = TRUE, eval = FALSE}
+```
 
 leaf_par <- make_leafpar()
 enviro_par <- make_enviropar(

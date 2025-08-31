@@ -1,18 +1,22 @@
-+++
-title = "Rules of phyteclub"
+---
+title: "Rules of phyteclub"
 
-date = 2019-05-30T00:00:00
-lastmod = 2019-05-30T08:20:00
-draft = false
+date: 2019-05-30T00:00:00
+lastmod: 2019-05-30T08:20:00
+draft: false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chris Muir"]
+authors: 
+  - admin
 
-math = true
+math: true
 
-tags = ["phyteclub", "plant physiology", "tutorials"]
-summary = "Getting started with **phyteclub**"
-+++
+tags: 
+  - phyteclub
+  - plant physiology
+  - tutorials
+  
+summary: "Getting started with **phyteclub**"
+---
 
 I'm preparing my poster for the [Gordon Research Conference on CO$_2$ Assimilation]({{< ref "/talk/2019-06-09-grc" >}}), which will introduce what I'm provisionally calling **phyteclub**, a suite of R packages for modeling and data analysis in plant ecophysiology. My poster will include a very short tutorial on how to get started in **phyteclub**, so I'm reproducing that here as a blog post.
 

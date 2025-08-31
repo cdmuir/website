@@ -1,20 +1,21 @@
-+++
-title = "Within species comparative methods"
+---
+title: "Within species comparative methods"
 
-date = 2018-10-26T00:00:00
-lastmod = 2018-10-26T00:00:00
-draft = true
+date: 2018-10-26T00:00:00
+lastmod: 2018-10-26T00:00:00
+draft: true
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chris Muir"]
+authors: 
+  - admin
 
-tags = ["comparative methods", "science"]
-summary = "Extending between species methods to within species is hard."
+tags: 
+  - comparative methods
+  - science
 
-# Does the does blog post use math formatting?
-math = true
+math: true
 
-+++
+summary: "Extending between species methods to within species is hard."
+---
 
 Many evolutionary biologists and biologists in other fields are now familiar with using phylogenies in their comparative studies and phylogenetic comparative methods (PCMs) continue to develop rapidly. One of the problems PCMs attempt to solve is the fact that species and other taxanomic units are not statistically independent of one another. Obviously the same concern applies to populations within species, which vary in their relatedness due to both common ancestry and ongoing migration. Yet many researchers who would get a case of the vapors if they published a nonphylogenetic between-species comparative study, readily analyze within-species datasets as if populations are independent units (including [myself]({{< ref "/publication/muir-angert-2017.md" >}})).
 
