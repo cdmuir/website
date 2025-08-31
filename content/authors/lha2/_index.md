@@ -46,4 +46,4 @@ user_groups:
 - Alumni
 ---
 
-Lin is not a graduate student at Northwestern University's Master of Computer Science program.
+Lin is now a graduate student at Northwestern University's Master of Computer Science program.

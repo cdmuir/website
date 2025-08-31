@@ -23,9 +23,8 @@ sections:
       text: ""
       count: 5
       filters:
-        folders:
-          - publication
-        publication_type: 'article'
+        folders: [publication]
+        # publication_type: 'article'
     design:
       view: citation
       columns: '1'
