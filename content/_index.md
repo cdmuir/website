@@ -9,7 +9,7 @@ sections:
     content:
       title: 'What we do'
       image:
-        filename: 'QEPL_LOGO_FINAL_HORIZ_hi_screen.png'
+        filename: 'QEPL_LOGO_FINAL_hi_screen.png'
       text: |
         <br>
         
@@ -19,12 +19,23 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publications
+      title: Latest Preprints & Publications
       text: ""
       count: 5
       filters:
         folders: [publication]
         # publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
+  - block: collection
+    content:
+      title: News
+      text: ""
+      count: 5
+      filters:
+        folders: [post]
     design:
       view: citation
       columns: '1'
