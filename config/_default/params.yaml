@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: cdmuir
+  theme_day: custom
+  theme_night: 
 
 # SEO
 marketing:
@@ -15,16 +15,6 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'We study how and why organisms adapt to their environment using plants as model systems.'
-    twitter: ''
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
-  verification:
-    google: ''
-    baidu: ''
 
 # Site header
 header:
@@ -85,6 +75,10 @@ extensions:
   academicons:
     enable: true
 
+services:
+  googleAnalytics:
+    id: G-XBHWGWQ45K
+    
 # Citation style
 
 publications:

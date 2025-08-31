@@ -1,0 +1,25 @@
+# data/themes/custom.toml
+
+# Theme metadata
+name = "Custom"
+
+[light]
+  # Primary
+  primary = "rgb(255, 99, 71)" # tomato color
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "rgb(54, 100, 139)" # dark steel blue
+  menu_text_active = "rgb(70, 130, 180)" # steel blue
+  menu_title = "rgb(70, 130, 180)" # steel blue
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)" # white
+  home_section_even = "rgb(247, 247, 247)" # light grey
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
