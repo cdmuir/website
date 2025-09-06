@@ -42,4 +42,4 @@ user_groups:
 - Alumni
 ---
 
-Genevieve is pursuing an MS in the Toll lab at the University of South Carolina
+Genevieve is pursuing an MS in the Toll lab at the University of South Carolina.

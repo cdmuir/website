@@ -21,7 +21,7 @@ education:
   courses:
   - course: BS in Natural Resources and Environmental Management
     institution: University of Hawaiʻi
-    year: NA
+    year: 2022
 
 
 # Social/Academic Networking
