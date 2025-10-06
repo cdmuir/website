@@ -42,4 +42,6 @@ params:
   location: "UW–Madison"
 ---
 
-More information coming soon, but save this link to learn more about the course!
+**Info session**: Thursday, Oct 9 @ 4:30 PM in Birge 158 and on Zoom (link coming soon)
+
+I will add more information here, so check back soon.
