@@ -1,7 +1,7 @@
 ---
 title: "BOT 575: Plant ecophysiology and adaptive radiation in Hawaiʻi"
-subtitle: "Optional subtitle"
-summary: "One–two sentence teaser for the card."
+subtitle: "Spring 2026"
+summary: "Field course in January 2026 to Kauaʻi and Hawaiʻi Island"
 date: 2025-10-06
 lastmod: 2025-10-06
 draft: false
@@ -26,10 +26,10 @@ weight: 0
 
 # Optional buttons (Hugo-Blox/Wowchemy pattern used on project pages)
 links:
-  # - icon: file
-  #   icon_pack: fas
-  #   name: "Syllabus"
-  #   url: "/files/syllabus.pdf"
+  - icon: file
+    icon_pack: fas
+    name: "Flier"
+    url: "bot575_sp2026_Muir-Hawaii-info.jpg"
   # - icon: github
   #   icon_pack: fab
   #   name: "Repo"
@@ -42,6 +42,8 @@ params:
   location: "UW–Madison"
 ---
 
-**Info session**: Thursday, Oct 9 @ 4:30 PM in Birge 158 and on Zoom (link coming soon)
+**Info session**: Thursday, Oct 9 @ 4:30 PM in Birge 158 and on [Zoom](https://uwmadison.zoom.us/j/97745780276) (you must be signed into your wisc.edu account to join on Zoom).
+
+Please fill out this [form](https://forms.gle/x8SBh8V5KfKC9Es87) if you are interested in enrolling. I will email you updates about the application process and other news.
 
 I will add more information here, so check back soon.
