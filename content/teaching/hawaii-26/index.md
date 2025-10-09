@@ -42,8 +42,29 @@ params:
   location: "UW–Madison"
 ---
 
+## Information session
+
 **Info session**: Thursday, Oct 9 @ 4:30 PM in Birge 158 and on [Zoom](https://uwmadison.zoom.us/j/97745780276) (you must be signed into your wisc.edu account to join on Zoom).
 
+## Interest form
+
 Please fill out this [form](https://forms.gle/x8SBh8V5KfKC9Es87) if you are interested in enrolling. I will email you updates about the application process and other news.
+
+## Application form (due Oct 22)
+
+You can apply here: [Google Form](https://forms.gle/pqTedFXsH7QV6Pkw8)
+
+Application includes:
+
+* 1-page statement of interest
+  + Why are you interested?
+  + How will the course benefit you?
+* Resume/CV
+* Transcript or list of relevant coursework
+* Request for financial aid (optional)
+
+
+
+
 
 I will add more information here, so check back soon.
