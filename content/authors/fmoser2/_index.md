@@ -46,4 +46,4 @@ user_groups:
 - Grad Students
 ---
 
-
+I am a first-year Botany PhD student passionate about plant ecophysiology and evolution. I am interested in the connections between plant form and function, and how these connections shape evolutionary trajectories, specifically the evolution of plasticity. I completed my undergraduate at the University of Toronto where I double majored in Ecology and Evolutionary Biology as well as Ethics, Society, and Law. Outside of school, I enjoy writing, reading, and playing hockey.

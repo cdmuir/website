@@ -46,4 +46,4 @@ user_groups:
 - Grad Students
 ---
 
-test
+I’m a first-year PhD student in the Muir lab. I’m from Prescott, Arizona, and I am an avid outdoor enthusiast. I’m interested in backpacking, rock climbing, and kayaking. When I’m not outside, I love to crochet. I got my B.S. in Ecology and Evolutionary Biology from Northern Arizona University. Broadly, my research interests are plant trait ecology and evolutionary biology. My research project focuses on trichome trait variation in Tiling’s monkeyflower, M. tilingii, which is an alpine monkeyflower species found throughout the Western United States. I am specifically looking at how abiotic and biotic pressures present on latitudinal and elevational gradients shape trichome traits.

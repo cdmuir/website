@@ -54,4 +54,4 @@ user_groups:
 - Grad Students
 ---
 
-
+I am a PhD student and joined Chris’s lab several years ago when we were in Hawaii. My research interests focus on how climate change affects plants and ecosystems. My current research examines how monkeyflowers respond to drought stress on the West Coast. I enjoy fieldwork and hiking. One of my life goals is to visit all the national parks, and I’ve completed about one-third so far.

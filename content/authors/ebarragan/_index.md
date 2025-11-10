@@ -50,4 +50,4 @@ user_groups:
 - Grad Students
 ---
 
-
+Leaves are extremely diverse in their morphology, anatomy, and bio-chemistry. I am broadly interested in how inter- and intra-specific variation in the the form and function of leaves impacts plant gas exchange and hence, place productivity. I plan to develop and apply an integrative approach to better explain the observable variation in leaf form and function and why it has evolved.
