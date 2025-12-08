@@ -14,10 +14,15 @@ pub_urls = read_csv("../cv/data/publication-urls.csv", show_col_types = FALSE) |
     by = join_by(pub_id)
   ) |>
   replace_na(list(caption = ""))
-mentees = read_csv("../cv/data/mentees.csv", show_col_types = FALSE) |>
+
+mentees = read_sheet(
+  "1vuAQPwkGC8kFNKpVZ0KBE3ZJjXGBR9XIwh1ASQwumjk",
+  sheet = "mentees",
+  col_types = "ccccclc"
+) |> 
   mutate(author = paste(given, last)) |>
   select(id, author)
-  
+
 assert_set_equal(names(pubs), pub_urls$pub_id)
 
 walk(seq_len(length(pubs)), \(.entry) {
