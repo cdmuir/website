@@ -10,10 +10,10 @@ authors:
   - Cristina Payst
   - admin
   - Seema Nayan Sheth
-date: 2025-05-01
+date: 2025-10-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-08-30T20:43:31
+publishDate: 2025-12-08T10:28:04
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,7 +21,7 @@ publishDate: 2025-08-30T20:43:31
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preprint*"
+publication: "*American Journal of Botany*"
 # publication_short: ""
 
 abstract: "Abstract
