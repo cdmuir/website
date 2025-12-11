@@ -1,10 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is photosynthetic capacity associated with diversification of C3 plants?"
+title: "The case for the continued use of the genus name Mimulus for all monkeyflowers"
 authors: 
-  - Christopher David Muir
-date: 2026-01-01
+  - David B. Lowry
+  - James M. Sobel
+  - Amy L. Angert
+  - Tia‐Lynn Ashman
+  - Robert L. Baker
+  - Benjamin K. Blackman
+  - admin
+  - author 23 of 38
+date: 2019-08-01
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-12-11T10:33:57
@@ -15,15 +22,13 @@ publishDate: 2025-12-11T10:33:57
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecology Letters*"
+publication: "*Taxon*"
 # publication_short: ""
 
-abstract: ""
+abstract: "The case for the continued use of the genus name Mimulus for all monkeyflowers"
 
 links:
-- name: Preprint
-  url: 'https://doi.org/10.22541/au.176463134.40258199/v1'
-url_code: 'https://github.com/cdmuir/photosynthesis-diversification'
+url_pdf: 'https://doi.org/10.1002/tax.12122'
 
 tags: []
 categories: []

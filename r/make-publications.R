@@ -36,13 +36,13 @@ walk(seq_len(length(pubs)), \(.entry) {
   }
   
   dat = tibble(
-    title = entry$title |> convert_latex_to_markdown(),
+    title = entry$title |> convert_title(),
     authors = authors_from_entry(entry, mentees),
     xdate = ymd_hms(paste0(entry$year, "-", entry$month, "-01 00:00:00")),
     publish_date = format_ISO8601(Sys.time(), usetz = FALSE),
     publication = journal_from_entry(entry),
     abstract = entry$abstract |> 
-      convert_latex_to_markdown() |>
+      convert_abstract() |>
       paste0(""),
     url = url_from_entry(entry, pub_urls, .pub_id),
     featured = featured_from_entry(entry, pub_urls, .pub_id),
