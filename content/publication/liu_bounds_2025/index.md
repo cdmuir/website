@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 publication: "*New Phytologist*"
 # publication_short: ""
 
-abstract: "$\textit{test}$"
+abstract: "$A$"
 
 links:
 - name: Preprint
