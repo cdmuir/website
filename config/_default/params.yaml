@@ -52,7 +52,6 @@ features:
       - latex
   math:
     enable: true
-    engine: katex
   privacy_pack:
     enable: true
   repository:
