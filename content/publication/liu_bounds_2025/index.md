@@ -15,7 +15,6 @@ authors:
   - Guirui Yu
   - Nianpeng He
 date: 2025-12-01
-math: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-12-11T08:48:33
