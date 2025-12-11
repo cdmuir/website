@@ -26,7 +26,7 @@ mentees = read_sheet(
 assert_set_equal(names(pubs), pub_urls$pub_id)
 # which(!names(pubs) %in% pub_urls$pub_id)
 
-walk(seq_len(length(pubs))[21:46], \(.entry) {
+walk(seq_len(length(pubs)), \(.entry) {
   
   .pub_id = names(pubs)[.entry]
   entry = pubs[[.entry]]
