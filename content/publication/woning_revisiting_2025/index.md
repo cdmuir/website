@@ -1,9 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+title: "Revisiting the relationship between stomatal size and speed across species – a meta-analysis"
 authors: 
+  - Nik Woning
+  - Yazen Al-Salman
+  - Elias Kaiser
+  - Sarah R. Berman
+  - Oliver Brendel
+  - Francisco Javier Cano
+  - admin
+  - author 23 of 32
+date: 2025-11-01
 
 # Schedule page publish date (NOT publication's date).
+publishDate: 2025-12-10T22:23:50
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -11,17 +22,22 @@ authors:
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
+publication: "*New Phytologist*"
 # publication_short: ""
 
+abstract: ""
 
 links:
 
+
 tags: []
 categories: []
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  caption: ''
   focal_point: ""
   preview_only: false
 

@@ -1,9 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+title: "Is photosynthetic capacity associated with diversification of C$_{\textrm3}$ plants?"
 authors: 
+  - Christopher David Muir
+date: 2026-01-01
 
 # Schedule page publish date (NOT publication's date).
+publishDate: 2025-12-10T22:23:50
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -11,17 +15,24 @@ authors:
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
+publication: "*Ecology Letters*"
 # publication_short: ""
 
+abstract: ""
 
 links:
+- name: Preprint
+  url: 'https://doi.org/10.22541/au.176463134.40258199/v1'
+url_code: 'https://github.com/cdmuir/photosynthesis-diversification'
 
 tags: []
 categories: []
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  caption: ''
   focal_point: ""
   preview_only: false
 
