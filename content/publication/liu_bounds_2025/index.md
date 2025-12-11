@@ -28,7 +28,7 @@ publication_types: ["article-journal"]
 publication: "*New Phytologist*"
 # publication_short: ""
 
-abstract: "A prevailing hypothesis posits that achieving higher maximum rates of leaf carbon gain and water loss is constrained by geometry and/or selection to limit the allocation of epidermal area to stomata (*f*<sub>S</sub>)."
+abstract: "A prevailing hypothesis posits that achieving higher maximum rates of leaf carbon gain and water loss is constrained by geometry and/or selection to limit the allocation of epidermal area to stomata (*f*<sub>S</sub>). Under this ‘stomatal‐area minimization hypothesis’"
 
 links:
 - name: Preprint
