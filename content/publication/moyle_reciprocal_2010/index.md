@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Reciprocal insights into adaptation from agricultural and evolutionary studies in tomato: Abiotic adaptation in tomato"
+title: "Reciprocal insights into adaptation from agricultural and evolutionary studies in tomato: {Abiotic} adaptation in tomato"
 authors: 
   - Leonie C. Moyle
   - admin
 date: 2010-09-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:53
+publishDate: 2025-12-11T09:53:23
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

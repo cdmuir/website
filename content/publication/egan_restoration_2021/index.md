@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Restoration of the mycobiome of the endangered Hawaiian mint Phyllostegia kaalaensis increases its resistance to a common powdery mildew"
+title: "Restoration of the mycobiome of the endangered {Hawaiian} mint {Phyllostegia} kaalaensis increases its resistance to a common powdery mildew"
 authors: 
   - Cameron P. Egan
   - Jerry H. Koko
@@ -13,7 +13,7 @@ authors:
 date: 2021-08-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:53
+publishDate: 2025-12-11T09:53:23
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

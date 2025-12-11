@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Light and growth form interact to shape stomatal ratio among British angiosperms"
+title: "Light and growth form interact to shape stomatal ratio among {British} angiosperms"
 authors: 
   - admin
 date: 2018-03-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:53
+publishDate: 2025-12-11T09:53:23
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

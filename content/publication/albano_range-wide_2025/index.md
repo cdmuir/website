@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Range-wide responses to an extreme heat event in Mimulus cardinalis"
+title: "Range-wide responses to an extreme heat event in *{Mimulus* cardinalis}"
 authors: 
   - Lucas J. Albano
   - Robin A. Bingham
@@ -13,7 +13,7 @@ authors:
 date: 2025-10-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:50
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

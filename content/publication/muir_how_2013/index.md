@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "How Did the Swiss Cheese Plant Get Its Holes?"
+title: "How {Did} the {Swiss} {Cheese} {Plant} {Get} {Its} {Holes}?"
 authors: 
   - admin
 date: 2013-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:55
+publishDate: 2025-12-11T09:53:23
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

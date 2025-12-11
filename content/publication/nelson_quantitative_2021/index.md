@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Quantitative trait locus mapping reveals an independent genetic basis for joint divergence in leaf function, life‐history, and floral traits between scarlet monkeyflower (Mimulus cardinalis) populations"
+title: "Quantitative trait locus mapping reveals an independent genetic basis for joint divergence in leaf function, life‐history, and floral traits between scarlet monkeyflower (*{Mimulus* cardinalis}) populations"
 authors: 
   - Thomas C. Nelson
   - admin
@@ -13,7 +13,7 @@ authors:
 date: 2021-05-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:52
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TRY plant trait database – enhanced coverage and open access"
+title: "{TRY} plant trait database – enhanced coverage and open access"
 authors: 
   - Jens Kattge
   - Gerhard Bönisch
@@ -14,7 +14,7 @@ authors:
 date: 2020-01-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:51
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

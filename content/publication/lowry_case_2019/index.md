@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The case for the continued use of the genus name Mimulus for all monkeyflowers"
+title: "The case for the continued use of the genus name *{Mimulus*} for all monkeyflowers"
 authors: 
   - David B. Lowry
   - James M. Sobel
@@ -14,7 +14,7 @@ authors:
 date: 2019-08-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:51
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

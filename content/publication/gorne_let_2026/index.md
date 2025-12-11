@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Let the concept of trait be functional? Assumptions and inconsistencies in plant functional ecology"
+title: "Let the concept of trait be functional? {Assumptions} and inconsistencies in plant functional ecology"
 authors: 
   - Lucas Gorné
   - Christopher D Muir
@@ -9,7 +9,7 @@ authors:
 date: 2026-01-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:50
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

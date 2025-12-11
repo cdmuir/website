@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is amphistomy an adaptation to high light? Optimality models of stomatal traits along light gradients"
+title: "Is amphistomy an adaptation to high light? {Optimality} models of stomatal traits along light gradients"
 authors: 
   - admin
 date: 2019-09-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:52
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

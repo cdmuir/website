@@ -24,6 +24,7 @@ mentees = read_sheet(
   select(id, author)
 
 assert_set_equal(names(pubs), pub_urls$pub_id)
+# which(!names(pubs) %in% pub_urls$pub_id)
 
 walk(seq_len(length(pubs)), \(.entry) {
   
@@ -35,15 +36,14 @@ walk(seq_len(length(pubs)), \(.entry) {
   }
   
   dat = tibble(
-    title = entry$title |>
-      str_replace_all("\\{(\\w+)\\}", "\\1") |>
-      str_replace_all("\\\\textit\\{([^}]*)\\}", "\\1"),
+    title = entry$title |> convert_latex_to_markdown(),
     authors = authors_from_entry(entry, mentees),
     xdate = ymd_hms(paste0(entry$year, "-", entry$month, "-01 00:00:00")),
     publish_date = format_ISO8601(Sys.time(), usetz = FALSE),
     publication = journal_from_entry(entry),
-    abstract = entry$abstract |>
-      str_replace_all("\\\\%", "%"),
+    abstract = entry$abstract |> 
+      convert_latex_to_markdown() |>
+      paste0(""),
     url = url_from_entry(entry, pub_urls, .pub_id),
     featured = featured_from_entry(entry, pub_urls, .pub_id),
     caption = pub_urls$caption[pub_urls$pub_id == .pub_id]

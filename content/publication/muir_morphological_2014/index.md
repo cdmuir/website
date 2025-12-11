@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Morphological and anatomical determinants of mesophyll conductance in wild relatives of tomato (Solanum sect. Lycopersicon, sect. Lycopersicoides; Solanaceae)"
+title: "Morphological and anatomical determinants of mesophyll conductance in wild relatives of tomato (*{Solanum*} sect. *{Lycopersicon*}, sect. *{Lycopersicoides*}; {Solanaceae})"
 authors: 
   - admin
   - Roger P. Hangarter
@@ -10,7 +10,7 @@ authors:
 date: 2014-06-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:52
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

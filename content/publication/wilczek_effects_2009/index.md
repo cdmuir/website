@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Effects of Genetic Perturbation on Seasonal Life History Plasticity"
+title: "Effects of {Genetic} {Perturbation} on {Seasonal} {Life} {History} {Plasticity}"
 authors: 
   - Amity M. Wilczek
   - Judith L. Roe
@@ -14,7 +14,7 @@ authors:
 date: 2009-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:52
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

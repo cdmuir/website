@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Stomatal anatomy coordinates leaf size with Rubisco kinetics in the Balearic Limonium"
+title: "Stomatal anatomy coordinates leaf size with {Rubisco} kinetics in the {Balearic} {Limonium}"
 authors: 
   - Miquel À Conesa
   - Christopher D Muir
@@ -10,7 +10,7 @@ authors:
 date: 2019-08-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:51
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

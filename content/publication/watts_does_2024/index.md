@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Does stomatal patterning in amphistomatous leaves minimize the CO2 diffusion path length within leaves?"
+title: "Does stomatal patterning in amphistomatous leaves minimize the {CO2} diffusion path length within leaves?"
 authors: 
   - Jacob.Watts-1
   - Graham J. Dow
@@ -10,7 +10,7 @@ authors:
 date: 2024-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:52
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*AoB PLANTS*"
 # publication_short: ""
 
-abstract: "Photosynthesis is co-limited by multiple factors depending on the plant and its environment. These include biochemical rate limitations, internal and external water potentials, temperature, irradiance and carbon dioxide (CO2). Amphistomatous leaves have stomata on both abaxial and adaxial leaf surfaces. This feature is considered an adaptation to alleviate CO2 diffusion limitations in productive environments as the diffusion path length from stomate to chloroplast is effectively halved in amphistomatous leaves. Plants may also reduce CO2 limitations through other aspects of optimal stomatal anatomy: stomatal density, distribution, patterning and size. Some studies have demonstrated that stomata are overdispersed compared to a random distribution on a single leaf surface; however, despite their prevalence in nature and near ubiquity among crop species, much less is known about stomatal anatomy in amphistomatous leaves, especially the coordination between leaf surfaces. Here, we use novel spatial statistics based on simulations and photosynthesis modelling to test hypotheses about how amphistomatous plants may optimize CO2 diffusion in the model angiosperm Arabidopsis thaliana grown in different light environments. We find that (i) stomata are overdispersed, but not ideally dispersed, on both leaf surfaces across all light treatments; (ii) the patterning of stomata on abaxial and adaxial leaf surfaces is independent and (iii) the theoretical improvements to photosynthesis from abaxial–adaxial stomatal coordination are miniscule (≪1%) across the range of feasible parameter space. However, we also find that (iv) stomatal size is correlated with the mesophyll volume that it supplies with CO2, suggesting that plants may optimize CO2 diffusion limitations through alternative pathways other than ideal, uniform stomatal spacing. We discuss the developmental, physical and evolutionary constraints that may prohibit plants from reaching this theoretical adaptive peak of uniform stomatal spacing and inter-surface stomatal coordination. These findings contribute to our understanding of variation in the anatomy of amphistomatous leaves."
+abstract: "Photosynthesis is co-limited by multiple factors depending on the plant and its environment. These include biochemical rate limitations, internal and external water potentials, temperature, irradiance and carbon dioxide (CO2). Amphistomatous leaves have stomata on both abaxial and adaxial leaf surfaces. This feature is considered an adaptation to alleviate CO2 diffusion limitations in productive environments as the diffusion path length from stomate to chloroplast is effectively halved in amphistomatous leaves. Plants may also reduce CO2 limitations through other aspects of optimal stomatal anatomy: stomatal density, distribution, patterning and size. Some studies have demonstrated that stomata are overdispersed compared to a random distribution on a single leaf surface; however, despite their prevalence in nature and near ubiquity among crop species, much less is known about stomatal anatomy in amphistomatous leaves, especially the coordination between leaf surfaces. Here, we use novel spatial statistics based on simulations and photosynthesis modelling to test hypotheses about how amphistomatous plants may optimize CO2 diffusion in the model angiosperm Arabidopsis thaliana grown in different light environments. We find that (i) stomata are overdispersed, but not ideally dispersed, on both leaf surfaces across all light treatments; (ii) the patterning of stomata on abaxial and adaxial leaf surfaces is independent and (iii) the theoretical improvements to photosynthesis from abaxial–adaxial stomatal coordination are miniscule (≪1\%) across the range of feasible parameter space. However, we also find that (iv) stomatal size is correlated with the mesophyll volume that it supplies with CO2, suggesting that plants may optimize CO2 diffusion limitations through alternative pathways other than ideal, uniform stomatal spacing. We discuss the developmental, physical and evolutionary constraints that may prohibit plants from reaching this theoretical adaptive peak of uniform stomatal spacing and inter-surface stomatal coordination. These findings contribute to our understanding of variation in the anatomy of amphistomatous leaves."
 
 links:
 - name: Preprint

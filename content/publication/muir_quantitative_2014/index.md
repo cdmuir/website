@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Quantitative Genetic Analysis Indicates Natural Selection on Leaf Phenotypes Across Wild Tomato Species (Solanum sect. Lycopersicon ; Solanaceae)"
+title: "Quantitative {Genetic} {Analysis} {Indicates} {Natural} {Selection} on {Leaf} {Phenotypes} {Across} {Wild} {Tomato} {Species} (*{Solanum*} sect. *{Lycopersicon*} ; {Solanaceae})"
 authors: 
   - admin
   - James B. Pease
@@ -9,7 +9,7 @@ authors:
 date: 2014-12-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:53
+publishDate: 2025-12-11T09:53:22
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
