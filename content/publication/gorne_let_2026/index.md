@@ -1,9 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is photosynthetic capacity associated with diversification of C3 plants?"
+title: "Let the concept of trait be functional? Assumptions and inconsistencies in plant functional ecology"
 authors: 
-  - Christopher David Muir
+  - Lucas Gorné
+  - Christopher D Muir
+  - A Fajardo
 date: 2026-01-01
 
 # Schedule page publish date (NOT publication's date).
@@ -15,15 +17,13 @@ publishDate: 2025-12-11T10:32:34
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecology Letters*"
+publication: "*Oikos*"
 # publication_short: ""
 
 abstract: ""
 
 links:
-- name: Preprint
-  url: 'https://doi.org/10.22541/au.176463134.40258199/v1'
-url_code: 'https://github.com/cdmuir/photosynthesis-diversification'
+
 
 tags: []
 categories: []

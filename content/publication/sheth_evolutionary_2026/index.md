@@ -1,9 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is photosynthetic capacity associated with diversification of C3 plants?"
+title: "Evolutionary responses to historic drought across the range of scarlet monkeyflower"
 authors: 
-  - Christopher David Muir
+  - Seema Nayan Sheth
+  - Lucas J. Albano
+  - Charles Blanchard
+  - Emily J. Cook
+  - Rosalinda Diaz
+  - Xitlaly Gomez-Vega
+  - dwang329
+  - admin
+  - authors 20, 25 of 25
 date: 2026-01-01
 
 # Schedule page publish date (NOT publication's date).
@@ -15,15 +23,16 @@ publishDate: 2025-12-11T10:32:34
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecology Letters*"
+publication: "*The American Naturalist*"
 # publication_short: ""
 
 abstract: ""
 
 links:
 - name: Preprint
-  url: 'https://doi.org/10.22541/au.176463134.40258199/v1'
-url_code: 'https://github.com/cdmuir/photosynthesis-diversification'
+  url: 'https://doi.org/10.1101/2025.05.20.655098'
+url_pdf: 'https://doi.org/10.1086/738434'
+url_dataset: 'https://doi.org/10.5061/dryad.18931zd7g'
 
 tags: []
 categories: []
