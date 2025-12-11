@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Range-wide responses to an extreme heat event in *{Mimulus* cardinalis}"
+title: "Range-wide responses to an extreme heat event in *Mimulus cardinalis*"
 authors: 
   - Lucas J. Albano
   - Robin A. Bingham
