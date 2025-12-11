@@ -1,18 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Evolutionary responses to historic drought across the range of scarlet monkeyflower"
+title: "Revisiting the relationship between stomatal size and speed across species – a meta-analysis"
 authors: 
-  - Seema Nayan Sheth
-  - Lucas J. Albano
-  - Charles Blanchard
-  - Emily J. Cook
-  - Rosalinda Diaz
-  - Xitlaly Gomez-Vega
-  - dwang329
+  - Nik Woning
+  - Yazen Al-Salman
+  - Elias Kaiser
+  - Sarah R. Berman
+  - Oliver Brendel
+  - Francisco Javier Cano
   - admin
-  - authors 20, 25 of 25
-date: 2026-01-01
+  - author 23 of 32
+date: 2025-11-01
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-12-11T12:39:50
@@ -23,16 +22,13 @@ publishDate: 2025-12-11T12:39:50
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The American Naturalist*"
+publication: "*New Phytologist*"
 # publication_short: ""
 
 abstract: ""
 
 links:
-- name: Preprint
-  url: 'https://doi.org/10.1101/2025.05.20.655098'
-url_pdf: 'https://doi.org/10.1086/738434'
-url_dataset: 'https://doi.org/10.5061/dryad.18931zd7g'
+
 
 tags: []
 categories: []
