@@ -17,7 +17,7 @@ authors:
 date: 2025-12-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-11T08:48:33
+publishDate: 2025-12-11T09:37:31
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types: ["article-journal"]
 publication: "*New Phytologist*"
 # publication_short: ""
 
-abstract: "A"
+abstract: "*blah*"
 
 links:
 - name: Preprint
