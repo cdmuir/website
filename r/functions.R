@@ -122,6 +122,9 @@ convert_title = function(text) {
   out <- str_replace_all(out,
                          "\\{([^}]*)\\}",
                          "\\1")
+
+  # 6. \% → %
+  out <- str_replace_all(out, "\\\\%", "%")
   
   return(out)
 }
@@ -161,6 +164,9 @@ convert_abstract = function(text) {
   # 4. Remove inline math delimiters \( \), $...$, if present
   out <- str_replace_all(out, "\\$", "")          # remove $
   out <- str_replace_all(out, "\\\\\\(|\\\\\\)", "") # remove \( \)
+  
+  # 5. \% → %
+  out <- str_replace_all(out, "\\\\%", "%")
   
   return(out)
 }
