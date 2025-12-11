@@ -13,7 +13,7 @@ authors:
 date: 2025-10-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-11T10:16:41
+publishDate: 2025-12-11T10:21:29
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,39 +24,7 @@ publication_types: ["article-journal"]
 publication: "*American Journal of Botany*"
 # publication_short: ""
 
-abstract: "Abstract
-          
-            Premise
-            Extreme events are an understudied aspect of ongoing anthropogenic climate change that could play a disproportionate role in the threat that rapid environmental shifts pose to natural populations.
-          
-          
-            Methods
-            
-              We used a short-term heatwave treatment in controlled growth chamber environments to study evolutionary responses in
-              Mimulus cardinalis
-              populations to a recent repeated extreme heat event. Individuals from before (ancestors) and after (descendants) this extreme heat event were resurrected from seeds harvested from six populations across the range of
-              M. cardinalis
-              , and their physiological, performance, and functional responses (stomatal conductance, leaf temperature difference, photosystem II efficiency, relative growth rate, specific leaf area, and leaf dry matter content) to the heatwave treatment were assessed.
-            
-          
-          
-            Key Results
-            
-              Our results allow for two main conclusions: 1) plants responded favorably to the heatwave treatment in terms of their overall performance and the magnitude of response was generally greatest among trailing-edge populations, and 2) despite some evidence of divergent evolutionary responses among regions to the recent natural extreme heat event, we did not find adaptive evolution that affected how
-              M. cardinalis
-              populations responded to the heatwave treatment.
-            
-          
-          
-            Conclusions
-            
-              These results demonstrate that many
-              M. cardinalis
-              populations may be residing in natural environments that are below their optimum average temperature, indicating that
-              M. cardinalis
-              populations could exhibit resiliency to future warming. However, limited evolutionary responses in
-              M. cardinalis
-              to the recent extreme heatwave could still indicate that there is potential for future vulnerability to extreme climate events of increased intensity, frequency, and duration in the future."
+abstract: "Extreme events are an understudied aspect of ongoing anthropogenic climate change that could play a disproportionate role in the threat that rapid environmental shifts pose to natural populations. We used a short-term heatwave treatment in controlled growth chamber environments to study evolutionary responses in *Mimulus cardinalis* populations to a recent repeated extreme heat event. Individuals from before (ancestors) and after (descendants) this extreme heat event were resurrected from seeds harvested from six populations across the range of *M. cardinalis*, and their physiological, performance, and functional responses (stomatal conductance, leaf temperature difference, photosystem II efficiency, relative growth rate, specific leaf area, and leaf dry matter content) to the heatwave treatment were assessed. Our results allow for two main conclusions: 1) plants responded favorably to the heatwave treatment in terms of their overall performance and the magnitude of response was generally greatest among trailing-edge populations, and 2) despite some evidence of divergent evolutionary responses among regions to the recent natural extreme heat event, we did not find adaptive evolution that affected how *M. cardinalis* populations responded to the heatwave treatment. These results demonstrate that many *M. cardinalis* populations may be residing in natural environments that are below their optimum average temperature, indicating that *M. cardinalis* populations could exhibit resiliency to future warming. However, limited evolutionary responses in *M. cardinalis* to the recent extreme heatwave could still indicate that there is potential for future vulnerability to extreme climate events of increased intensity, frequency, and duration in the future."
 
 links:
 - name: Preprint
