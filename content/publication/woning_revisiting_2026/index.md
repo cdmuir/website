@@ -11,10 +11,10 @@ authors:
   - Francisco Javier Cano
   - admin
   - author 23 of 32
-date: 2025-11-01
+date: 2026-01-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-11T12:39:50
+publishDate: 2026-01-01T18:57:26
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication: "*New Phytologist*"
 abstract: ""
 
 links:
-
+url_pdf: 'https://doi.org/10.1111/nph.70842'
 
 tags: []
 categories: []

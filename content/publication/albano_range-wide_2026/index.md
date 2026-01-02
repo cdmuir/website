@@ -10,10 +10,10 @@ authors:
   - Cristina Payst
   - admin
   - Seema Nayan Sheth
-date: 2025-10-01
+date: 2026-01-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-11T12:39:50
+publishDate: 2026-01-01T18:57:26
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,6 +29,7 @@ abstract: "Extreme events are an understudied aspect of ongoing anthropogenic cl
 links:
 - name: Preprint
   url: 'https://doi.org/10.1101/2025.05.01.651703'
+url_pdf: 'https://doi.org/10.1002/ajb2.70145'
 
 tags: []
 categories: []
