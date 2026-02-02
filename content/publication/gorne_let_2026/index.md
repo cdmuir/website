@@ -23,7 +23,7 @@ publication: "*Oikos*"
 abstract: ""
 
 links:
-url_pdf: '10.1002/oik.11803'
+url_pdf: 'https://doi.org/10.1002/oik.11803'
 url_dataset: 'https://ri.conicet.gov.ar/ http://hdl.handle.net/11336/278680'
 
 tags: []
