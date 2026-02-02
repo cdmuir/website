@@ -6,10 +6,10 @@ authors:
   - Lucas Gorné
   - admin
   - A Fajardo
-date: 2026-01-01
+date: 2026-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-01-21T16:12:53
+publishDate: 2026-02-02T09:08:50
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +23,8 @@ publication: "*Oikos*"
 abstract: ""
 
 links:
-
+url_pdf: '10.1002/oik.11803'
+url_dataset: 'https://ri.conicet.gov.ar/ http://hdl.handle.net/11336/278680'
 
 tags: []
 categories: []

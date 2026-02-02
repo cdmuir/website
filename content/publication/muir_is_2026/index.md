@@ -7,7 +7,7 @@ authors:
 date: 2026-01-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-01-21T16:12:53
+publishDate: 2026-02-02T09:08:50
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,6 +23,7 @@ abstract: ""
 links:
 - name: Preprint
   url: 'https://doi.org/10.22541/au.176463134.40258199/v1'
+url_pdf: 'https://doi.org/10.1111/ele.70331'
 url_code: 'https://github.com/cdmuir/photosynthesis-diversification'
 
 tags: []
