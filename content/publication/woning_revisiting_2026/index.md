@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Revisiting the relationship between stomatal size and speed across species – a meta-analysis"
+title: "Revisiting the relationship between stomatal size and speed across species – a meta‐analysis"
 authors: 
   - Nik Woning
-  - Yazen Al-Salman
+  - Yazen Al‐Salman
   - Elias Kaiser
   - Sarah R. Berman
   - Oliver Brendel
   - Francisco Javier Cano
   - admin
   - author 23 of 32
-date: 2026-01-01
+date: 2026-03-01
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-02-02T09:08:50
