@@ -4,7 +4,7 @@
 title: "Is photosynthetic capacity associated with diversification of C3 plants?"
 authors: 
   - admin
-date: 2026-01-01
+date: 2026-02-01
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-02-02T09:08:50
