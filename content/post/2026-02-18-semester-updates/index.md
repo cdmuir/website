@@ -16,4 +16,4 @@ tags:
 summary: "Lab updates from Spring 2026"
 ---
 
-The start of the spring semester has been eventful, with [Joanna Pagedas](/author/jpagedas) receiving a summer internship through the [NIH](https://www.nih.gov) and [Ariella](/author/arthompson26) and [Eddie](/author/ebarragan) applying to the [Graduate Student Research Award through the Botanical Society of America](https://botany.org/home/awards/awards-for-students/bsagraduatestudentresearchawards.html). Congrats, Joanna!
+The start of the spring semester has been eventful, with [Joanna Pagedas](/author/joanna-pagedas) receiving a summer internship through the [NIH](https://www.nih.gov) and [Ariella](/author/ariella-thompson) and [Eddie](/author/eduardo-barragan) applying to the [Graduate Student Research Award through the Botanical Society of America](https://botany.org/home/awards/awards-for-students/bsagraduatestudentresearchawards.html). Congrats, Joanna!
