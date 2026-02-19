@@ -43,7 +43,8 @@ walk(seq_len(length(pubs)), \(.entry) {
     publish_date = format_ISO8601(Sys.time(), usetz = FALSE),
     publication = journal_from_entry(entry),
     abstract = entry$abstract |>
-      str_replace_all("\\\\%", "%"),
+      str_replace_all("\\\\%", "%") |>
+      paste0(""),
     url = url_from_entry(entry, pub_urls, .pub_id),
     featured = featured_from_entry(entry, pub_urls, .pub_id),
     caption = pub_urls$caption[pub_urls$pub_id == .pub_id]
