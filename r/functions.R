@@ -84,6 +84,93 @@ featured_from_entry = function(entry, pub_urls, .pub_id) {
   
 }
 
+convert_title = function(text) {
+  
+  out <- text
+  
+  # 1. \textit{foo} → foo
+  out <- str_replace_all(out,
+                         "\\\\textit\\{([^}]*)\\}",
+                         "\\1")
+  
+  # 2. \textbf{foo} → foo
+  out <- str_replace_all(out,
+                         "\\\\textbf\\{([^}]*)\\}",
+                         "\\1")
+  
+  # 3. Remove subscripts of the form x_{y} or x_{\textrm{y}}
+  # 3a. Handle \textrm{y}
+  out <- str_replace_all(out,
+                         "_\\{\\\\textrm\\{([^}]*)\\}\\}",
+                         "\\1")
+  
+  # 3b. Handle plain x_{y}
+  out <- str_replace_all(out,
+                         "_\\{([^}]*)\\}",
+                         "\\1")
+  
+  # 3c. Handle LaTeX x_y (simple one-character or alphanumeric)
+  out <- str_replace_all(out,
+                         "_([A-Za-z0-9]+)",
+                         "\\1")
+  
+  # 4. Remove inline math delimiters \( \), $...$, if present
+  out <- str_replace_all(out, "\\$", "")          # remove $
+  out <- str_replace_all(out, "\\\\\\(|\\\\\\)", "") # remove \( \)
+
+  # 5. Remove words protected by {}
+  out <- str_replace_all(out,
+                         "\\{([^}]*)\\}",
+                         "\\1")
+
+  # 6. \% → %
+  out <- str_replace_all(out, "\\\\%", "%")
+  
+  return(out)
+}
+
+
+convert_abstract = function(text) {
+  
+  out <- text
+  
+  # 1. \textit{foo} → *foo*
+  out <- str_replace_all(out,
+                         "\\\\textit\\{([^}]*)\\}",
+                         "*\\1*")
+  
+  # 2. \textbf{foo} → **foo**
+  out <- str_replace_all(out,
+                         "\\\\textbf\\{([^}]*)\\}",
+                         "**\\1**")
+  
+  # 3. Subscripts of the form x_{y} or x_{\textrm{y}}
+  #    → x<sub>y</sub>
+  # 3a. Handle \textrm{y}
+  out <- str_replace_all(out,
+                         "_\\{\\\\textrm\\{([^}]*)\\}\\}",
+                         "<sub>\\1</sub>")
+  
+  # 3b. Handle plain x_{y}
+  out <- str_replace_all(out,
+                         "_\\{([^}]*)\\}",
+                         "<sub>\\1</sub>")
+  
+  # 3c. Handle LaTeX x_y (simple one-character or alphanumeric)
+  out <- str_replace_all(out,
+                         "_([A-Za-z0-9]+)",
+                         "<sub>\\1</sub>")
+  
+  # 4. Remove inline math delimiters \( \), $...$, if present
+  out <- str_replace_all(out, "\\$", "")          # remove $
+  out <- str_replace_all(out, "\\\\\\(|\\\\\\)", "") # remove \( \)
+  
+  # 5. \% → %
+  out <- str_replace_all(out, "\\\\%", "%")
+  
+  return(out)
+}
+
 # People ----
 
 make_author = function(.df, .path, .picture_path) {

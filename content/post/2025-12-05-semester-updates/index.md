@@ -6,7 +6,7 @@ lastmod: 2025-12-05T13:58:00
 draft: false
 
 authors:
-  - arthompson26@wisc.edu
+  - arthompson26
 
 math: true
 

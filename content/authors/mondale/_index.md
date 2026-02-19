@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Genevieve Macnair
+title: Keira Mondale
 
 # Username (this should match the folder name)
 authors:
-- gmacnair
+- mondale
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher
+role: BIOL 152 Project
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 
 education:
   courses:
-  - course: BS in Botany
+  - course: BS in Undecuded
     institution: University of Wisconsin-Madison
     year: in progress
 
@@ -31,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:gmacnair@wisc.edu
+  link: mailto:mondale@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Undergrads
 ---
 
 

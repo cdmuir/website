@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is photosynthetic capacity associated with diversification of C$_{\textrm3}$ plants?"
+title: "Is photosynthetic capacity associated with diversification of C3 plants?"
 authors: 
-  - Christopher David Muir
-date: 2026-01-01
+  - admin
+date: 2026-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:50
+publishDate: 2026-02-02T09:08:50
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,6 +23,7 @@ abstract: ""
 links:
 - name: Preprint
   url: 'https://doi.org/10.22541/au.176463134.40258199/v1'
+url_pdf: 'https://doi.org/10.1111/ele.70331'
 url_code: 'https://github.com/cdmuir/photosynthesis-diversification'
 
 tags: []

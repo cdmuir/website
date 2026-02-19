@@ -24,26 +24,35 @@ mentees = read_sheet(
   select(id, author)
 
 assert_set_equal(names(pubs), pub_urls$pub_id)
+# which(!names(pubs) %in% pub_urls$pub_id)
 
-walk(seq_len(length(pubs)), \(.entry) {
+walk(seq_along(pubs), \(.entry) {
   
   .pub_id = names(pubs)[.entry]
   entry = pubs[[.entry]]
   path = str_c("content/publication/", .pub_id)
-  if (!dir.exists(path)) {
+  if (dir.exists(path)) {
+
+    # Keep existing publish_date
+    publish_date = read_lines(str_c(path, "/index.md")) |>
+      str_extract("publishDate: .*") |>
+      str_remove("publishDate: ") |>
+      na.omit() |>
+      ymd_hms()
+    assert_posixct(publish_date, len = 1L, any.missing = FALSE)
+  } else {
     dir.create(path, recursive = TRUE)
+    publish_date = Sys.time()
   }
   
   dat = tibble(
-    title = entry$title |>
-      str_replace_all("\\{(\\w+)\\}", "\\1") |>
-      str_replace_all("\\\\textit\\{([^}]*)\\}", "\\1"),
+    title = entry$title |> convert_title(),
     authors = authors_from_entry(entry, mentees),
     xdate = ymd_hms(paste0(entry$year, "-", entry$month, "-01 00:00:00")),
-    publish_date = format_ISO8601(Sys.time(), usetz = FALSE),
+    publish_date = format_ISO8601(publish_date, usetz = FALSE),
     publication = journal_from_entry(entry),
-    abstract = entry$abstract |>
-      str_replace_all("\\\\%", "%") |>
+    abstract = entry$abstract |> 
+      convert_abstract() |>
       paste0(""),
     url = url_from_entry(entry, pub_urls, .pub_id),
     featured = featured_from_entry(entry, pub_urls, .pub_id),

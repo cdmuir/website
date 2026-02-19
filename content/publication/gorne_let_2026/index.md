@@ -4,12 +4,12 @@
 title: "Let the concept of trait be functional? Assumptions and inconsistencies in plant functional ecology"
 authors: 
   - Lucas Gorné
-  - Christopher D Muir
+  - admin
   - A Fajardo
-date: 2026-01-01
+date: 2026-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-12-10T22:23:50
+publishDate: 2026-02-02T09:08:50
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +23,8 @@ publication: "*Oikos*"
 abstract: ""
 
 links:
-
+url_pdf: 'https://doi.org/10.1002/oik.11803'
+url_dataset: 'https://ri.conicet.gov.ar/ http://hdl.handle.net/11336/278680'
 
 tags: []
 categories: []
