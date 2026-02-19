@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Rangewide responses to an extreme heat event in Mimulus cardinalis"
+title: "Rangewide responses of Mimulus cardinalis to an extreme heat event"
 authors: 
   - Lucas J. Albano
   - Robin A. Bingham
@@ -10,7 +10,7 @@ authors:
   - Cristina Payst
   - admin
   - Seema Nayan Sheth
-date: 2026-01-01
+date: 2026-02-01
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-02-02T09:08:50
@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 publication: "*American Journal of Botany*"
 # publication_short: ""
 
-abstract: "Extreme events are an understudied aspect of ongoing anthropogenic climate change that could play a disproportionate role in the threat that rapid environmental shifts pose to natural populations. We used a short-term heatwave treatment in controlled growth chamber environments to study evolutionary responses in *Mimulus cardinalis* populations to a recent repeated extreme heat event. Individuals from before (ancestors) and after (descendants) this extreme heat event were resurrected from seeds harvested from six populations across the range of *M. cardinalis*, and their physiological, performance, and functional responses (stomatal conductance, leaf temperature difference, photosystem II efficiency, relative growth rate, specific leaf area, and leaf dry matter content) to the heatwave treatment were assessed. Our results allow for two main conclusions: 1) plants responded favorably to the heatwave treatment in terms of their overall performance and the magnitude of response was generally greatest among trailing-edge populations, and 2) despite some evidence of divergent evolutionary responses among regions to the recent natural extreme heat event, we did not find adaptive evolution that affected how *M. cardinalis* populations responded to the heatwave treatment. These results demonstrate that many *M. cardinalis* populations may be residing in natural environments that are below their optimum average temperature, indicating that *M. cardinalis* populations could exhibit resiliency to future warming. However, limited evolutionary responses in *M. cardinalis* to the recent extreme heatwave could still indicate that there is potential for future vulnerability to extreme climate events of increased intensity, frequency, and duration in the future."
+abstract: "Extreme events are an understudied aspect of ongoing anthropogenic climate change that could play a disproportionate role in the threat that rapid environmental shifts pose to natural populations. We exposed plants originating from seeds that were harvested before (ancestors) and after (descendants) multiple extreme heat events from six populations across the range of *Mimulus cardinalis* (Phyrmaceae) to a short‐term heat‐wave treatment in controlled growth chamber environments. We assessed physiological, performance, and functional responses (stomatal conductance, leaf temperature deficit, photosystem II efficiency, relative growth rate, specific leaf area, and leaf dry matter content) to the heat‐wave treatment, along with evolutionary responses (differences between ancestors and descendants) of *M. cardinalis* populations to the recent natural extreme heat event. Plants in the heat‐wave treatment increased their overall performance, and the magnitude of increase was generally greatest among trailing‐edge populations. Despite limited overall trait differences between ancestors and descendants, there was some evidence of divergent evolutionary responses among regions to the natural extreme heat event. However, we did not find evidence of adaptive evolution that affected how *M. cardinalis* populations responded to the heat‐wave treatment. These results demonstrate that many *M. cardinalis* populations may reside in environments that are below their optimum average temperature, revealing potential resiliency to future warming. However, limited evolutionary responses in *M. cardinalis* to the recent extreme heat wave could still indicate potential for future vulnerability to extreme climate events of increased intensity, frequency, and duration."
 
 links:
 - name: Preprint
