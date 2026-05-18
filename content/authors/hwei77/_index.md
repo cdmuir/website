@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Ava Jeffery
+title: Elsa Wei
 
 # Username (this should match the folder name)
 authors:
-- amjeffery
+- hwei77
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Thesis Student
+role: Field Technician
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,15 @@ education:
   courses:
   - course: BS in Botany
     institution: University of Wisconsin-Madison
-    year: 2025
+    year: 2026
+
+  - course: BS in Environmental Science
+    institution: University of Wisconsin-Madison
+    year: 2026
+
+  - course: BS in Psychology
+    institution: University of Wisconsin-Madison
+    year: 2026
 
 
 # Social/Academic Networking
@@ -31,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:amjeffery@wisc.edu
+  link: mailto:hwei77@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +47,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Technicians
 ---
 
 

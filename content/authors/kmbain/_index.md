@@ -21,7 +21,7 @@ education:
   courses:
   - course: BS in Environmental Science
     institution: University of Wisconsin-Madison
-    year: in progress
+    year: 2026
 
 
 # Social/Academic Networking

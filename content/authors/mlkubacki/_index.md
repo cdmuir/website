@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Ava Jeffery
+title: Kubacki Marnie
 
 # Username (this should match the folder name)
 authors:
-- amjeffery
+- mlkubacki
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Thesis Student
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +19,9 @@ organizations:
 
 education:
   courses:
-  - course: BS in Botany
+  - course: BS in Biochemistry
     institution: University of Wisconsin-Madison
-    year: 2025
+    year: in progress
 
 
 # Social/Academic Networking
@@ -31,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:amjeffery@wisc.edu
+  link: mailto:mlkubacki@wisc.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Undergrads
 ---
 
 
