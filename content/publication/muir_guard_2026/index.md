@@ -3,7 +3,7 @@
 
 title: "Guard cell size and pore aperture influence stomatal closure kinetics"
 authors: 
-  - Christopher David Muir
+  - admin
   - weishen
 date: 2026-05-01
 
