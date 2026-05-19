@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is photosynthetic capacity associated with diversification of C3 plants?"
+title: "Is photosynthetic capacity associated with diversification of C~3~ plants?"
 authors: 
   - admin
 date: 2026-02-01
