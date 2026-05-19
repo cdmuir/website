@@ -126,6 +126,17 @@ convert_title = function(text) {
   # 6. \% → %
   out <- str_replace_all(out, "\\\\%", "%")
   
+  # 7. LaTeX double quotes: ``...'' → "..."
+  out <- str_replace_all(out, "``([^']*?)''", "\u201c\\1\u201d")
+  
+  # 8. LaTeX single quotes: `...' → '...'
+  out <- str_replace_all(out, "`([^']*?)'", "\u2018\\1\u2019")
+  
+  # 9. Any remaining `` or '' or lone `
+  out <- str_replace_all(out, "``", "\u201c")
+  out <- str_replace_all(out, "''", "\u201d")
+  out <- str_replace_all(out, "`", "\u2018")
+  
   return(out)
 }
 
@@ -167,6 +178,22 @@ convert_abstract = function(text) {
   
   # 5. \% → %
   out <- str_replace_all(out, "\\\\%", "%")
+  
+  # 6. Remove words protected by {}
+  out <- str_replace_all(out,
+                         "\\{([^}]*)\\}",
+                         "\\1")
+
+  # 7. LaTeX double quotes: ``...'' → "..."
+  out <- str_replace_all(out, "``([^']*?)''", "\u201c\\1\u201d")
+  
+  # 8. LaTeX single quotes: `...' → '...'
+  out <- str_replace_all(out, "`([^']*?)'", "\u2018\\1\u2019")
+  
+  # 9. Any remaining `` or '' or lone `
+  out <- str_replace_all(out, "``", "\u201c")
+  out <- str_replace_all(out, "''", "\u201d")
+  out <- str_replace_all(out, "`", "\u2018")
   
   return(out)
 }

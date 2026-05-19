@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Effects of {Genetic Perturbation} on {Seasonal Life History Plasticity}"
+title: "Effects of Genetic Perturbation on Seasonal Life History Plasticity"
 authors: 
   - Amity M. Wilczek
   - Judith L. Roe

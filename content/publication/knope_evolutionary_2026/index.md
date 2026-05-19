@@ -1,13 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is photosynthetic capacity associated with diversification of C3 plants?"
+title: "Evolutionary Reversibility and the Island Syndrome: Breaking the One-Way Street of Dispersal Loss"
 authors: 
-  - admin
+  - Matthew L Knope
+  - Luke C Campillo
+  - Kasey E Barton
+  - Ashlyn Bazzel
+  - Brannan R Cliver
+  - Daniel S Jones
+  - et al.
 date: 2026-02-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-02-02T09:08:50
+publishDate: 2026-05-18T18:34:58
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,16 +21,13 @@ publishDate: 2026-02-02T09:08:50
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecology Letters*"
+publication: "*Preprint*"
 # publication_short: ""
 
 abstract: ""
 
 links:
-- name: Preprint
-  url: 'https://doi.org/10.22541/au.176463134.40258199/v1'
-url_pdf: 'https://doi.org/10.1111/ele.70331'
-url_code: 'https://github.com/cdmuir/photosynthesis-diversification'
+url_code: 'https://github.com/luke-campillo/BidensPGLS'
 
 tags: []
 categories: []
