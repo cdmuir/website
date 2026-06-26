@@ -88,6 +88,35 @@ convert_title = function(text) {
   
   out <- text
   
+  # 0. LaTeX diacritic commands → Unicode characters
+  # Macron: \={x} or \=x
+  macron_map <- c(a="ā",A="Ā",e="ē",E="Ē",i="ī",I="Ī",o="ō",O="Ō",u="ū",U="Ū")
+  for (ltr in names(macron_map)) {
+    out <- str_replace_all(out, paste0("\\\\=\\{", ltr, "\\}"), macron_map[ltr])
+    out <- str_replace_all(out, paste0("\\\\=", ltr), macron_map[ltr])
+  }
+  # Acute: \'{x} or \'x
+  acute_map <- c(a="á",A="Á",e="é",E="É",i="í",I="Í",o="ó",O="Ó",u="ú",U="Ú",
+                 y="ý",Y="Ý",c="ć",C="Ć",n="ń",N="Ń",s="ś",S="Ś",z="ź",Z="Ź")
+  for (ltr in names(acute_map)) {
+    out <- str_replace_all(out, paste0("\\\\'\\{", ltr, "\\}"), acute_map[ltr])
+    out <- str_replace_all(out, paste0("\\\\'", ltr), acute_map[ltr])
+  }
+  # Grave: \`{x} or \`x
+  grave_map <- c(a="à",A="À",e="è",E="È",i="ì",I="Ì",o="ò",O="Ò",u="ù",U="Ù")
+  for (ltr in names(grave_map)) {
+    out <- str_replace_all(out, paste0("\\\\`\\{", ltr, "\\}"), grave_map[ltr])
+    out <- str_replace_all(out, paste0("\\\\`", ltr), grave_map[ltr])
+  }
+  # Umlaut/diaeresis: \"{x} or \"x
+  umlaut_map <- c(a="ä",A="Ä",e="ë",E="Ë",i="ï",I="Ï",o="ö",O="Ö",u="ü",U="Ü",y="ÿ")
+  for (ltr in names(umlaut_map)) {
+    out <- str_replace_all(out, paste0('\\\\"\\{', ltr, "\\}"), umlaut_map[ltr])
+    out <- str_replace_all(out, paste0('\\\\"', ltr), umlaut_map[ltr])
+  }
+  # \& → &
+  out <- str_replace_all(out, "\\\\&", "&")
+
   # 1. \textit{foo} → foo
   out <- str_replace_all(out,
                          "\\\\textit\\{([^}]*)\\}",
