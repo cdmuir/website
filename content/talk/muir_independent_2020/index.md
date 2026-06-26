@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Space, place, and pace: three tales from the mouths of plants"
-date: 2025-01-01
+title: "Independent evolution of ab- and adaxial stomatal density enables adaptation"
+date: 2020-01-01
 
 # Schedule page publish date (NOT talk's date).
 publishDate: 2026-06-26T17:17:20
@@ -13,12 +13,12 @@ publishDate: 2026-06-26T17:17:20
 publication_types: ["speech"]
 
 # Name of event and optional event URL.
-event: "University of Wisconsin, Madison, Evolution Seminar Series"
+event: "Botany"
 event_url: ""
 
-location: ""
+location: "Virtual!"
 
-abstract: "Invited seminar at University of Wisconsin, Madison, Evolution Seminar Series."
+abstract: "Contributed talk at Botany, Virtual!."
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -28,4 +28,4 @@ categories: []
 
 ---
 
-Invited seminar at University of Wisconsin, Madison, Evolution Seminar Series.
+Contributed talk at Botany, Virtual!.

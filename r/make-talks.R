@@ -8,9 +8,7 @@ talk_template = read_lines("templates/talk.md")
 invited = read_csv("../cv/data/invited-seminars.csv", show_col_types = FALSE) |>
   mutate(
     talk_type = "invited-seminar",
-    key = paste0("muir_", 
-                 tolower(str_replace_all(str_sub(title, 1, 20), "[^a-z0-9]", "")),
-                 "_", year)
+    key = paste0("muir_", str_extract(tolower(title), "^[a-z]+"), "_", year)
   ) |>
   filter(year >= 2019)
 
@@ -25,9 +23,7 @@ invited_conf = read_csv("../cv/data/invited-conf-presentations.csv", show_col_ty
   mutate(
     talk_type = "invited-conf-presentation",
     pres_type = "talk",
-    key = paste0("muir_",
-                 tolower(str_replace_all(str_sub(title, 1, 20), "[^a-z0-9]", "")),
-                 "_conf_", year),
+    key = paste0("muir_", str_extract(tolower(title), "^[a-z]+"), "_conf_", year),
     venue = conference
   ) |>
   select(key, year, pres_type, title, venue, location, talk_type) |>

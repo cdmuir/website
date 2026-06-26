@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Space, place, and pace: three tales from the mouths of plants"
-date: 2026-01-01
+title: "Adaptation past and present: lessons from stomatal macroevolution and contemporary responses to climate change"
+date: 2023-01-01
 
 # Schedule page publish date (NOT talk's date).
-publishDate: 2026-06-26T17:17:20
+publishDate: 2026-06-26T17:53:45
 
 # Talk type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -13,12 +13,12 @@ publishDate: 2026-06-26T17:17:20
 publication_types: ["speech"]
 
 # Name of event and optional event URL.
-event: "University of Wisconsin, Madison, Biology Colloquium"
+event: "California State University, Chico, Biological Sciences"
 event_url: ""
 
 location: ""
 
-abstract: "Invited seminar at University of Wisconsin, Madison, Biology Colloquium."
+abstract: "Invited seminar at California State University, Chico, Biological Sciences."
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -28,4 +28,4 @@ categories: []
 
 ---
 
-Invited seminar at University of Wisconsin, Madison, Biology Colloquium.
+Invited seminar at California State University, Chico, Biological Sciences.
