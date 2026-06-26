@@ -18,6 +18,8 @@ event_url: ""
 
 location: "{location}"
 
+abstract: "{description}"
+
 # Is this a featured talk? (true/false)
 featured: {featured}
 
@@ -25,3 +27,5 @@ tags: []
 categories: []
 
 ---
+
+{description}

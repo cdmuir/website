@@ -18,6 +18,8 @@ event_url: ""
 
 location: "Cleveland, OH, USA"
 
+abstract: "Contributed talk at Evolution, Cleveland, OH, USA."
+
 # Is this a featured talk? (true/false)
 featured: false
 
@@ -25,3 +27,5 @@ tags: []
 categories: []
 
 ---
+
+Contributed talk at Evolution, Cleveland, OH, USA.

@@ -16,7 +16,9 @@ publication_types: ["speech"]
 event: "University of Wisconsin, Madison, Biology Colloquium"
 event_url: ""
 
-location: "NA"
+location: ""
+
+abstract: "Invited seminar at University of Wisconsin, Madison, Biology Colloquium."
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -25,3 +27,5 @@ tags: []
 categories: []
 
 ---
+
+Invited seminar at University of Wisconsin, Madison, Biology Colloquium.
