@@ -10,7 +10,7 @@ authors:
   - Mariam Moazed
   - Marissa Strebler
   - dwang329
-  - Christopher D Muir
+  -  Christopher D. Muir
   - Lluvia Flores-Renteria
   - Jason P Sexton
   - Seema Nayan Sheth
