@@ -10,9 +10,8 @@ authors:
   - Mariam Moazed
   - Marissa Strebler
   - dwang329
-  -  Christopher D. Muir
+  - admin
   - Lluvia Flores-Renteria
-  - Jason P Sexton
   - Seema Nayan Sheth
   - Jeffrey Diez
 date: 2026-08-01
