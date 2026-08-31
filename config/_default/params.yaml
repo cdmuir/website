@@ -75,6 +75,7 @@ extensions:
   academicons:
     enable: true
 
+# Google Analytics configuration
 services:
   googleAnalytics:
     id: G-XBHWGWQ45K
