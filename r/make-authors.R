@@ -22,7 +22,7 @@ mentees = read_sheet(
 ) |>
   
   # add roles
-  full_join(read_sheet(gid, sheet = "roles", col_types = "cccccDDi"),
+  full_join(read_sheet(gid, sheet = "roles", col_types = "cccccDDil"),
             by = join_by(id)) |>
   filter(order == 1) |>
   mutate(user_group = ifelse(alum, "Alumni", user_group)) |>
@@ -47,7 +47,7 @@ mentees = read_sheet(
   replace_na(list(blurb = ""))
 
 mentees |>
-  filter(id != "cdmuir") |>
+  filter(website) |>
   rowwise() |>
   mutate(index = glue(author_template)) |>
   split( ~ id) |>
