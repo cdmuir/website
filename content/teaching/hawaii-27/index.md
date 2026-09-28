@@ -3,7 +3,7 @@ title: "BOT 575: Plant ecophysiology and adaptive radiation in Hawaiʻi"
 subtitle: "Spring 2027"
 summary: "Field course in January 2027 to Kauaʻi and Hawaiʻi Island"
 date: 2026-09-16
-lastmod: 2026-09-16
+lastmod: 2026-09-28
 draft: false
 
 authors: ["admin"]
@@ -46,9 +46,11 @@ params:
 
 **Info session 1**: Wednesday, Sept 23 @ 4:30 PM in Birge 158 (pizza provided) and on [Zoom](https://uwmadison.zoom.us/j/94760961095?pwd=5HPobEgI30N2OsX1AyEhfCDhJ5R8Cn.1) (you must be signed into your wisc.edu account to join on Zoom).
 
+[*Recording*](https://drive.google.com/file/d/1aj7ia3_BRyC9RDuurp1rJVdFT-M_xBp7/view?usp=sharing)
+
 **Info session 2**: Tuesday, Sept 29 @ 9:00 AM in Birge 158 (coffee and donuts provided) and on [Zoom](https://uwmadison.zoom.us/j/97252382756?pwd=1tWvYbAhyPzOKZ0MQdaDlu3a2h5xPO.1) (you must be signed into your wisc.edu account to join on Zoom).
 
-<!-- **Slides**: I forgot to record the Zoom call, but I have posted the [slides](https://docs.google.com/presentation/d/1Og3k_n9ps-qAFiHf63DyYLJVLZP1El8q/edit?usp=sharing&ouid=117355508240493863034&rtpof=true&sd=true) from the info session, which has most of the information I covered. -->
+[**Slides**:](https://docs.google.com/presentation/d/1YFF3OtqYhEZT23E0q45Ak5CvV7vaZPun/edit?usp=sharing&ouid=117355508240493863034&rtpof=true&sd=true) from the info session, which has most of the information I covered.
 
 ## Interest form
 
