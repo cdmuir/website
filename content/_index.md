@@ -31,6 +31,17 @@ sections:
 
   - block: collection
     content:
+      title: Recent Talks
+      text: ""
+      count: 5
+      filters:
+        folders: [talk]
+    design:
+      view: list
+      columns: '1'
+
+  - block: collection
+    content:
       title: News
       text: ""
       count: 5
