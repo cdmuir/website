@@ -19,9 +19,13 @@ organizations:
 
 education:
   courses:
+  - course: MPH in Environmental Health Sciences
+    institution: University of Michigan
+    year: in progress
+
   - course: BS in Global Health
     institution: University of Wisconsin-Madison
-    year: in progress
+    year: 2025
 
 
 # Social/Academic Networking

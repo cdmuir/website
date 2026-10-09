@@ -18,7 +18,7 @@ degree_template =
 mentees = read_sheet(
   gid,
   sheet = "mentees",
-  col_types = "ccccclc"
+  col_types = "ccccclcc"
 ) |>
   
   # add roles

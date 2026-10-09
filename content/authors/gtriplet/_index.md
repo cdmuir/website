@@ -19,6 +19,10 @@ organizations:
 
 education:
   courses:
+  - course: MS in Botany
+    institution: University of South Carolina
+    year: 2026
+
   - course: BS in Botany
     institution: University of Hawaiʻi
     year: 2023

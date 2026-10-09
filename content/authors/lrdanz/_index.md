@@ -19,6 +19,10 @@ organizations:
 
 education:
   courses:
+  - course: MS in Botany
+    institution: University of Wisconsin-Madison
+    year: in progress
+
   - course: BS in Environmental Science
     institution: University of Wisconsin-Madison
     year: 2026
