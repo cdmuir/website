@@ -16,4 +16,4 @@ tags:
 summary: "Lily Danz is now a Master's Student in the Muir lab!"
 ---
   
-  Lily Danz (/author/lily-danz) started as an undergraduate employee in the Muir lab back in 2023. Now, she is starting as a M.S. student in the Muir lab. Congrats, Lily, and welcome!
+[Lily Danz](/author/lily-danz) started as an undergraduate employee in the Muir lab back in 2023. Now, she is starting as a M.S. student in the Muir lab. Congrats, Lily, and welcome!
