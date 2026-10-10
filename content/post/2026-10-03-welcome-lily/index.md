@@ -1,5 +1,5 @@
 ---
-  title: "Welcome Lily Danz (again)!"
+title: "Welcome Lily Danz (again)!"
 
 date: 2026-10-03T00:00:00
 lastmod: 2026-10-03T13:45:00
