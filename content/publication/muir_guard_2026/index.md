@@ -5,7 +5,7 @@ title: "Guard cell size and initial conductance influence stomatal closure kinet
 authors: 
   - admin
   - weishen
-date: 2026-09-01
+date: 2026-10-01
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-05-18T21:01:45
@@ -19,7 +19,24 @@ publication_types: ["article-journal"]
 publication: "*New Phytologist*"
 # publication_short: ""
 
-abstract: ""
+abstract: "Summary
+            
+              
+                
+                  In fluctuating environments, the kinetics of stomatal opening and closing influence the balance between carbon gain and water loss. Smaller guard cells may respond faster to fluctuating environmental conditions because of their greater surface area for osmolyte flux relative to cell volume. A related hypothesis is that operational stomatal conductance () is often well below its theoretical maximum () because at this stomatal aperture, guard cell volume is poised to change rapidly with small changes in turgor pressure.
+                
+                
+                  
+                    We analyzed 2125 estimates of stomatal closure kinetics in response to an abrupt increase in vapor pressure deficit (VPD) among 29 diverse wild tomato populations in the genus
+                    Solanum
+                    .
+                  
+                
+                
+                  Leaves with small guard cells and a lower initial stomatal conductance () closed faster, but each explained variation in kinetic parameters at different levels of biological organization. Guard cell size had high phylogenetic heritability and varied relatively little within populations, whereas  varied mostly among individuals and between light‐intensity treatments.
+                
+                
+                  Smaller stomata can be speedier, but the current physiological state of the leaf also affects the responsiveness of stomatal conductance to fluctuations. Selection on stomatal speed may influence not only anatomical traits like guard cell size but also physiological controls on ."
 
 links:
 - name: Preprint
