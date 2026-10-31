@@ -18,7 +18,7 @@ pub_urls = read_csv("../cv/data/publication-urls.csv", show_col_types = FALSE) |
 mentees = read_sheet(
   "1vuAQPwkGC8kFNKpVZ0KBE3ZJjXGBR9XIwh1ASQwumjk",
   sheet = "mentees",
-  col_types = "ccccclc"
+  col_types = "ccccclcc"
 ) |> 
   mutate(author = paste(given, last)) |>
   select(id, author)
@@ -70,4 +70,3 @@ walk(seq_along(pubs), \(.entry) {
   write.bib(entry, str_c(path, "/cite.bib"))
 
 })
-
